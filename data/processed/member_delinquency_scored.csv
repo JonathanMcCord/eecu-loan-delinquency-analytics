@@ -1,0 +1,839 @@
+member_id,member_name,city,credit_score,account_status,late_payment_count,missed_payment_count,total_amount_past_due,total_payments,delinquency_rate,risk_score,risk_tier
+MBR-000002,Anna Clark,Euless,668.0,Active,13,4,2306.24,37,35.1,25.5,Moderate Risk
+MBR-000003,Brian Hill,Arlington,731.0,Active,8,3,1483.3400000000001,24,33.3,16.7,Low Risk
+MBR-000004,Sandra Roberts,Dallas,801.0,Active,5,1,1145.87,14,35.7,8.9,Low Risk
+MBR-000005,Elizabeth Hill,Granbury,661.0,Active,15,6,6455.7300000000005,52,28.8,34.4,Moderate Risk
+MBR-000006,John Lee,Burleson,661.0,Active,5,1,844.07,16,31.3,8.2,Low Risk
+MBR-000007,Justin Ramirez,Bedford,806.0,Active,12,2,631.04,43,27.9,18.1,Low Risk
+MBR-000008,Timothy Hill,Haltom City,741.0,Active,11,4,6402.79,35,31.4,25.6,Moderate Risk
+MBR-000009,Dorothy Allen,Haltom City,642.0,Active,24,9,4177.82,62,38.7,50.8,High Risk
+MBR-000010,Michelle Young,Denton,723.0,Active,5,0,0.0,17,29.4,5.3,Low Risk
+MBR-000012,Laura Davis,Mansfield,642.0,Active,22,10,13041.93,76,28.9,55.8,High Risk
+MBR-000013,Kimberly Nelson,Cleburne,699.0,Active,17,4,2139.31,42,40.5,30.6,Moderate Risk
+MBR-000014,Richard Brown,Southlake,526.0,Active,5,1,132.35,11,45.5,9.1,Low Risk
+MBR-000016,Dorothy Robinson,Hurst,635.0,Active,24,5,3505.64,66,36.4,41.5,Moderate Risk
+MBR-000017,Nicholas King,Arlington,598.0,Active,16,6,8202.79,43,37.2,37.6,Moderate Risk
+MBR-000018,Rebecca Nelson,Benbrook,705.0,Active,3,0,0.0,25,12.0,1.2,Low Risk
+MBR-000020,Shirley Smith,Keller,567.0,Active,4,2,1535.83,18,22.2,8.8,Low Risk
+MBR-000021,Dorothy Allen,Burleson,797.0,Active,10,2,1861.92,22,45.5,18.4,Low Risk
+MBR-000024,Kevin Clark,Burleson,566.0,Active,7,1,1698.99,22,31.8,11.2,Low Risk
+MBR-000026,Dorothy Lopez,Burleson,688.0,Active,10,6,4142.12,24,41.7,28.2,Moderate Risk
+MBR-000027,Eric Wright,Grapevine,587.0,Active,10,5,20314.39,26,38.5,37.0,Moderate Risk
+MBR-000028,Stephen Rodriguez,Hurst,710.0,Active,12,2,2067.76,45,26.7,19.0,Low Risk
+MBR-000029,Jeffrey Lewis,Haltom City,631.0,Active,5,0,0.0,19,26.3,5.0,Low Risk
+MBR-000031,Susan Roberts,Mansfield,631.0,Active,10,3,2217.3900000000003,46,21.7,18.4,Low Risk
+MBR-000032,Jeffrey Flores,Hurst,828.0,Active,14,4,1312.03,40,35.0,25.9,Moderate Risk
+MBR-000033,Jeffrey Jones,Mansfield,678.0,Active,10,3,4222.17,35,28.6,20.5,Low Risk
+MBR-000034,Anthony Clark,Benbrook,595.0,Active,5,1,169.09,20,25.0,7.1,Low Risk
+MBR-000035,Nicole Anderson,Mansfield,745.0,Active,12,4,1157.3899999999999,49,24.5,22.4,Low Risk
+MBR-000037,Rebecca Taylor,North Richland Hills,696.0,Active,4,2,1001.16,11,36.4,9.8,Low Risk
+MBR-000039,Susan Nguyen,Keller,573.0,Active,14,4,2835.7,53,26.4,26.1,Moderate Risk
+MBR-000042,Kimberly Lewis,Euless,693.0,Active,11,3,3918.52,42,26.2,21.2,Low Risk
+MBR-000043,Kimberly Scott,Haltom City,670.0,Active,22,7,13570.94,66,33.3,50.2,High Risk
+MBR-000044,Mark Sanchez,Keller,655.0,Active,8,2,721.2,34,23.5,13.0,Low Risk
+MBR-000047,Pamela Jackson,North Richland Hills,643.0,Active,10,2,880.76,45,22.2,15.4,Low Risk
+MBR-000048,Joshua Garcia,Denton,764.0,Active,6,3,2109.48,39,15.4,13.0,Low Risk
+MBR-000049,Richard Carter,Cleburne,707.0,Active,12,2,10000.0,41,29.3,24.8,Low Risk
+MBR-000053,Sharon Green,Dallas,625.0,Active,7,2,899.64,35,20.0,11.6,Low Risk
+MBR-000055,Amy Green,Arlington,762.0,Active,5,2,450.28,13,38.5,10.8,Low Risk
+MBR-000056,Mary Scott,Dallas,754.0,Active,8,2,3073.9,28,28.6,15.2,Low Risk
+MBR-000057,Jacob Thomas,Watauga,612.0,Active,5,3,15000.0,28,17.9,21.0,Low Risk
+MBR-000058,Joshua Nguyen,North Richland Hills,655.0,Active,10,5,3597.59,35,28.6,24.3,Low Risk
+MBR-000059,Sandra Roberts,Arlington,706.0,Active,5,2,184.92,18,27.8,9.5,Low Risk
+MBR-000061,Jonathan Harris,North Richland Hills,641.0,Active,5,2,893.78,16,31.3,10.4,Low Risk
+MBR-000063,Helen Baker,North Richland Hills,591.0,Active,8,1,700.34,33,24.2,10.9,Low Risk
+MBR-000064,Brian Nguyen,Hurst,584.0,Active,10,4,2014.62,41,24.4,20.7,Low Risk
+MBR-000066,Steven Baker,Weatherford,788.0,Active,4,1,1568.96,18,22.2,6.6,Low Risk
+MBR-000067,Anna White,Haltom City,674.0,Active,7,2,2154.31,41,17.1,12.2,Low Risk
+MBR-000069,Susan Baker,North Richland Hills,708.0,Active,10,4,1270.23,36,27.8,20.5,Low Risk
+MBR-000072,Amanda Brown,Burleson,803.0,Active,15,5,2016.73,47,31.9,29.4,Moderate Risk
+MBR-000074,Joseph Nelson,Weatherford,805.0,Active,7,3,3458.67,22,31.8,16.7,Low Risk
+MBR-000075,George Allen,Denton,470.0,Active,15,1,1568.84,41,36.6,21.0,Low Risk
+MBR-000077,Joseph Adams,Watauga,686.0,Active,23,7,10689.14,67,34.3,49.4,Moderate Risk
+MBR-000078,Karen Baker,Dallas,656.0,Active,10,4,1108.52,31,32.3,20.8,Low Risk
+MBR-000079,Edward Thompson,Arlington,687.0,Active,8,2,1347.88,25,32.0,14.3,Low Risk
+MBR-000080,Kimberly Torres,Hurst,520.0,Active,9,0,0.0,26,34.6,10.5,Low Risk
+MBR-000082,Karen Hernandez,Arlington,708.0,Active,12,5,2195.92,39,30.8,25.9,Moderate Risk
+MBR-000083,Emma Young,Keller,798.0,Active,10,2,1094.96,35,28.6,16.1,Low Risk
+MBR-000084,Daniel Rodriguez,Watauga,638.0,Active,5,1,488.86,26,19.2,6.8,Low Risk
+MBR-000086,Ronald Martin,Mansfield,639.0,Active,11,3,2153.3,46,23.9,19.7,Low Risk
+MBR-000088,Michelle Green,Weatherford,706.0,Active,10,3,10528.78,25,40.0,26.0,Moderate Risk
+MBR-000089,Andrew Jones,Dallas,637.0,Active,3,1,80.02,12,25.0,4.7,Low Risk
+MBR-000091,Scott Brown,Southlake,687.0,Active,16,3,15000.0,50,32.0,35.4,Moderate Risk
+MBR-000093,Barbara Adams,Haltom City,623.0,Active,6,1,321.86,18,33.3,9.2,Low Risk
+MBR-000094,Nicholas Roberts,Haltom City,653.0,Active,17,7,5568.25,42,40.5,39.4,Moderate Risk
+MBR-000095,George Baker,Euless,648.0,Active,7,3,1163.6100000000001,28,25.0,14.4,Low Risk
+MBR-000096,Jeffrey Robinson,Bedford,562.0,Active,8,2,6167.92,25,32.0,17.7,Low Risk
+MBR-000097,Eric Davis,Dallas,703.0,Active,13,6,2885.57,35,37.1,30.3,Moderate Risk
+MBR-000100,Jessica Brown,Hurst,661.0,Active,4,1,805.98,13,30.8,7.0,Low Risk
+MBR-000101,James Flores,Mansfield,566.0,Active,12,1,544.46,36,33.3,16.4,Low Risk
+MBR-000103,Cynthia Hall,Granbury,652.0,Active,10,5,4953.14,43,23.3,24.7,Low Risk
+MBR-000104,Jacob Taylor,Cleburne,615.0,Active,6,1,298.47,17,35.3,9.4,Low Risk
+MBR-000107,Elizabeth Nelson,Bedford,830.0,Active,16,10,4649.1,54,29.6,42.9,Moderate Risk
+MBR-000108,Larry Williams,Weatherford,693.0,Active,3,0,0.0,14,21.4,2.1,Low Risk
+MBR-000109,Nancy Young,Bedford,700.0,Active,13,5,7601.77,39,33.3,31.1,Moderate Risk
+MBR-000110,Elizabeth Lewis,Euless,674.0,Active,6,4,20000.0,20,30.0,29.1,Moderate Risk
+MBR-000111,Daniel White,Mansfield,526.0,Active,3,0,0.0,13,23.1,2.3,Low Risk
+MBR-000112,Donna Sanchez,Haltom City,677.0,Active,21,5,10898.64,77,27.3,42.2,Moderate Risk
+MBR-000113,Nancy Roberts,Hurst,684.0,Active,8,1,286.19,22,36.4,11.9,Low Risk
+MBR-000114,Andrew Garcia,Cleburne,850.0,Active,31,4,3088.59,108,28.7,46.5,Moderate Risk
+MBR-000115,Nicole Perez,Arlington,664.0,Active,7,4,10635.9,24,29.2,23.6,Low Risk
+MBR-000117,Brian Sanchez,Grapevine,677.0,Active,25,8,4759.46,62,40.3,50.4,High Risk
+MBR-000118,Christopher Lee,Southlake,586.0,Active,17,5,9190.949999999999,51,33.3,36.9,Moderate Risk
+MBR-000119,Amanda Brown,Keller,771.0,Active,17,5,11311.83,45,37.8,38.9,Moderate Risk
+MBR-000120,Michael Torres,Cleburne,740.0,Active,9,4,10694.04,27,33.3,26.4,Moderate Risk
+MBR-000121,Melissa Perez,Grapevine,743.0,Active,13,4,8945.47,43,30.2,29.6,Moderate Risk
+MBR-000122,Michelle Flores,Granbury,607.0,Active,6,2,787.76,25,24.0,10.8,Low Risk
+MBR-000123,Joseph Clark,Keller,792.0,Active,14,3,954.57,29,48.3,24.9,Low Risk
+MBR-000124,Shirley Green,Bedford,567.0,Active,10,6,2770.04,29,34.5,26.5,Moderate Risk
+MBR-000125,Jacob Mitchell,Weatherford,726.0,Active,3,0,0.0,17,17.6,1.8,Low Risk
+MBR-000127,Kimberly Jackson,Benbrook,600.0,Active,3,0,0.0,13,23.1,2.3,Low Risk
+MBR-000128,Steven Mitchell,Cleburne,634.0,Active,17,5,3867.2400000000002,45,37.8,33.7,Moderate Risk
+MBR-000129,Michael Miller,Southlake,687.0,Active,9,1,209.19,13,69.2,16.3,Low Risk
+MBR-000131,Emily Williams,Keller,555.0,Active,10,1,759.47,43,23.3,13.2,Low Risk
+MBR-000135,Emily White,Mansfield,606.0,Active,11,2,2019.79,38,28.9,18.0,Low Risk
+MBR-000136,Margaret Carter,White Settlement,803.0,Active,8,3,10504.11,31,25.8,22.2,Low Risk
+MBR-000137,Michelle King,Denton,617.0,Active,10,4,3217.0,30,33.3,22.4,Low Risk
+MBR-000139,John Jackson,Granbury,745.0,Active,11,6,3794.36,28,39.3,28.8,Moderate Risk
+MBR-000140,Brian Davis,Watauga,581.0,Active,14,4,6796.78,32,43.8,30.6,Moderate Risk
+MBR-000141,Ryan Thompson,Burleson,698.0,Active,9,2,2897.78,20,45.0,17.9,Low Risk
+MBR-000144,Brian Adams,Haltom City,694.0,Active,15,3,445.74,37,40.5,24.9,Low Risk
+MBR-000145,Linda Scott,Hurst,700.0,Active,21,8,8027.45,55,38.2,47.7,Moderate Risk
+MBR-000147,Jessica Mitchell,Mansfield,581.0,Active,10,3,10377.95,34,29.4,24.9,Low Risk
+MBR-000149,Rebecca Jackson,Cleburne,721.0,Active,3,1,926.95,14,21.4,4.9,Low Risk
+MBR-000150,Lisa Rodriguez,North Richland Hills,,Active,3,3,1345.17,15,20.0,9.4,Low Risk
+MBR-000151,David Rivera,Fort Worth,,Active,8,4,2640.9300000000003,21,38.1,20.1,Low Risk
+MBR-000152,Andrew Johnson,Hurst,707.0,Active,18,6,7222.49,48,37.5,39.3,Moderate Risk
+MBR-000154,Sharon Adams,Benbrook,698.0,Active,13,6,4695.200000000001,37,35.1,31.4,Moderate Risk
+MBR-000155,Anna Torres,Arlington,703.0,Active,17,6,14099.14,73,23.3,41.5,Moderate Risk
+MBR-000156,Deborah Baker,Southlake,622.0,Active,20,5,16490.94,65,30.8,45.3,Moderate Risk
+MBR-000157,Scott Sanchez,Fort Worth,829.0,Active,6,2,565.92,16,37.5,12.0,Low Risk
+MBR-000158,Ashley Rivera,Dallas,717.0,Active,16,3,2170.39,49,32.7,26.5,Moderate Risk
+MBR-000159,Nancy Ramirez,Watauga,584.0,Active,9,3,2061.84,46,19.6,16.9,Low Risk
+MBR-000160,William Campbell,Mansfield,732.0,Active,5,1,1351.06,25,20.0,7.4,Low Risk
+MBR-000161,George Taylor,North Richland Hills,602.0,Active,7,0,0.0,48,14.6,6.2,Low Risk
+MBR-000162,Scott Rodriguez,Southlake,742.0,Active,12,7,2917.84,43,27.9,30.4,Moderate Risk
+MBR-000164,David Clark,Weatherford,614.0,Active,17,8,21155.25,37,45.9,53.0,High Risk
+MBR-000165,Rebecca Wright,Grapevine,757.0,Active,5,2,852.04,25,20.0,9.2,Low Risk
+MBR-000166,Kevin Ramirez,Fort Worth,713.0,Active,8,4,2221.64,39,20.5,18.1,Low Risk
+MBR-000168,Joseph Johnson,Denton,831.0,Active,7,2,1697.82,32,21.9,12.4,Low Risk
+MBR-000170,Nancy White,Cleburne,619.0,Active,11,3,3040.32,38,28.9,20.9,Low Risk
+MBR-000171,Joshua Flores,Dallas,608.0,Active,17,8,11326.359999999999,41,41.5,45.7,Moderate Risk
+MBR-000172,Gary Green,Granbury,,Active,6,3,1182.1200000000001,17,35.3,14.3,Low Risk
+MBR-000174,Lisa Roberts,Benbrook,707.0,Active,6,1,1779.63,29,20.7,9.0,Low Risk
+MBR-000175,Jeffrey Wright,Hurst,702.0,Active,15,4,11575.26,60,25.0,33.3,Moderate Risk
+MBR-000177,Emily Jackson,Burleson,681.0,Active,19,4,2002.42,40,47.5,33.5,Moderate Risk
+MBR-000178,Ashley Carter,North Richland Hills,796.0,Active,10,4,3599.69,27,37.0,23.0,Low Risk
+MBR-000180,Amy Moore,Keller,850.0,Active,6,3,814.4100000000001,25,24.0,12.9,Low Risk
+MBR-000182,Lisa Brown,Keller,611.0,Active,8,1,247.53,24,33.3,11.5,Low Risk
+MBR-000184,Charles Jones,Benbrook,718.0,Active,8,3,5204.46,17,47.1,20.7,Low Risk
+MBR-000186,Patricia Nelson,Cleburne,737.0,Active,9,2,391.66,22,40.9,15.7,Low Risk
+MBR-000187,Scott Jones,Fort Worth,717.0,Active,5,1,5000.0,12,41.7,12.2,Low Risk
+MBR-000188,Dorothy Wilson,Arlington,674.0,Active,3,3,15000.0,13,23.1,19.2,Low Risk
+MBR-000192,Lisa White,Burleson,748.0,Active,4,1,2743.57,26,15.4,6.8,Low Risk
+MBR-000193,John Scott,Hurst,697.0,Active,6,1,1361.9,23,26.1,9.2,Low Risk
+MBR-000194,Jennifer Sanchez,Euless,580.0,Active,6,1,195.84,18,33.3,9.1,Low Risk
+MBR-000195,Emma Young,Watauga,,Active,9,4,1455.82,54,16.7,18.3,Low Risk
+MBR-000197,Edward Hall,Euless,609.0,Active,11,4,3362.98,29,37.9,24.1,Low Risk
+MBR-000198,Kenneth Sanchez,Southlake,692.0,Active,4,3,1089.79,25,16.0,10.0,Low Risk
+MBR-000199,Anthony Lewis,Euless,684.0,Active,7,2,1083.82,19,36.8,13.4,Low Risk
+MBR-000200,Amanda Sanchez,Arlington,588.0,Active,3,0,0.0,8,37.5,3.8,Low Risk
+MBR-000201,Linda Roberts,Weatherford,708.0,Active,7,2,10000.0,30,23.3,18.3,Low Risk
+MBR-000202,Thomas Garcia,Denton,724.0,Active,7,2,824.04,20,35.0,13.1,Low Risk
+MBR-000203,Kimberly Lewis,Arlington,766.0,Active,13,6,3066.04,37,35.1,30.3,Moderate Risk
+MBR-000205,Scott Anderson,Burleson,569.0,Active,3,0,0.0,7,42.9,4.3,Low Risk
+MBR-000206,Linda Carter,Benbrook,604.0,Active,8,2,534.6,19,42.1,14.8,Low Risk
+MBR-000208,Brandon Gonzalez,Southlake,721.0,Active,3,1,5000.0,13,23.1,7.9,Low Risk
+MBR-000210,Amanda Anderson,Granbury,850.0,Active,16,3,1586.8,42,38.1,26.6,Moderate Risk
+MBR-000212,Kevin Lewis,Burleson,770.0,Active,19,4,3308.7599999999998,53,35.8,33.3,Moderate Risk
+MBR-000213,Timothy Thompson,Bedford,756.0,Active,3,2,101.82,16,18.8,6.2,Low Risk
+MBR-000214,Timothy Hernandez,Watauga,732.0,Active,5,4,1508.3600000000001,24,20.8,14.1,Low Risk
+MBR-000215,Matthew Clark,Watauga,654.0,Active,10,4,15319.49,19,52.6,32.8,Moderate Risk
+MBR-000216,Scott Walker,Denton,740.0,Active,15,5,15837.71,50,30.0,38.9,Moderate Risk
+MBR-000217,Nancy White,Grapevine,618.0,Active,18,8,17419.88,51,35.3,50.5,High Risk
+MBR-000218,Anna Clark,Mansfield,661.0,Active,17,3,1988.7800000000002,74,23.0,26.6,Moderate Risk
+MBR-000220,Sharon Gonzalez,Weatherford,686.0,Active,12,4,2823.68,38,31.6,24.3,Low Risk
+MBR-000223,Jacob Moore,Fort Worth,734.0,Active,16,4,3961.96,53,30.2,29.7,Moderate Risk
+MBR-000226,Nicholas Sanchez,Denton,767.0,Active,6,2,3429.24,16,37.5,14.0,Low Risk
+MBR-000227,Barbara Jackson,Bedford,685.0,Active,3,1,567.56,8,37.5,6.3,Low Risk
+MBR-000228,Mary Walker,Granbury,593.0,Active,9,2,1119.22,26,34.6,15.6,Low Risk
+MBR-000229,Joshua Baker,White Settlement,622.0,Active,5,3,1973.0099999999998,19,26.3,12.8,Low Risk
+MBR-000230,Michelle Moore,Keller,734.0,Active,24,9,2582.91,62,38.7,49.7,Moderate Risk
+MBR-000231,Deborah Mitchell,Benbrook,621.0,Active,12,3,4462.32,58,20.7,22.2,Low Risk
+MBR-000234,Timothy King,Hurst,627.0,Active,8,3,1718.71,27,29.6,16.5,Low Risk
+MBR-000235,William Young,Granbury,850.0,Active,5,2,978.58,18,27.8,10.1,Low Risk
+MBR-000236,Sharon Green,Bedford,730.0,Active,12,5,15878.58,66,18.2,34.2,Moderate Risk
+MBR-000237,James Green,Mansfield,517.0,Active,10,4,9622.19,31,32.3,26.8,Moderate Risk
+MBR-000240,Robert Brown,Hurst,748.0,Active,12,5,4972.14,43,27.9,27.6,Moderate Risk
+MBR-000241,Sarah Clark,Haltom City,616.0,Active,12,3,1385.78,42,28.6,20.8,Low Risk
+MBR-000242,Christopher Williams,North Richland Hills,670.0,Active,18,7,3329.48,52,34.6,38.4,Moderate Risk
+MBR-000243,Angela Jones,Burleson,720.0,Active,8,2,2130.01,21,38.1,15.5,Low Risk
+MBR-000244,Joseph Miller,Fort Worth,749.0,Active,11,4,2445.83,36,30.6,22.8,Low Risk
+MBR-000245,Stephanie Robinson,Bedford,583.0,Active,6,0,0.0,27,22.2,5.7,Low Risk
+MBR-000247,Jeffrey Williams,Burleson,642.0,Active,7,3,10366.12,21,33.3,21.7,Low Risk
+MBR-000248,Deborah Martinez,White Settlement,627.0,Active,8,3,3527.79,27,29.6,17.7,Low Risk
+MBR-000249,Mark Scott,Bedford,821.0,Active,18,4,2161.35,40,45.0,32.2,Moderate Risk
+MBR-000250,Susan Sanchez,Arlington,712.0,Active,5,2,1803.54,18,27.8,10.7,Low Risk
+MBR-000251,Ryan Perez,White Settlement,579.0,Active,4,0,0.0,14,28.6,4.0,Low Risk
+MBR-000252,Eric White,Arlington,753.0,Active,18,3,3137.81,40,45.0,30.8,Moderate Risk
+MBR-000253,Carol Miller,Arlington,,Active,8,5,14804.82,27,29.6,29.9,Moderate Risk
+MBR-000254,Sharon Nguyen,Haltom City,762.0,Active,17,6,7159.6,55,30.9,37.4,Moderate Risk
+MBR-000255,Nicole Hall,Burleson,558.0,Active,6,4,3054.6,13,46.2,18.9,Low Risk
+MBR-000256,Stephen Green,Cleburne,641.0,Active,11,4,7898.63,33,33.3,26.8,Moderate Risk
+MBR-000257,Joseph Carter,Watauga,781.0,Active,16,6,4842.18,73,21.9,33.7,Moderate Risk
+MBR-000258,Betty Moore,Keller,623.0,Active,12,4,3748.2799999999997,54,22.2,24.0,Low Risk
+MBR-000259,Mark Mitchell,Watauga,715.0,Active,4,2,590.6,18,22.2,8.1,Low Risk
+MBR-000260,Steven Gonzalez,Euless,741.0,Active,11,6,7181.28,38,28.9,30.2,Moderate Risk
+MBR-000262,Michelle Hill,White Settlement,675.0,Active,14,4,1352.53,39,35.9,26.0,Moderate Risk
+MBR-000263,Anna Wright,Dallas,420.0,Active,10,3,3744.5200000000004,36,27.8,20.1,Low Risk
+MBR-000264,Mary Davis,Euless,598.0,Active,3,3,678.48,7,42.9,11.2,Low Risk
+MBR-000265,Melissa Allen,Euless,659.0,Active,16,4,11455.84,41,39.0,35.8,Moderate Risk
+MBR-000266,Margaret Baker,Denton,580.0,Active,9,5,25000.0,22,40.9,39.3,Moderate Risk
+MBR-000267,Brenda Jones,Mansfield,810.0,Active,5,2,609.06,23,21.7,9.2,Low Risk
+MBR-000268,Justin Williams,Grapevine,565.0,Active,8,4,3818.9800000000005,20,40.0,21.1,Low Risk
+MBR-000269,Mark Rodriguez,Watauga,644.0,Active,5,3,809.97,10,50.0,14.3,Low Risk
+MBR-000270,Stephen Garcia,Cleburne,690.0,Active,7,3,4791.63,27,25.9,17.1,Low Risk
+MBR-000271,Larry Brown,Euless,795.0,Active,6,3,226.68,15,40.0,14.1,Low Risk
+MBR-000272,Andrew Flores,Cleburne,565.0,Active,22,6,4333.8,41,53.7,43.6,Moderate Risk
+MBR-000275,John Scott,Watauga,601.0,Active,24,6,5358.5,84,28.6,44.2,Moderate Risk
+MBR-000276,Ronald White,Fort Worth,716.0,Active,5,2,1390.3999999999999,22,22.7,9.9,Low Risk
+MBR-000277,Amanda Williams,North Richland Hills,695.0,Active,22,7,5898.32,56,39.3,45.4,Moderate Risk
+MBR-000278,Michelle Miller,Burleson,631.0,Active,24,11,5799.62,65,36.9,56.0,High Risk
+MBR-000279,Amanda Thompson,North Richland Hills,685.0,Active,13,4,5090.75,57,22.8,26.2,Moderate Risk
+MBR-000280,Sandra Clark,Denton,649.0,Active,21,7,22620.03,62,33.9,55.4,High Risk
+MBR-000282,Kathleen Hernandez,Hurst,732.0,Active,7,4,3768.5,34,20.6,18.0,Low Risk
+MBR-000284,Barbara Walker,White Settlement,580.0,Active,6,5,3182.9,12,50.0,21.5,Low Risk
+MBR-000285,Emma Mitchell,Denton,850.0,Active,4,2,10000.0,11,36.4,16.1,Low Risk
+MBR-000286,James Torres,Denton,523.0,Active,8,2,5688.64,30,26.7,16.8,Low Risk
+MBR-000287,Brandon Moore,Cleburne,667.0,Active,6,1,245.99,30,20.0,7.8,Low Risk
+MBR-000288,Jessica Mitchell,Euless,727.0,Active,7,4,1852.6,19,36.8,18.3,Low Risk
+MBR-000289,James Garcia,North Richland Hills,702.0,Active,9,5,2559.68,37,24.3,22.0,Low Risk
+MBR-000290,Scott Brown,North Richland Hills,630.0,Active,26,8,10502.74,52,50.0,56.5,High Risk
+MBR-000292,Brian Thompson,Mansfield,640.0,Active,3,1,317.59,7,42.9,6.7,Low Risk
+MBR-000293,Steven Wright,Burleson,632.0,Active,17,8,3758.43,54,31.5,39.4,Moderate Risk
+MBR-000295,Stephanie Baker,Dallas,708.0,Active,3,0,0.0,9,33.3,3.3,Low Risk
+MBR-000296,Donald Mitchell,Burleson,624.0,Active,13,4,818.9,58,22.4,23.1,Low Risk
+MBR-000297,Anna Williams,Grapevine,751.0,Active,18,8,28640.28,49,36.7,58.5,High Risk
+MBR-000298,Kathleen Wright,Haltom City,704.0,Active,8,4,12235.74,29,27.6,25.8,Moderate Risk
+MBR-000300,Nancy Torres,Benbrook,730.0,Active,4,2,785.94,15,26.7,8.7,Low Risk
+MBR-000301,Mary Lopez,North Richland Hills,613.0,Active,8,2,328.18,25,32.0,13.6,Low Risk
+MBR-000302,Jacob Green,Euless,635.0,Active,15,3,595.6800000000001,53,28.3,23.8,Low Risk
+MBR-000303,Jonathan Lopez,Grapevine,739.0,Active,3,1,463.17,12,25.0,5.0,Low Risk
+MBR-000306,Richard Jones,Watauga,689.0,Active,4,1,214.98,19,21.1,5.6,Low Risk
+MBR-000307,Jeffrey Green,Weatherford,782.0,Active,5,2,333.62,18,27.8,9.7,Low Risk
+MBR-000308,Anna Lopez,White Settlement,632.0,Active,6,3,2529.2200000000003,24,25.0,14.2,Low Risk
+MBR-000310,Emily Hill,Fort Worth,663.0,Active,8,1,4058.15,22,36.4,14.5,Low Risk
+MBR-000312,Matthew Lee,Weatherford,767.0,Active,10,3,1369.8600000000001,41,24.4,18.1,Low Risk
+MBR-000313,Rebecca Martin,Grapevine,746.0,Active,13,5,3690.4,30,43.3,29.4,Moderate Risk
+MBR-000314,Steven Harris,Denton,745.0,Active,3,0,0.0,20,15.0,1.5,Low Risk
+MBR-000318,Brian Lewis,Fort Worth,655.0,Active,10,4,2728.06,32,31.3,21.8,Low Risk
+MBR-000320,Helen White,Mansfield,669.0,Active,14,4,3021.07,48,29.2,26.5,Moderate Risk
+MBR-000321,David Williams,Granbury,687.0,Active,3,0,0.0,11,27.3,2.7,Low Risk
+MBR-000323,Melissa Rivera,White Settlement,614.0,Active,3,1,1221.29,14,21.4,5.1,Low Risk
+MBR-000324,Ashley Torres,Granbury,847.0,Active,8,5,3285.03,41,19.5,20.8,Low Risk
+MBR-000325,Stephen Sanchez,Southlake,599.0,Active,6,2,1567.94,20,30.0,11.9,Low Risk
+MBR-000327,Joshua Smith,Mansfield,772.0,Active,8,1,187.19,30,26.7,10.8,Low Risk
+MBR-000329,Pamela Miller,Keller,729.0,Active,22,8,7521.71,85,25.9,47.3,Moderate Risk
+MBR-000331,Scott Torres,Dallas,679.0,Active,17,10,24046.3,53,32.1,57.9,High Risk
+MBR-000333,Pamela Garcia,Hurst,686.0,Active,5,2,265.18,11,45.5,11.4,Low Risk
+MBR-000335,Joseph Martin,North Richland Hills,758.0,Active,3,1,5000.0,18,16.7,7.3,Low Risk
+MBR-000337,Susan Johnson,Bedford,613.0,Active,4,2,744.2,22,18.2,7.8,Low Risk
+MBR-000338,Ashley King,Southlake,654.0,Active,10,3,2766.9700000000003,35,28.6,19.5,Low Risk
+MBR-000339,Steven Harris,Watauga,713.0,Active,12,2,773.68,42,28.6,18.3,Low Risk
+MBR-000341,Shirley Rodriguez,Weatherford,614.0,Active,5,1,5000.0,13,38.5,11.8,Low Risk
+MBR-000342,Edward Clark,Euless,699.0,Active,13,7,13158.48,50,26.0,38.6,Moderate Risk
+MBR-000343,Sandra Anderson,Grapevine,699.0,Active,7,2,1931.44,23,30.4,13.4,Low Risk
+MBR-000344,Mark Williams,Fort Worth,639.0,Active,16,4,15766.1,48,33.3,38.2,Moderate Risk
+MBR-000345,Ryan Thomas,Bedford,642.0,Active,16,4,1586.02,54,29.6,27.9,Moderate Risk
+MBR-000347,Andrew Robinson,Hurst,564.0,Active,4,1,809.88,21,19.0,5.8,Low Risk
+MBR-000348,Anna Rodriguez,Hurst,567.0,Active,17,8,12066.77,44,38.6,45.9,Moderate Risk
+MBR-000350,Karen Hernandez,Granbury,662.0,Active,12,6,2345.04,36,33.3,28.4,Moderate Risk
+MBR-000351,Steven Smith,North Richland Hills,704.0,Active,9,3,3054.24,32,28.1,18.4,Low Risk
+MBR-000352,Stephen Moore,Watauga,798.0,Active,3,1,138.58,9,33.3,5.6,Low Risk
+MBR-000355,Shirley Garcia,White Settlement,678.0,Active,13,5,5735.82,47,27.7,29.3,Moderate Risk
+MBR-000356,Amy Young,White Settlement,599.0,Active,19,7,16645.03,53,35.8,49.0,Moderate Risk
+MBR-000357,Kevin Thompson,Cleburne,678.0,Active,6,1,826.21,24,25.0,8.7,Low Risk
+MBR-000358,Brandon Johnson,Cleburne,656.0,Active,8,1,254.01,19,42.1,12.4,Low Risk
+MBR-000359,Edward Mitchell,Haltom City,705.0,Active,12,8,5752.82,29,41.4,35.9,Moderate Risk
+MBR-000361,Donald White,Keller,721.0,Active,12,5,1922.31,39,30.8,25.7,Moderate Risk
+MBR-000362,Matthew Perez,Haltom City,802.0,Active,12,3,7822.34,30,40.0,26.5,Moderate Risk
+MBR-000363,Eric Davis,Keller,671.0,Active,6,2,1045.82,23,26.1,11.2,Low Risk
+MBR-000364,Anthony Lee,Cleburne,712.0,Active,18,5,13030.95,51,35.3,41.0,Moderate Risk
+MBR-000368,Dorothy White,Granbury,681.0,Active,4,1,487.79,10,40.0,7.7,Low Risk
+MBR-000370,Deborah Jones,Cleburne,618.0,Active,14,3,1965.0100000000002,48,29.2,23.7,Low Risk
+MBR-000371,Gary Davis,White Settlement,681.0,Active,25,12,9035.47,88,28.4,60.7,High Risk
+MBR-000374,James Rivera,Grapevine,756.0,Active,16,5,1566.89,51,31.4,30.2,Moderate Risk
+MBR-000375,Jacob Rodriguez,Watauga,850.0,Active,16,9,4926.27,44,36.4,41.7,Moderate Risk
+MBR-000377,Deborah Thompson,Granbury,749.0,Active,3,0,0.0,12,25.0,2.5,Low Risk
+MBR-000378,Melissa Davis,North Richland Hills,694.0,Active,8,1,872.54,18,44.4,13.1,Low Risk
+MBR-000381,Andrew Young,Weatherford,612.0,Active,9,3,1819.4699999999998,25,36.0,18.4,Low Risk
+MBR-000382,Laura White,Burleson,632.0,Active,13,4,6897.32,32,40.6,29.2,Moderate Risk
+MBR-000383,Edward Roberts,Mansfield,510.0,Active,5,1,2280.96,14,35.7,9.7,Low Risk
+MBR-000385,Amanda Ramirez,Burleson,619.0,Active,3,1,470.91,8,37.5,6.2,Low Risk
+MBR-000386,Nancy Lee,Fort Worth,692.0,Active,6,2,10000.0,16,37.5,18.5,Low Risk
+MBR-000387,Barbara Brown,Cleburne,707.0,Active,7,4,20000.0,20,35.0,30.7,Moderate Risk
+MBR-000388,Joseph Hall,Burleson,830.0,Active,16,4,2776.2799999999997,50,32.0,29.0,Moderate Risk
+MBR-000390,Anna Roberts,Cleburne,633.0,Active,5,2,1190.88,16,31.3,10.6,Low Risk
+MBR-000391,James Williams,Burleson,608.0,Active,11,6,15198.23,43,25.6,35.4,Moderate Risk
+MBR-000392,Anna Anderson,Bedford,719.0,Active,4,1,292.05,20,20.0,5.5,Low Risk
+MBR-000393,Jonathan Perez,Euless,574.0,Active,11,6,6742.0,48,22.9,29.3,Moderate Risk
+MBR-000395,John Perez,Southlake,774.0,Active,8,2,1357.1,22,36.4,14.8,Low Risk
+MBR-000397,David Miller,North Richland Hills,542.0,Active,9,3,10624.02,44,20.5,23.0,Low Risk
+MBR-000398,Sarah Lee,Arlington,788.0,Active,14,4,4451.3,41,34.1,28.0,Moderate Risk
+MBR-000399,Richard Green,Bedford,670.0,Active,9,2,1562.32,43,20.9,14.5,Low Risk
+MBR-000400,Jacob Hall,Cleburne,779.0,Active,6,1,5000.0,16,37.5,12.9,Low Risk
+MBR-000402,Michael Gonzalez,Weatherford,632.0,Active,9,4,3777.3500000000004,35,25.7,20.8,Low Risk
+MBR-000403,Ryan Williams,Arlington,680.0,Active,5,3,2377.56,10,50.0,15.4,Low Risk
+MBR-000406,Ryan Clark,Southlake,729.0,Active,15,3,1188.74,52,28.8,24.3,Low Risk
+MBR-000408,Jennifer Williams,Haltom City,668.0,Active,4,2,10000.0,10,40.0,16.4,Low Risk
+MBR-000410,Melissa Green,Fort Worth,721.0,Active,10,4,4663.0599999999995,34,29.4,23.0,Low Risk
+MBR-000411,William Flores,Arlington,736.0,Active,8,4,3840.01,28,28.6,20.0,Low Risk
+MBR-000412,Anthony Rodriguez,Mansfield,590.0,Active,10,4,5255.34,52,19.2,22.4,Low Risk
+MBR-000413,Melissa Thompson,North Richland Hills,557.0,Active,21,5,11474.12,69,30.4,42.9,Moderate Risk
+MBR-000414,David Gonzalez,Dallas,782.0,Active,16,7,13202.61,42,38.1,43.3,Moderate Risk
+MBR-000415,Emily Clark,Weatherford,706.0,Active,10,1,430.59,32,31.3,13.8,Low Risk
+MBR-000416,Carol Adams,Southlake,620.0,Active,10,4,2055.92,27,37.0,21.9,Low Risk
+MBR-000418,Jennifer Lee,Weatherford,689.0,Active,6,2,835.42,27,22.2,10.6,Low Risk
+MBR-000421,Laura Thompson,Southlake,844.0,Active,10,1,672.66,33,30.3,13.9,Low Risk
+MBR-000422,Barbara Allen,Cleburne,,Active,6,2,509.24,33,18.2,10.0,Low Risk
+MBR-000423,Laura Scott,Cleburne,660.0,Active,5,1,251.09,22,22.7,6.9,Low Risk
+MBR-000424,Barbara Martinez,Keller,757.0,Active,6,2,2183.94,32,18.8,11.2,Low Risk
+MBR-000426,Jacob Davis,Keller,789.0,Active,17,4,5886.72,39,43.6,33.5,Moderate Risk
+MBR-000427,Dorothy Green,Denton,602.0,Active,12,4,12565.76,47,25.5,30.5,Moderate Risk
+MBR-000429,Joshua Moore,Denton,764.0,Active,22,9,4340.0,87,25.3,47.2,Moderate Risk
+MBR-000430,Mark Gonzalez,White Settlement,539.0,Active,6,0,0.0,35,17.1,5.2,Low Risk
+MBR-000431,Jeffrey Hill,Southlake,585.0,Active,4,1,5000.0,12,33.3,10.1,Low Risk
+MBR-000432,Joseph Jones,North Richland Hills,516.0,Active,7,2,1822.66,14,50.0,15.3,Low Risk
+MBR-000436,Jessica Robinson,Haltom City,685.0,Active,4,2,6050.76,22,18.2,11.5,Low Risk
+MBR-000437,Jeffrey Anderson,Hurst,,Active,13,2,2082.16,44,29.5,20.5,Low Risk
+MBR-000439,Stephanie Davis,Hurst,543.0,Active,9,2,1727.44,33,27.3,15.3,Low Risk
+MBR-000440,Jessica Taylor,North Richland Hills,675.0,Active,4,1,739.96,13,30.8,6.9,Low Risk
+MBR-000441,Joshua Flores,Denton,710.0,Active,10,3,10585.05,35,28.6,24.9,Low Risk
+MBR-000442,John Ramirez,Bedford,677.0,Active,12,3,926.29,29,41.4,21.8,Low Risk
+MBR-000444,Brandon Baker,Keller,672.0,Active,12,6,5503.3,37,32.4,30.5,Moderate Risk
+MBR-000445,Amanda Clark,Arlington,575.0,Active,8,3,6139.46,31,25.8,19.2,Low Risk
+MBR-000446,Ryan Nelson,Benbrook,733.0,Active,21,8,3396.1200000000003,58,36.2,44.3,Moderate Risk
+MBR-000447,Anthony Perez,Haltom City,709.0,Active,8,2,1628.0700000000002,26,30.8,14.4,Low Risk
+MBR-000448,Andrew Taylor,Keller,604.0,Active,8,2,3695.88,27,29.6,15.7,Low Risk
+MBR-000451,Cynthia Martinez,Weatherford,674.0,Active,7,3,2560.88,22,31.8,16.1,Low Risk
+MBR-000452,Christopher Taylor,Mansfield,756.0,Active,6,1,455.21,17,35.3,9.5,Low Risk
+MBR-000453,Christopher Moore,Fort Worth,601.0,Active,18,4,6736.16,53,34.0,34.3,Moderate Risk
+MBR-000454,Joshua Jones,Grapevine,720.0,Active,3,2,504.34,8,37.5,8.4,Low Risk
+MBR-000455,Shirley Taylor,Dallas,637.0,Active,17,2,8769.78,48,35.4,30.4,Moderate Risk
+MBR-000456,Edward Taylor,Arlington,616.0,Active,10,2,6211.15,30,33.3,20.2,Low Risk
+MBR-000457,Donna Johnson,White Settlement,671.0,Active,18,7,11046.07,67,26.9,43.1,Moderate Risk
+MBR-000458,Donald Lewis,Fort Worth,597.0,Active,16,6,9326.4,38,42.1,38.9,Moderate Risk
+MBR-000459,Edward Williams,Dallas,635.0,Active,13,7,16683.34,30,43.3,42.7,Moderate Risk
+MBR-000460,David Thompson,White Settlement,584.0,Active,8,3,2950.34,33,24.2,16.8,Low Risk
+MBR-000462,Andrew Gonzalez,Hurst,682.0,Active,13,9,5327.78,28,46.4,39.4,Moderate Risk
+MBR-000467,Scott Rivera,Fort Worth,729.0,Active,11,4,10695.92,39,28.2,28.3,Moderate Risk
+MBR-000469,Andrew Taylor,Burleson,637.0,Active,14,6,4417.68,31,45.2,33.4,Moderate Risk
+MBR-000470,Sandra Lopez,North Richland Hills,633.0,Active,6,1,5000.0,10,60.0,15.2,Low Risk
+MBR-000471,Charles Davis,Dallas,657.0,Active,14,4,2391.76,34,41.2,27.3,Moderate Risk
+MBR-000472,Pamela Lopez,Dallas,495.0,Active,12,7,17768.14,46,26.1,40.6,Moderate Risk
+MBR-000474,Larry Rodriguez,Arlington,789.0,Active,6,2,323.12,12,50.0,13.0,Low Risk
+MBR-000475,Stephanie Garcia,Cleburne,811.0,Active,8,4,3586.2700000000004,30,26.7,19.6,Low Risk
+MBR-000476,Richard White,Cleburne,660.0,Active,14,2,1604.3,44,31.8,21.5,Low Risk
+MBR-000477,Jennifer Allen,Euless,726.0,Active,5,1,889.05,18,27.8,7.9,Low Risk
+MBR-000478,Thomas Baker,Mansfield,704.0,Active,7,0,0.0,37,18.9,6.6,Low Risk
+MBR-000479,Amanda Taylor,Dallas,850.0,Active,9,2,3865.14,34,26.5,16.7,Low Risk
+MBR-000480,Ryan Carter,White Settlement,769.0,Active,16,5,2206.95,35,45.7,32.1,Moderate Risk
+MBR-000481,Mary Hernandez,North Richland Hills,669.0,Active,15,6,10553.27,46,32.6,37.6,Moderate Risk
+MBR-000482,Robert Hall,Fort Worth,603.0,Active,14,2,1206.24,44,31.8,21.2,Low Risk
+MBR-000483,Robert Davis,Weatherford,551.0,Active,3,2,185.38,15,20.0,6.4,Low Risk
+MBR-000484,Sharon Clark,Benbrook,696.0,Active,7,2,297.72,24,29.2,12.1,Low Risk
+MBR-000485,Linda King,Hurst,619.0,Active,6,4,3037.96,12,50.0,19.2,Low Risk
+MBR-000487,Jacob Hernandez,Cleburne,628.0,Active,13,2,2365.96,58,22.4,19.9,Low Risk
+MBR-000488,Anthony Scott,Fort Worth,593.0,Active,13,3,798.8,31,41.9,22.9,Low Risk
+MBR-000490,Ryan Carter,Denton,750.0,Active,7,1,253.6,21,33.3,10.4,Low Risk
+MBR-000491,Nicholas Young,Weatherford,679.0,Active,6,1,1254.55,11,54.5,12.0,Low Risk
+MBR-000493,George Johnson,Weatherford,686.0,Active,4,1,1419.45,22,18.2,6.1,Low Risk
+MBR-000494,Pamela Brown,Haltom City,611.0,Active,9,1,1172.27,31,29.0,12.9,Low Risk
+MBR-000495,Stephanie Lewis,Cleburne,801.0,Active,4,1,354.76,20,20.0,5.6,Low Risk
+MBR-000497,Jason Allen,Arlington,,Active,15,4,2686.92,58,25.9,27.2,Moderate Risk
+MBR-000498,Justin Torres,Watauga,664.0,Active,9,5,1384.99,31,29.0,21.6,Low Risk
+MBR-000499,Eric Nguyen,Grapevine,609.0,Active,7,2,1157.62,26,26.9,12.5,Low Risk
+MBR-000500,Emma Scott,Bedford,569.0,Active,4,1,660.08,12,33.3,7.1,Low Risk
+MBR-000502,Joseph Davis,Benbrook,832.0,Active,3,2,1401.42,18,16.7,6.9,Low Risk
+MBR-000503,Donna Jackson,Granbury,568.0,Active,14,3,6082.11,56,25.0,26.1,Moderate Risk
+MBR-000504,Jacob Campbell,Weatherford,725.0,Active,26,12,19218.85,55,47.3,70.9,High Risk
+MBR-000505,Ronald Perez,Arlington,627.0,Active,10,2,5567.6900000000005,54,18.5,18.3,Low Risk
+MBR-000506,Jessica Adams,Dallas,641.0,Active,6,2,808.68,21,28.6,11.2,Low Risk
+MBR-000507,Anthony Thomas,Euless,632.0,Active,4,1,711.21,15,26.7,6.5,Low Risk
+MBR-000508,Barbara Davis,Watauga,610.0,Active,10,5,10659.49,36,27.8,29.2,Moderate Risk
+MBR-000509,Joshua Harris,Southlake,683.0,Active,9,4,4013.96,32,28.1,21.2,Low Risk
+MBR-000510,Nicholas Harris,Burleson,613.0,Active,12,3,5731.24,35,34.3,24.4,Low Risk
+MBR-000511,Brenda Adams,Keller,701.0,Active,21,6,4927.38,62,33.9,40.9,Moderate Risk
+MBR-000512,Brenda Lewis,Fort Worth,675.0,Active,15,2,1568.33,63,23.8,21.9,Low Risk
+MBR-000513,Margaret Nguyen,Keller,660.0,Active,12,3,5788.41,42,28.6,23.9,Low Risk
+MBR-000514,Kenneth Baker,Burleson,607.0,Active,18,4,2428.92,60,30.0,30.9,Moderate Risk
+MBR-000516,Jessica Thompson,White Settlement,740.0,Active,6,0,0.0,14,42.9,7.8,Low Risk
+MBR-000517,Matthew Garcia,Keller,,Active,3,1,1148.92,16,18.8,4.8,Low Risk
+MBR-000518,Joseph Moore,Haltom City,601.0,Active,31,11,27414.27,92,33.7,79.0,Critical Risk
+MBR-000519,Kimberly Gonzalez,Watauga,687.0,Active,9,3,309.96,31,29.0,16.6,Low Risk
+MBR-000520,Eric Robinson,Grapevine,740.0,Active,5,1,5000.0,21,23.8,10.4,Low Risk
+MBR-000522,Steven Thomas,North Richland Hills,723.0,Active,4,4,5159.59,28,14.3,14.8,Low Risk
+MBR-000523,Jessica Garcia,Arlington,626.0,Active,4,2,2339.6,10,40.0,11.1,Low Risk
+MBR-000524,Michael Jackson,Bedford,725.0,Active,6,0,0.0,25,24.0,5.9,Low Risk
+MBR-000525,Patricia Robinson,Southlake,618.0,Active,8,1,1034.15,15,53.3,14.1,Low Risk
+MBR-000526,Helen Lewis,Mansfield,535.0,Active,10,3,15000.0,32,31.3,28.3,Moderate Risk
+MBR-000527,Jacob Martin,Southlake,549.0,Active,16,4,6920.46,57,28.1,31.5,Moderate Risk
+MBR-000529,Jennifer Young,Fort Worth,700.0,Active,7,1,426.38,38,18.4,9.0,Low Risk
+MBR-000532,Carol Wilson,Euless,547.0,Active,10,7,7312.88,43,23.3,30.7,Moderate Risk
+MBR-000535,Melissa Young,Euless,627.0,Active,12,9,13150.82,38,31.6,42.2,Moderate Risk
+MBR-000536,Mark Gonzalez,Mansfield,683.0,Active,3,2,1518.06,12,25.0,7.8,Low Risk
+MBR-000537,Justin Williams,Haltom City,611.0,Active,10,4,11102.87,39,25.6,27.1,Moderate Risk
+MBR-000538,Amanda Garcia,Haltom City,649.0,Active,9,2,1113.51,31,29.0,15.0,Low Risk
+MBR-000539,Joshua Mitchell,Cleburne,760.0,Active,5,5,852.6999999999999,14,35.7,17.2,Low Risk
+MBR-000540,Justin Carter,Fort Worth,633.0,Active,15,4,9776.99,61,24.6,32.0,Moderate Risk
+MBR-000541,Cynthia Perez,Southlake,746.0,Active,21,8,9467.92,60,35.0,48.4,Moderate Risk
+MBR-000543,Larry Green,White Settlement,722.0,Active,3,2,9814.04,9,33.3,14.5,Low Risk
+MBR-000545,Melissa King,Granbury,482.0,Active,7,1,808.46,29,24.1,9.8,Low Risk
+MBR-000546,Anthony Martin,North Richland Hills,616.0,Active,12,3,2867.9300000000003,28,42.9,23.3,Low Risk
+MBR-000547,Ashley King,Benbrook,726.0,Active,6,2,429.44,13,46.2,12.7,Low Risk
+MBR-000549,Kimberly Green,Keller,709.0,Active,14,6,10060.28,50,28.0,35.6,Moderate Risk
+MBR-000551,Michelle Nelson,North Richland Hills,,Active,16,5,12235.72,35,45.7,39.1,Moderate Risk
+MBR-000552,Jonathan Mitchell,Granbury,667.0,Active,5,2,774.22,17,29.4,10.1,Low Risk
+MBR-000554,Patricia Smith,Cleburne,700.0,Active,20,8,4783.6900000000005,66,30.3,43.5,Moderate Risk
+MBR-000555,Anna Sanchez,Denton,707.0,Active,8,3,10109.62,27,29.6,22.3,Low Risk
+MBR-000557,Scott Lee,Bedford,640.0,Active,11,5,5312.06,45,24.4,26.3,Moderate Risk
+MBR-000558,Justin Lewis,Haltom City,645.0,Active,4,1,1540.59,23,17.4,6.1,Low Risk
+MBR-000560,Andrew Carter,Mansfield,646.0,Active,10,2,418.4,27,37.0,16.5,Low Risk
+MBR-000561,Timothy King,Granbury,703.0,Active,25,9,5881.38,67,37.3,53.0,High Risk
+MBR-000562,Anthony Thomas,Dallas,846.0,Active,10,2,5096.41,31,32.3,19.3,Low Risk
+MBR-000563,Kathleen Garcia,Bedford,749.0,Active,8,3,861.72,16,50.0,17.9,Low Risk
+MBR-000564,William Carter,White Settlement,653.0,Active,5,2,1787.48,12,41.7,12.1,Low Risk
+MBR-000565,Karen Gonzalez,Fort Worth,776.0,Active,3,0,0.0,10,30.0,3.0,Low Risk
+MBR-000567,Linda Adams,Hurst,516.0,Active,6,4,3692.2,19,31.6,17.8,Low Risk
+MBR-000568,Steven Thomas,Benbrook,599.0,Active,7,0,0.0,27,25.9,7.3,Low Risk
+MBR-000569,Matthew Ramirez,Hurst,530.0,Active,15,6,2246.16,47,31.9,31.7,Moderate Risk
+MBR-000570,Charles Moore,Bedford,651.0,Active,22,9,16536.34,58,37.9,57.0,High Risk
+MBR-000571,Melissa Lopez,Cleburne,681.0,Active,36,11,4444.86,106,34.0,68.9,High Risk
+MBR-000572,Helen Miller,Granbury,814.0,Active,13,2,2744.1,40,32.5,21.2,Low Risk
+MBR-000573,James Nelson,Arlington,706.0,Active,4,1,873.77,8,50.0,8.9,Low Risk
+MBR-000574,Carol Lee,Grapevine,662.0,Active,11,3,3982.06,41,26.8,21.3,Low Risk
+MBR-000576,Michelle Baker,Mansfield,503.0,Active,19,7,7575.47,48,39.6,43.1,Moderate Risk
+MBR-000577,Nicole Gonzalez,Haltom City,698.0,Active,3,0,0.0,9,33.3,3.3,Low Risk
+MBR-000578,Joseph Walker,Mansfield,741.0,Active,12,3,4702.0199999999995,38,31.6,23.5,Low Risk
+MBR-000579,Jacob Nelson,Weatherford,561.0,Active,6,0,0.0,17,35.3,7.1,Low Risk
+MBR-000580,Timothy Adams,Watauga,771.0,Active,5,1,312.61,13,38.5,8.6,Low Risk
+MBR-000582,Nicole Nguyen,Denton,646.0,Active,3,0,0.0,15,20.0,2.0,Low Risk
+MBR-000583,John Hill,Keller,730.0,Active,14,3,1901.8300000000002,39,35.9,24.3,Low Risk
+MBR-000584,Anthony Campbell,Arlington,850.0,Active,5,3,2342.02,21,23.8,12.8,Low Risk
+MBR-000585,Jason Baker,Grapevine,694.0,Active,20,7,6415.33,55,36.4,43.1,Moderate Risk
+MBR-000586,Michael Rivera,Euless,699.0,Active,4,1,667.04,13,30.8,6.9,Low Risk
+MBR-000587,Pamela Miller,Bedford,643.0,Active,6,3,525.53,40,15.0,11.8,Low Risk
+MBR-000588,Karen Green,Mansfield,612.0,Active,14,5,16402.72,28,50.0,40.1,Moderate Risk
+MBR-000590,Kathleen Moore,Benbrook,611.0,Active,14,5,9891.48,41,34.1,34.0,Moderate Risk
+MBR-000591,Brenda Wright,North Richland Hills,685.0,Active,5,0,0.0,30,16.7,4.0,Low Risk
+MBR-000592,Jessica Williams,Benbrook,641.0,Active,6,3,15000.0,18,33.3,23.8,Low Risk
+MBR-000593,James Thomas,Arlington,718.0,Active,10,3,1371.63,30,33.3,19.0,Low Risk
+MBR-000594,Anthony Hall,Arlington,706.0,Active,4,0,0.0,10,40.0,5.2,Low Risk
+MBR-000595,Steven Taylor,Granbury,763.0,Active,12,2,2605.06,35,34.3,20.1,Low Risk
+MBR-000596,Melissa Torres,Haltom City,639.0,Active,11,4,1899.58,34,32.4,22.5,Low Risk
+MBR-000597,Kevin Green,Grapevine,658.0,Active,6,3,1412.34,18,33.3,14.3,Low Risk
+MBR-000600,Melissa Rivera,White Settlement,710.0,Active,19,5,3649.32,50,38.0,35.9,Moderate Risk
+MBR-000602,Mary Ramirez,Weatherford,606.0,Active,5,1,436.82,43,11.6,6.0,Low Risk
+MBR-000603,Shirley Baker,Arlington,749.0,Active,6,1,5000.0,17,35.3,12.7,Low Risk
+MBR-000605,Angela Williams,White Settlement,713.0,Active,3,1,341.86,13,23.1,4.7,Low Risk
+MBR-000607,Jonathan Moore,Euless,618.0,Active,8,1,1118.66,29,27.6,11.6,Low Risk
+MBR-000608,Rebecca Mitchell,Arlington,580.0,Active,6,3,5621.0599999999995,24,25.0,16.4,Low Risk
+MBR-000609,Stephanie Allen,Weatherford,537.0,Active,14,4,11181.9,41,34.1,32.7,Moderate Risk
+MBR-000611,Jason Gonzalez,Denton,732.0,Active,14,3,5085.75,59,23.7,25.3,Moderate Risk
+MBR-000613,Rebecca Thomas,Arlington,702.0,Active,8,3,2730.46,30,26.7,16.9,Low Risk
+MBR-000614,Joshua Davis,Fort Worth,589.0,Active,8,3,1898.57,22,36.4,17.3,Low Risk
+MBR-000620,Sarah Moore,Mansfield,697.0,Active,14,4,1133.48,50,28.0,25.1,Moderate Risk
+MBR-000621,Brandon Jackson,Arlington,616.0,Active,9,3,5825.96,42,21.4,19.7,Low Risk
+MBR-000622,Timothy Adams,White Settlement,717.0,Active,4,1,925.98,15,26.7,6.6,Low Risk
+MBR-000623,Melissa Martinez,Dallas,830.0,Active,22,10,3532.75,76,28.9,49.1,Moderate Risk
+MBR-000624,Ronald Baker,Cleburne,787.0,Active,26,9,15321.69,66,39.4,61.0,High Risk
+MBR-000625,Timothy Harris,Denton,807.0,Active,8,3,10168.18,33,24.2,21.8,Low Risk
+MBR-000626,Anna Mitchell,Dallas,639.0,Active,9,3,15000.0,25,36.0,27.6,Moderate Risk
+MBR-000628,Deborah Baker,North Richland Hills,669.0,Active,15,5,6994.05,48,31.3,32.8,Moderate Risk
+MBR-000630,Elizabeth Smith,Weatherford,767.0,Active,9,3,3033.56,38,23.7,18.0,Low Risk
+MBR-000631,Deborah Thompson,North Richland Hills,544.0,Active,9,2,1126.96,19,47.4,16.9,Low Risk
+MBR-000633,Linda Thompson,Weatherford,667.0,Active,4,1,300.37,14,28.6,6.4,Low Risk
+MBR-000634,Jason White,Denton,645.0,Active,25,11,8514.33,79,31.6,58.6,High Risk
+MBR-000635,Nancy Walker,Haltom City,599.0,Active,8,3,3473.22,22,36.4,18.4,Low Risk
+MBR-000636,Daniel Allen,Fort Worth,547.0,Active,5,3,2623.62,18,27.8,13.4,Low Risk
+MBR-000637,Thomas Mitchell,Bedford,745.0,Active,17,5,2510.14,36,47.2,33.7,Moderate Risk
+MBR-000638,Jason Gonzalez,Denton,685.0,Active,17,5,1997.93,49,34.7,32.1,Moderate Risk
+MBR-000639,John Thomas,Dallas,576.0,Active,7,1,117.94,31,22.6,9.2,Low Risk
+MBR-000641,Emily Hernandez,Euless,653.0,Active,11,1,519.29,37,29.7,14.9,Low Risk
+MBR-000644,Kenneth Hernandez,Granbury,559.0,Active,7,1,1315.2,15,46.7,12.4,Low Risk
+MBR-000646,Edward Allen,Burleson,658.0,Active,8,3,13265.97,25,32.0,24.8,Low Risk
+MBR-000648,Ronald Roberts,Cleburne,675.0,Active,6,2,2018.52,24,25.0,11.7,Low Risk
+MBR-000649,Margaret Lee,Arlington,661.0,Active,3,1,260.65,15,20.0,4.3,Low Risk
+MBR-000650,Steven Green,Dallas,735.0,Active,6,1,427.87,16,37.5,9.7,Low Risk
+MBR-000652,Brenda Hill,Dallas,770.0,Active,10,6,4349.17,40,25.0,26.6,Moderate Risk
+MBR-000653,Dorothy King,Euless,658.0,Active,6,2,1014.52,24,25.0,11.0,Low Risk
+MBR-000655,Edward Thompson,Watauga,850.0,Active,3,0,0.0,10,30.0,3.0,Low Risk
+MBR-000656,Sharon Green,White Settlement,684.0,Active,8,1,109.72,23,34.8,11.6,Low Risk
+MBR-000657,Jeffrey Allen,Arlington,681.0,Active,11,1,339.19,37,29.7,14.8,Low Risk
+MBR-000658,Cynthia Clark,Bedford,678.0,Active,21,9,5145.53,51,41.2,48.2,Moderate Risk
+MBR-000661,Dorothy Scott,Southlake,634.0,Active,4,1,690.95,12,33.3,7.1,Low Risk
+MBR-000665,Larry Green,Arlington,622.0,Active,7,2,1383.99,23,30.4,13.0,Low Risk
+MBR-000666,Karen Wilson,Denton,688.0,Active,13,1,907.49,38,34.2,18.0,Low Risk
+MBR-000667,Emily Robinson,Hurst,659.0,Active,7,3,1539.55,18,38.9,16.1,Low Risk
+MBR-000668,Lisa Wilson,Hurst,800.0,Active,14,8,4805.31,48,29.2,36.4,Moderate Risk
+MBR-000669,Lisa Williams,Burleson,467.0,Active,10,3,805.0,40,25.0,17.7,Low Risk
+MBR-000670,Charles Roberts,Denton,767.0,Active,8,1,753.06,22,36.4,12.2,Low Risk
+MBR-000671,Margaret Miller,Burleson,779.0,Active,3,0,0.0,27,11.1,1.1,Low Risk
+MBR-000672,Kimberly Clark,Denton,514.0,Active,3,2,246.92,13,23.1,6.8,Low Risk
+MBR-000673,Thomas Sanchez,Watauga,652.0,Active,15,4,15094.349999999999,49,30.6,36.3,Moderate Risk
+MBR-000677,Kenneth Martinez,Hurst,591.0,Active,11,3,10573.96,33,33.3,26.6,Moderate Risk
+MBR-000678,Emily Rivera,Grapevine,820.0,Active,5,2,9257.56,33,15.2,14.6,Low Risk
+MBR-000679,Gary Miller,Cleburne,754.0,Active,9,4,2001.65,34,26.5,19.7,Low Risk
+MBR-000680,Laura Flores,Cleburne,781.0,Active,4,0,0.0,20,20.0,3.2,Low Risk
+MBR-000681,Donald Johnson,Granbury,737.0,Active,5,3,1560.3700000000001,30,16.7,11.5,Low Risk
+MBR-000682,Jeffrey Moore,Denton,589.0,Active,3,0,0.0,17,17.6,1.8,Low Risk
+MBR-000683,Ashley Davis,Denton,638.0,Active,7,2,1969.46,22,31.8,13.5,Low Risk
+MBR-000685,Donald Hernandez,Dallas,582.0,Active,23,10,16846.73,87,26.4,59.4,High Risk
+MBR-000687,Richard Miller,Southlake,660.0,Active,4,2,10000.0,8,50.0,17.4,Low Risk
+MBR-000690,Ronald Nguyen,Burleson,715.0,Active,12,6,7850.719999999999,44,27.3,31.7,Moderate Risk
+MBR-000691,Charles Robinson,Haltom City,651.0,Active,4,2,340.94,11,36.4,9.3,Low Risk
+MBR-000692,Donna Smith,Grapevine,772.0,Active,11,1,1482.9,37,29.7,15.6,Low Risk
+MBR-000693,Paul Martinez,Hurst,593.0,Active,27,8,8404.48,89,30.3,54.3,High Risk
+MBR-000694,Dorothy Martin,Keller,729.0,Active,7,2,3518.52,16,43.8,15.8,Low Risk
+MBR-000695,Cynthia Wright,Bedford,727.0,Active,24,11,7277.8099999999995,63,38.1,57.2,High Risk
+MBR-000697,Emily Brown,Weatherford,706.0,Active,8,1,243.7,25,32.0,11.4,Low Risk
+MBR-000698,Emily Torres,Southlake,579.0,Active,6,1,1957.99,25,24.0,9.4,Low Risk
+MBR-000699,Donna Campbell,North Richland Hills,753.0,Active,4,1,2851.87,10,40.0,9.3,Low Risk
+MBR-000700,Ronald Brown,Keller,665.0,Active,17,3,7483.82,45,37.8,31.9,Moderate Risk
+MBR-000701,Robert Lopez,Mansfield,638.0,Active,6,3,10626.57,20,30.0,20.4,Low Risk
+MBR-000703,Sarah Robinson,Burleson,623.0,Active,8,1,384.58,25,32.0,11.5,Low Risk
+MBR-000706,Michelle Carter,Mansfield,728.0,Active,19,7,2890.2599999999998,61,31.1,39.0,Moderate Risk
+MBR-000707,Melissa Hill,Fort Worth,577.0,Active,7,5,2993.41,26,26.9,20.2,Low Risk
+MBR-000708,Betty Mitchell,Hurst,820.0,Active,12,2,1034.72,27,44.4,20.0,Low Risk
+MBR-000709,Anna Jones,Granbury,513.0,Active,9,2,1683.9299999999998,32,28.1,15.3,Low Risk
+MBR-000711,Deborah Rivera,Dallas,696.0,Active,13,2,1192.78,38,34.2,20.3,Low Risk
+MBR-000712,Joseph Nguyen,Burleson,672.0,Active,13,4,11405.98,40,32.5,31.6,Moderate Risk
+MBR-000713,Linda Thomas,Dallas,636.0,Active,3,2,1781.86,10,30.0,8.5,Low Risk
+MBR-000714,Jennifer Miller,North Richland Hills,711.0,Active,20,5,4566.8099999999995,41,48.8,38.8,Moderate Risk
+MBR-000720,Sandra Martin,Cleburne,675.0,Active,4,0,0.0,19,21.1,3.3,Low Risk
+MBR-000721,Deborah Martin,Arlington,704.0,Active,3,1,1712.03,8,37.5,7.1,Low Risk
+MBR-000722,Donna Williams,Grapevine,543.0,Active,5,2,2416.1099999999997,25,20.0,10.3,Low Risk
+MBR-000723,Linda Miller,Bedford,572.0,Active,21,6,7458.7,62,33.9,42.6,Moderate Risk
+MBR-000724,Donald Rodriguez,Burleson,739.0,Active,12,0,0.0,26,46.2,15.2,Low Risk
+MBR-000725,Nicole Smith,Keller,693.0,Active,14,4,8664.08,43,32.6,30.8,Moderate Risk
+MBR-000726,Edward Brown,Dallas,665.0,Active,11,4,3017.96,52,21.2,22.2,Low Risk
+MBR-000727,Helen Adams,Mansfield,681.0,Active,16,5,5030.47,47,34.0,32.9,Moderate Risk
+MBR-000729,Rebecca Jones,Hurst,636.0,Active,4,1,2418.61,21,19.0,6.9,Low Risk
+MBR-000733,Donald Lewis,Grapevine,712.0,Active,8,1,5000.0,34,23.5,13.9,Low Risk
+MBR-000734,Edward Baker,Weatherford,543.0,Active,3,1,916.91,10,30.0,5.8,Low Risk
+MBR-000736,Deborah Ramirez,Weatherford,717.0,Active,16,6,9262.48,40,40.0,38.6,Moderate Risk
+MBR-000737,Amanda Lewis,Euless,700.0,Active,8,2,2001.34,17,47.1,16.3,Low Risk
+MBR-000738,James Nguyen,Grapevine,758.0,Active,16,2,753.04,57,28.1,22.9,Low Risk
+MBR-000739,Eric King,Haltom City,813.0,Active,13,4,3770.57,36,36.1,26.6,Moderate Risk
+MBR-000740,Eric Moore,White Settlement,761.0,Active,14,6,13343.64,36,38.9,39.0,Moderate Risk
+MBR-000741,Susan Anderson,Weatherford,532.0,Active,23,5,4923.360000000001,71,32.4,40.9,Moderate Risk
+MBR-000743,Amanda Garcia,Dallas,630.0,Active,10,2,1729.64,29,34.5,17.2,Low Risk
+MBR-000744,Eric Lee,Watauga,682.0,Active,3,0,0.0,9,33.3,3.3,Low Risk
+MBR-000746,Timothy Green,Mansfield,621.0,Active,13,5,20158.55,41,31.7,39.7,Moderate Risk
+MBR-000747,Emily Miller,Denton,694.0,Active,6,2,855.6,31,19.4,10.4,Low Risk
+MBR-000749,Edward Sanchez,Hurst,631.0,Active,21,8,7345.07,68,30.9,46.5,Moderate Risk
+MBR-000750,Anthony Roberts,Denton,567.0,Active,9,5,5212.83,27,33.3,24.7,Low Risk
+MBR-000751,Stephen Jones,Arlington,606.0,Active,8,2,2359.62,31,25.8,14.4,Low Risk
+MBR-000752,Ashley Smith,Fort Worth,571.0,Active,14,7,6535.24,45,31.1,35.6,Moderate Risk
+MBR-000753,Jessica Harris,Bedford,601.0,Active,10,2,1418.6499999999999,37,27.0,16.2,Low Risk
+MBR-000755,Timothy Jackson,Dallas,604.0,Active,5,0,0.0,15,33.3,5.7,Low Risk
+MBR-000756,Anna Rivera,Euless,850.0,Active,7,1,36.55,23,30.4,9.9,Low Risk
+MBR-000757,Brenda Hernandez,North Richland Hills,719.0,Active,7,2,1627.64,20,35.0,13.6,Low Risk
+MBR-000759,Angela Scott,Denton,611.0,Active,6,3,5071.2,26,23.1,15.8,Low Risk
+MBR-000760,Lisa Green,North Richland Hills,736.0,Active,15,4,5477.24,54,27.8,29.3,Moderate Risk
+MBR-000762,Sarah Hernandez,North Richland Hills,689.0,Active,13,8,22602.75,33,39.4,48.6,Moderate Risk
+MBR-000763,Linda Flores,White Settlement,850.0,Active,13,4,2033.8899999999999,39,33.3,25.1,Moderate Risk
+MBR-000764,Stephanie Taylor,Watauga,672.0,Active,18,8,2083.61,41,43.9,40.6,Moderate Risk
+MBR-000766,James Lee,Arlington,623.0,Active,7,2,539.58,32,21.9,11.6,Low Risk
+MBR-000768,Sharon Adams,Granbury,821.0,Active,12,3,3151.3599999999997,52,23.1,21.5,Low Risk
+MBR-000769,Mary Gonzalez,Grapevine,629.0,Active,3,1,450.12,15,20.0,4.5,Low Risk
+MBR-000770,Ronald Williams,Burleson,824.0,Active,12,5,4093.66,51,23.5,26.5,Moderate Risk
+MBR-000774,Donna Moore,Grapevine,757.0,Active,22,9,25048.489999999998,78,28.2,61.9,High Risk
+MBR-000776,Edward Anderson,Burleson,554.0,Active,11,4,1187.56,40,27.5,21.6,Low Risk
+MBR-000779,John Lee,Grapevine,674.0,Active,3,3,5010.39,11,27.3,12.7,Low Risk
+MBR-000780,Robert Lewis,Euless,729.0,Active,11,5,5849.51,53,20.8,26.3,Moderate Risk
+MBR-000781,Sandra Carter,Denton,694.0,Active,11,2,1540.51,30,36.7,18.4,Low Risk
+MBR-000782,Larry Carter,Weatherford,573.0,Active,16,5,8242.44,38,42.1,36.0,Moderate Risk
+MBR-000783,Daniel Martin,Dallas,,Active,17,8,3448.62,41,41.5,40.2,Moderate Risk
+MBR-000784,Stephen Baker,Cleburne,728.0,Active,11,4,4032.62,51,21.6,23.0,Low Risk
+MBR-000785,Andrew Baker,White Settlement,724.0,Active,9,3,5755.98,41,22.0,19.7,Low Risk
+MBR-000787,John Taylor,Granbury,746.0,Active,15,2,5333.69,45,33.3,25.5,Moderate Risk
+MBR-000788,Nicholas Harris,Fort Worth,716.0,Active,10,4,20000.0,43,23.3,33.1,Moderate Risk
+MBR-000790,Angela Flores,Hurst,547.0,Active,4,0,0.0,9,44.4,5.6,Low Risk
+MBR-000791,Patricia Wright,Granbury,714.0,Active,8,3,2990.84,38,21.1,16.5,Low Risk
+MBR-000792,Jonathan Miller,Weatherford,696.0,Active,7,4,642.8499999999999,33,21.2,15.8,Low Risk
+MBR-000794,Steven Campbell,Dallas,577.0,Active,11,4,8153.06,31,35.5,27.2,Moderate Risk
+MBR-000795,Pamela Walker,Hurst,593.0,Active,3,2,183.7,10,30.0,7.4,Low Risk
+MBR-000796,Rebecca Nelson,Burleson,764.0,Active,3,0,0.0,19,15.8,1.6,Low Risk
+MBR-000797,Rebecca Green,Southlake,676.0,Active,14,4,7198.97,48,29.2,29.5,Moderate Risk
+MBR-000798,Deborah Taylor,Arlington,734.0,Active,21,7,16533.42,64,32.8,51.0,High Risk
+MBR-000801,Stephen Clark,Cleburne,755.0,Active,10,4,3749.71,41,24.4,21.9,Low Risk
+MBR-000802,Mark Sanchez,Euless,638.0,Active,8,2,1488.86,38,21.1,13.3,Low Risk
+MBR-000803,Justin Adams,Hurst,687.0,Active,10,2,1206.52,22,45.5,17.9,Low Risk
+MBR-000804,Ashley Hernandez,North Richland Hills,643.0,Active,16,5,1776.48,43,37.2,31.0,Moderate Risk
+MBR-000805,Betty Lee,Keller,645.0,Active,6,2,5776.99,24,25.0,14.3,Low Risk
+MBR-000808,Jeffrey Ramirez,Denton,641.0,Active,6,0,0.0,12,50.0,8.5,Low Risk
+MBR-000809,Elizabeth Robinson,Mansfield,780.0,Active,6,0,0.0,11,54.5,9.0,Low Risk
+MBR-000810,Patricia Anderson,Benbrook,608.0,Active,10,1,122.35,42,23.8,12.8,Low Risk
+MBR-000812,Lisa Thompson,Weatherford,644.0,Active,4,1,302.05,14,28.6,6.4,Low Risk
+MBR-000815,Larry King,Mansfield,762.0,Active,6,1,469.1,28,21.4,8.1,Low Risk
+MBR-000817,William Walker,Denton,701.0,Active,9,4,4926.759999999999,35,25.7,21.6,Low Risk
+MBR-000818,Brandon Carter,Fort Worth,751.0,Active,9,5,3251.9300000000003,31,29.0,22.9,Low Risk
+MBR-000820,Jeffrey Perez,Watauga,765.0,Active,14,3,3774.7000000000003,40,35.0,25.5,Moderate Risk
+MBR-000821,Pamela Baker,Southlake,638.0,Active,8,2,1446.54,28,28.6,14.0,Low Risk
+MBR-000822,Paul Anderson,North Richland Hills,792.0,Active,16,4,4201.1,63,25.4,29.3,Moderate Risk
+MBR-000823,James Carter,Arlington,850.0,Active,7,1,235.58,25,28.0,9.8,Low Risk
+MBR-000826,Elizabeth Lee,Weatherford,796.0,Active,6,4,2418.4,24,25.0,16.3,Low Risk
+MBR-000827,Robert Rodriguez,Southlake,806.0,Active,4,1,478.22,23,17.4,5.4,Low Risk
+MBR-000829,Michelle Wright,Keller,646.0,Active,9,6,20171.84,33,27.3,36.7,Moderate Risk
+MBR-000830,Cynthia Flores,Cleburne,657.0,Active,5,1,391.1,19,26.3,7.4,Low Risk
+MBR-000831,Ryan King,Fort Worth,572.0,Active,16,5,5165.61,45,35.6,33.2,Moderate Risk
+MBR-000832,Ryan Adams,Benbrook,606.0,Active,8,0,0.0,37,21.6,8.0,Low Risk
+MBR-000834,Jessica Harris,Euless,618.0,Active,17,6,3467.14,77,22.1,34.0,Moderate Risk
+MBR-000835,Justin Campbell,Denton,677.0,Active,9,4,2777.14,23,39.1,21.5,Low Risk
+MBR-000837,William Adams,Bedford,804.0,Active,11,2,758.0,33,33.3,17.6,Low Risk
+MBR-000841,Jonathan Lewis,White Settlement,676.0,Active,5,1,359.7,21,23.8,7.1,Low Risk
+MBR-000842,Amy Mitchell,Cleburne,733.0,Active,9,2,2470.19,38,23.7,15.4,Low Risk
+MBR-000843,Nancy Campbell,Southlake,590.0,Active,11,5,10784.52,34,32.4,30.9,Moderate Risk
+MBR-000844,Michael Gonzalez,Fort Worth,710.0,Active,25,13,12678.9,65,38.5,66.4,High Risk
+MBR-000846,Stephen Robinson,Southlake,719.0,Active,8,1,814.66,28,28.6,11.5,Low Risk
+MBR-000847,Emily Rodriguez,Keller,703.0,Active,12,1,1216.84,42,28.6,16.4,Low Risk
+MBR-000848,Betty Campbell,Haltom City,850.0,Active,25,6,4683.5599999999995,92,27.2,44.7,Moderate Risk
+MBR-000853,Anna Mitchell,Euless,629.0,Active,6,2,1884.92,20,30.0,12.1,Low Risk
+MBR-000854,Gary Carter,Mansfield,775.0,Active,8,1,88.89,22,36.4,11.7,Low Risk
+MBR-000856,Gary Scott,Benbrook,634.0,Active,7,3,4676.61,21,33.3,17.7,Low Risk
+MBR-000857,Nicole Clark,Arlington,613.0,Active,14,1,95.76,30,46.7,19.8,Low Risk
+MBR-000858,Patricia Wilson,Granbury,717.0,Active,7,2,224.34,28,25.0,11.6,Low Risk
+MBR-000860,Amy Garcia,Grapevine,730.0,Active,5,0,0.0,11,45.5,6.9,Low Risk
+MBR-000861,Dorothy Rivera,Grapevine,696.0,Active,25,10,9550.57,71,35.2,57.5,High Risk
+MBR-000862,Brenda Wright,Bedford,558.0,Active,6,1,70.26,27,22.2,7.9,Low Risk
+MBR-000864,Mark Thomas,Euless,823.0,Active,8,6,7204.46,24,33.3,27.1,Moderate Risk
+MBR-000866,Kenneth Wright,Dallas,648.0,Active,9,1,383.62,40,22.5,11.7,Low Risk
+MBR-000867,Susan Hill,Grapevine,702.0,Active,11,4,6148.55,46,23.9,24.7,Low Risk
+MBR-000868,Brenda Lewis,Arlington,706.0,Active,15,6,10553.9,36,41.7,38.5,Moderate Risk
+MBR-000869,Sarah Sanchez,Euless,732.0,Active,17,3,7133.860000000001,60,28.3,30.7,Moderate Risk
+MBR-000870,James Flores,Grapevine,840.0,Active,4,3,2772.69,31,12.9,10.8,Low Risk
+MBR-000871,Nancy Johnson,North Richland Hills,665.0,Active,7,3,4743.9,35,20.0,16.4,Low Risk
+MBR-000872,Richard Martin,Granbury,616.0,Active,8,2,2106.18,24,33.3,15.0,Low Risk
+MBR-000873,Shirley Taylor,White Settlement,569.0,Active,10,2,901.22,36,27.8,15.9,Low Risk
+MBR-000875,Daniel Allen,Euless,677.0,Active,22,6,2115.19,75,29.3,39.6,Moderate Risk
+MBR-000876,Karen Flores,Euless,823.0,Active,5,4,2803.04,24,20.8,15.0,Low Risk
+MBR-000877,Stephanie Williams,Arlington,638.0,Active,16,6,991.77,23,69.6,35.8,Moderate Risk
+MBR-000878,Anna Adams,Keller,697.0,Active,17,2,888.97,48,35.4,24.9,Low Risk
+MBR-000879,Amy Roberts,Arlington,678.0,Active,18,6,5004.45,46,39.1,37.9,Moderate Risk
+MBR-000881,Mark Rivera,Dallas,850.0,Active,3,0,0.0,11,27.3,2.7,Low Risk
+MBR-000883,Donna Wilson,Burleson,640.0,Active,19,8,5092.79,52,36.5,43.2,Moderate Risk
+MBR-000884,Jennifer Hall,Weatherford,763.0,Active,15,3,5444.77,54,27.8,27.1,Moderate Risk
+MBR-000885,Ronald Jackson,Keller,734.0,Active,7,2,196.32,11,63.6,15.5,Low Risk
+MBR-000886,John Walker,Denton,827.0,Active,11,3,3194.88,52,21.2,20.2,Low Risk
+MBR-000887,Jennifer Nelson,Cleburne,726.0,Active,4,1,559.4,18,22.2,5.9,Low Risk
+MBR-000888,Ronald Harris,Keller,651.0,Active,11,4,15052.68,25,44.0,32.9,Moderate Risk
+MBR-000889,Christopher Martinez,Southlake,727.0,Active,18,4,2395.76,53,34.0,31.3,Moderate Risk
+MBR-000891,Pamela Adams,Keller,745.0,Active,28,10,12887.9,66,42.4,64.1,High Risk
+MBR-000892,Jonathan White,Weatherford,720.0,Active,14,4,5730.06,46,30.4,28.6,Moderate Risk
+MBR-000893,Anna Anderson,Weatherford,765.0,Active,9,3,769.79,42,21.4,16.2,Low Risk
+MBR-000895,Melissa Adams,Cleburne,790.0,Active,10,5,2550.27,32,31.3,23.9,Low Risk
+MBR-000896,Christopher Nelson,Haltom City,731.0,Active,5,1,154.5,13,38.5,8.5,Low Risk
+MBR-000897,Betty Martinez,Southlake,666.0,Active,13,5,4709.65,51,25.5,28.3,Moderate Risk
+MBR-000900,Ashley Davis,Euless,614.0,Active,17,4,3865.3,63,27.0,30.4,Moderate Risk
+MBR-000902,Betty Green,Keller,648.0,Active,12,4,2340.35,32,37.5,24.5,Low Risk
+MBR-000903,Eric Johnson,Southlake,682.0,Active,11,4,1810.4,37,29.7,22.2,Low Risk
+MBR-000904,Kevin Scott,Weatherford,782.0,Active,9,4,3396.65,35,25.7,20.6,Low Risk
+MBR-000905,George Allen,Hurst,695.0,Active,4,0,0.0,13,30.8,4.3,Low Risk
+MBR-000906,Kenneth Allen,Fort Worth,683.0,Active,20,5,2866.29,61,32.8,36.0,Moderate Risk
+MBR-000907,Carol Flores,Weatherford,571.0,Active,14,6,3799.43,49,28.6,31.3,Moderate Risk
+MBR-000908,Barbara Rivera,Fort Worth,739.0,Active,3,1,553.27,16,18.8,4.4,Low Risk
+MBR-000909,Nancy Walker,Benbrook,731.0,Active,12,4,3440.48,46,26.1,24.2,Low Risk
+MBR-000910,Elizabeth Gonzalez,Southlake,850.0,Active,6,2,918.6700000000001,29,20.7,10.5,Low Risk
+MBR-000911,Steven Jackson,Dallas,655.0,Active,10,4,2042.38,27,37.0,21.9,Low Risk
+MBR-000912,Barbara Lee,Grapevine,697.0,Active,3,1,279.8,17,17.6,4.1,Low Risk
+MBR-000915,Karen Nguyen,Cleburne,672.0,Active,10,4,3136.12,28,35.7,22.6,Low Risk
+MBR-000919,Kimberly Scott,Benbrook,644.0,Active,5,0,0.0,36,13.9,3.7,Low Risk
+MBR-000920,Larry Walker,Southlake,695.0,Active,8,1,2152.94,32,25.0,12.0,Low Risk
+MBR-000922,Gary Lee,Watauga,597.0,Active,16,8,11487.55,41,39.0,44.4,Moderate Risk
+MBR-000923,Mary Martin,Cleburne,690.0,Active,14,7,9600.17,41,34.1,38.1,Moderate Risk
+MBR-000925,Timothy Scott,Hurst,775.0,Active,6,1,67.86,29,20.7,7.8,Low Risk
+MBR-000926,Amy Jones,Weatherford,558.0,Active,5,3,2230.11,14,35.7,13.9,Low Risk
+MBR-000928,Michael Adams,North Richland Hills,,Active,12,4,3671.57,31,38.7,25.6,Moderate Risk
+MBR-000929,Rebecca Scott,Arlington,805.0,Active,14,5,1763.77,38,36.8,28.6,Moderate Risk
+MBR-000930,Jonathan Smith,White Settlement,674.0,Active,8,3,2539.59,28,28.6,16.9,Low Risk
+MBR-000931,Andrew Lewis,Euless,635.0,Active,13,6,8067.0599999999995,27,48.1,35.1,Moderate Risk
+MBR-000932,Joshua Hall,Benbrook,830.0,Active,3,1,5000.0,18,16.7,7.3,Low Risk
+MBR-000933,Kevin Wilson,Bedford,564.0,Active,3,0,0.0,20,15.0,1.5,Low Risk
+MBR-000935,Melissa Jones,Hurst,715.0,Active,13,6,1952.21,43,30.2,29.0,Moderate Risk
+MBR-000936,Patricia Walker,Fort Worth,639.0,Active,5,2,5184.55,25,20.0,12.3,Low Risk
+MBR-000938,Paul Gonzalez,Euless,736.0,Active,6,2,2017.3,16,37.5,13.0,Low Risk
+MBR-000939,Melissa Robinson,Watauga,699.0,Active,7,2,1412.02,16,43.8,14.4,Low Risk
+MBR-000940,Emily Martinez,Watauga,634.0,Active,11,4,1353.75,35,31.4,22.1,Low Risk
+MBR-000944,Nicholas Miller,Weatherford,672.0,Active,6,3,4551.8099999999995,15,40.0,17.1,Low Risk
+MBR-000945,Anthony Lopez,Dallas,827.0,Active,19,6,8712.96,47,40.4,41.8,Moderate Risk
+MBR-000946,Kathleen Green,Benbrook,594.0,Active,17,7,2463.78,48,35.4,36.7,Moderate Risk
+MBR-000947,Emma Flores,North Richland Hills,557.0,Active,8,5,3996.2200000000003,18,44.4,23.8,Low Risk
+MBR-000949,Nancy Robinson,Benbrook,676.0,Active,10,5,6732.8,35,28.6,26.5,Moderate Risk
+MBR-000950,Joseph Baker,Dallas,699.0,Active,4,1,575.9,21,19.0,5.6,Low Risk
+MBR-000951,Justin Young,Euless,660.0,Active,11,5,1231.68,31,35.5,24.5,Low Risk
+MBR-000952,Robert Rivera,Grapevine,708.0,Active,9,3,5751.7,34,26.5,20.2,Low Risk
+MBR-000953,Stephanie Allen,Weatherford,579.0,Active,15,4,917.3,39,38.5,27.2,Moderate Risk
+MBR-000954,Nancy Nguyen,Denton,795.0,Active,8,1,250.48,18,44.4,12.6,Low Risk
+MBR-000955,Justin King,Keller,673.0,Active,5,2,3878.3,22,22.7,11.6,Low Risk
+MBR-000957,Dorothy Clark,Hurst,707.0,Active,4,0,0.0,19,21.1,3.3,Low Risk
+MBR-000958,Brandon Allen,Granbury,716.0,Active,21,6,2587.9300000000003,82,25.6,38.4,Moderate Risk
+MBR-000960,Emma Hall,White Settlement,715.0,Active,9,4,7772.61,41,22.0,23.3,Low Risk
+MBR-000961,Paul Jackson,Haltom City,731.0,Active,5,0,0.0,21,23.8,4.7,Low Risk
+MBR-000962,Matthew Roberts,Weatherford,786.0,Active,7,2,2162.78,18,38.9,14.4,Low Risk
+MBR-000963,Emily Green,Cleburne,695.0,Active,15,2,2033.97,42,35.7,23.4,Low Risk
+MBR-000964,Elizabeth Taylor,Bedford,736.0,Active,23,11,8027.48,75,30.7,55.8,High Risk
+MBR-000965,Larry Clark,Burleson,672.0,Active,9,3,5463.07,33,27.3,20.0,Low Risk
+MBR-000970,Timothy Johnson,Burleson,565.0,Active,8,3,1933.04,25,32.0,16.9,Low Risk
+MBR-000971,Elizabeth Hill,Granbury,690.0,Active,11,3,2304.09,38,28.9,20.3,Low Risk
+MBR-000972,Larry Thomas,Dallas,625.0,Active,7,2,10000.0,29,24.1,18.4,Low Risk
+MBR-000973,Paul White,North Richland Hills,747.0,Active,8,3,9064.67,26,30.8,21.7,Low Risk
+MBR-000975,Barbara Flores,Benbrook,644.0,Active,3,2,1747.44,16,18.8,7.4,Low Risk
+MBR-000976,Richard Moore,Watauga,528.0,Active,3,0,0.0,16,18.8,1.9,Low Risk
+MBR-000977,Robert Allen,Arlington,643.0,Active,24,5,9524.66,82,29.3,45.0,Moderate Risk
+MBR-000979,Shirley Robinson,Haltom City,553.0,Active,5,2,1729.6,13,38.5,11.7,Low Risk
+MBR-000980,Melissa Martin,White Settlement,740.0,Active,15,5,4085.8500000000004,45,33.3,31.0,Moderate Risk
+MBR-000982,Ashley Martinez,Denton,714.0,Active,9,2,1303.02,24,37.5,16.0,Low Risk
+MBR-000983,Kathleen Jones,Southlake,602.0,Active,3,2,967.78,12,25.0,7.5,Low Risk
+MBR-000984,Stephanie Perez,Euless,676.0,Active,6,3,2451.79,24,25.0,14.2,Low Risk
+MBR-000985,Stephen Campbell,Haltom City,679.0,Active,8,4,3625.1400000000003,26,30.8,20.1,Low Risk
+MBR-000986,Brandon Harris,Bedford,587.0,Active,6,0,0.0,16,37.5,7.3,Low Risk
+MBR-000988,Carol Flores,North Richland Hills,750.0,Active,9,3,1980.45,25,36.0,18.5,Low Risk
+MBR-000990,Mark Thomas,Weatherford,682.0,Active,16,7,17614.72,63,25.4,45.1,Moderate Risk
+MBR-000991,Kenneth Brown,Bedford,696.0,Active,4,1,619.77,13,30.8,6.8,Low Risk
+MBR-000993,Jason Young,Weatherford,660.0,Active,9,5,2850.58,34,26.5,22.4,Low Risk
+MBR-000995,Brandon King,White Settlement,599.0,Active,8,3,2089.6,39,20.5,15.8,Low Risk
+MBR-000996,Carol Nelson,North Richland Hills,657.0,Active,11,3,4130.95,43,25.6,21.3,Low Risk
+MBR-000997,Karen Williams,Arlington,823.0,Active,6,4,15984.720000000001,21,28.6,26.1,Moderate Risk
+MBR-000998,Edward Davis,Watauga,731.0,Active,8,3,5377.7,24,33.3,19.4,Low Risk
+MBR-001000,Nancy Smith,Burleson,725.0,Active,3,2,1442.42,8,37.5,9.0,Low Risk
+MBR-001001,Mary Green,Southlake,791.0,Active,16,9,13902.95,46,34.8,47.8,Moderate Risk
+MBR-001002,Nicholas Moore,Bedford,753.0,Active,12,5,2230.01,27,44.4,27.3,Moderate Risk
+MBR-001003,Edward Nguyen,Dallas,684.0,Active,16,4,2325.92,44,36.4,29.1,Moderate Risk
+MBR-001006,Daniel Wright,Cleburne,711.0,Active,5,3,10272.41,22,22.7,18.2,Low Risk
+MBR-001008,James Thomas,Burleson,730.0,Active,12,4,10848.8,57,21.1,28.8,Moderate Risk
+MBR-001010,Eric Hall,Cleburne,637.0,Active,20,8,2663.22,69,29.0,41.9,Moderate Risk
+MBR-001014,Dorothy Harris,Burleson,624.0,Active,13,9,5327.9800000000005,45,28.9,37.7,Moderate Risk
+MBR-001016,Donna Carter,Watauga,695.0,Active,18,5,12033.33,56,32.1,40.0,Moderate Risk
+MBR-001018,Ashley Garcia,Granbury,641.0,Active,14,5,2526.79,40,35.0,28.9,Moderate Risk
+MBR-001019,Edward Smith,Burleson,654.0,Active,5,2,341.18,16,31.3,10.0,Low Risk
+MBR-001020,Emma Clark,Keller,713.0,Active,4,3,2578.83,13,30.8,12.5,Low Risk
+MBR-001021,Pamela Lopez,Benbrook,721.0,Active,3,2,1514.24,11,27.3,8.1,Low Risk
+MBR-001023,Timothy Nelson,Burleson,678.0,Active,6,4,3561.4500000000003,20,30.0,17.6,Low Risk
+MBR-001024,Steven Smith,Euless,850.0,Active,11,1,477.52,35,31.4,15.0,Low Risk
+MBR-001025,Jacob Carter,Dallas,818.0,Active,4,3,1902.3899999999999,15,26.7,11.6,Low Risk
+MBR-001026,Sarah Johnson,North Richland Hills,714.0,Active,7,2,2898.72,20,35.0,14.5,Low Risk
+MBR-001027,Robert Jones,Denton,683.0,Active,4,1,3115.52,24,16.7,7.2,Low Risk
+MBR-001028,Amy King,Weatherford,689.0,Active,6,3,4118.99,24,25.0,15.3,Low Risk
+MBR-001029,Emma Gonzalez,Bedford,729.0,Active,21,6,11196.61,81,25.9,44.4,Moderate Risk
+MBR-001032,Barbara Perez,White Settlement,546.0,Active,11,1,1148.83,45,24.4,14.8,Low Risk
+MBR-001033,James Young,Hurst,711.0,Active,15,6,5705.42,48,31.3,34.1,Moderate Risk
+MBR-001034,Patricia Mitchell,Benbrook,731.0,Active,4,2,1481.12,31,12.9,7.8,Low Risk
+MBR-001035,Laura Anderson,Weatherford,641.0,Active,3,3,1378.53,11,27.3,10.1,Low Risk
+MBR-001037,Shirley Nguyen,Southlake,581.0,Active,15,2,907.05,47,31.9,22.2,Low Risk
+MBR-001039,Ronald Adams,Weatherford,697.0,Active,20,8,5058.84,50,40.0,44.7,Moderate Risk
+MBR-001040,Shirley Wright,Burleson,763.0,Active,15,8,3672.12,42,35.7,37.4,Moderate Risk
+MBR-001041,Charles Flores,Dallas,814.0,Active,9,2,1149.03,34,26.5,14.8,Low Risk
+MBR-001042,Patricia Campbell,Dallas,643.0,Active,5,3,4428.0,17,29.4,14.8,Low Risk
+MBR-001043,Nicole Johnson,Grapevine,766.0,Active,15,3,12953.43,45,33.3,32.9,Moderate Risk
+MBR-001045,Michael Smith,Mansfield,666.0,Active,7,3,3644.82,30,23.3,16.0,Low Risk
+MBR-001046,Angela Anderson,Grapevine,750.0,Active,12,5,2464.1099999999997,38,31.6,26.2,Moderate Risk
+MBR-001049,David Sanchez,Mansfield,798.0,Active,14,5,8816.39,60,23.3,32.1,Moderate Risk
+MBR-001050,Christopher Johnson,Hurst,790.0,Active,6,0,0.0,41,14.6,5.0,Low Risk
+MBR-001052,Robert Nelson,North Richland Hills,711.0,Active,11,1,271.91,41,26.8,14.4,Low Risk
+MBR-001053,Donald Scott,Haltom City,719.0,Active,4,0,0.0,10,40.0,5.2,Low Risk
+MBR-001054,Emily Thomas,Cleburne,700.0,Active,7,1,1722.52,19,36.8,11.7,Low Risk
+MBR-001055,Richard Rivera,Euless,635.0,Active,14,4,3145.31,32,43.8,28.1,Moderate Risk
+MBR-001057,Shirley Smith,Granbury,677.0,Active,13,5,3094.41,41,31.7,27.8,Moderate Risk
+MBR-001061,Emily Rodriguez,Watauga,741.0,Active,6,2,1388.65,23,26.1,11.4,Low Risk
+MBR-001062,Jennifer King,Denton,452.0,Active,15,5,5533.25,57,26.3,31.3,Moderate Risk
+MBR-001063,Patricia Harris,Euless,771.0,Active,14,2,5430.18,49,28.6,23.9,Low Risk
+MBR-001064,Susan Young,North Richland Hills,540.0,Active,7,3,1705.92,26,26.9,15.0,Low Risk
+MBR-001065,Shirley Lewis,Southlake,651.0,Active,5,2,2398.56,13,38.5,12.2,Low Risk
+MBR-001066,Robert Hill,Haltom City,590.0,Active,9,3,208.99,50,18.0,15.4,Low Risk
+MBR-001068,Barbara King,Weatherford,772.0,Active,20,10,12846.6,42,47.6,55.2,High Risk
+MBR-001070,Brenda Walker,Bedford,707.0,Active,14,5,5131.32,42,33.3,30.6,Moderate Risk
+MBR-001072,Charles Hall,White Settlement,718.0,Active,11,5,20933.49,47,23.4,37.1,Moderate Risk
+MBR-001074,Paul Sanchez,Weatherford,577.0,Active,5,2,2650.46,11,45.5,13.0,Low Risk
+MBR-001075,Angela Ramirez,Bedford,759.0,Active,19,8,22496.35,75,25.3,54.2,High Risk
+MBR-001076,Patricia Brown,Bedford,640.0,Active,5,3,3131.67,15,33.3,14.3,Low Risk
+MBR-001079,Christopher Torres,Dallas,800.0,Active,15,6,2252.58,52,28.8,31.4,Moderate Risk
+MBR-001080,Kenneth Thompson,Cleburne,748.0,Active,10,2,10000.0,32,31.3,22.6,Low Risk
+MBR-001081,Nicole Hernandez,Bedford,652.0,Active,3,2,1314.3,7,42.9,9.5,Low Risk
+MBR-001083,Kimberly Jackson,Mansfield,654.0,Active,17,5,1594.8600000000001,37,45.9,32.9,Moderate Risk
+MBR-001084,Nancy Jones,Granbury,846.0,Active,17,3,2380.67,61,27.9,27.4,Moderate Risk
+MBR-001085,Gary Campbell,Euless,710.0,Active,6,4,292.78,25,24.0,14.7,Low Risk
+MBR-001087,Charles Smith,Fort Worth,762.0,Active,14,3,2496.3500000000004,42,33.3,24.4,Low Risk
+MBR-001088,Mary Roberts,Watauga,699.0,Active,17,5,7260.8099999999995,54,31.5,35.4,Moderate Risk
+MBR-001090,Kevin Williams,Mansfield,664.0,Active,19,7,1976.4499999999998,49,38.8,39.1,Moderate Risk
+MBR-001091,David Adams,Keller,674.0,Active,4,1,847.7,13,30.8,7.0,Low Risk
+MBR-001092,Betty Wright,Granbury,677.0,Active,13,4,4514.9400000000005,38,34.2,26.9,Moderate Risk
+MBR-001093,Deborah Wright,White Settlement,738.0,Active,6,2,1778.32,17,35.3,12.6,Low Risk
+MBR-001095,Kevin Baker,Benbrook,738.0,Active,15,5,4382.91,36,41.7,32.1,Moderate Risk
+MBR-001097,Matthew Wright,Denton,686.0,Active,12,6,8123.58,32,37.5,32.9,Moderate Risk
+MBR-001098,Pamela Hernandez,Benbrook,520.0,Active,9,2,342.27,24,37.5,15.3,Low Risk
+MBR-001099,Melissa White,North Richland Hills,753.0,Active,17,4,1184.43,60,28.3,28.7,Moderate Risk
+MBR-001100,Helen Davis,Benbrook,707.0,Active,7,4,1683.0,29,24.1,16.9,Low Risk
+MBR-001102,Shirley Miller,Hurst,448.0,Active,13,5,10095.83,33,39.4,33.5,Moderate Risk
+MBR-001103,Amanda Lopez,Bedford,847.0,Active,17,7,16812.53,60,28.3,46.0,Moderate Risk
+MBR-001104,Angela King,Grapevine,668.0,Active,17,8,3287.87,56,30.4,38.9,Moderate Risk
+MBR-001106,Brandon Jackson,Haltom City,596.0,Active,21,8,9148.62,76,27.6,47.5,Moderate Risk
+MBR-001107,Sandra Nguyen,Mansfield,729.0,Active,14,8,9334.55,56,25.0,39.1,Moderate Risk
+MBR-001108,Jason Scott,Denton,595.0,Active,4,0,0.0,40,10.0,2.2,Low Risk
+MBR-001110,Daniel Rivera,Denton,833.0,Active,16,6,14167.599999999999,48,33.3,41.4,Moderate Risk
+MBR-001111,Barbara King,Hurst,664.0,Active,5,4,3557.2,15,33.3,16.7,Low Risk
+MBR-001113,Ryan Harris,Watauga,749.0,Active,11,4,5425.89,43,25.6,24.3,Low Risk
+MBR-001116,Anthony Lee,Keller,709.0,Active,10,2,1384.49,49,20.4,15.5,Low Risk
+MBR-001117,Dorothy Taylor,North Richland Hills,850.0,Active,9,4,10360.800000000001,24,37.5,26.6,Moderate Risk
+MBR-001118,Kevin Thomas,Euless,675.0,Active,5,1,1101.09,10,50.0,10.3,Low Risk
+MBR-001122,Christopher Wilson,Dallas,774.0,Active,22,4,1497.17,84,26.2,34.6,Moderate Risk
+MBR-001123,Betty Smith,Hurst,731.0,Active,8,1,1018.67,20,40.0,12.7,Low Risk
+MBR-001124,Ryan Clark,Weatherford,588.0,Active,10,1,492.55,42,23.8,13.1,Low Risk
+MBR-001129,Stephen Lee,Grapevine,674.0,Active,6,3,2431.98,17,35.3,15.2,Low Risk
+MBR-001131,Edward Anderson,Weatherford,705.0,Active,3,2,1999.54,21,14.3,7.1,Low Risk
+MBR-001134,Jessica Allen,Arlington,716.0,Active,18,4,964.34,71,25.4,29.4,Moderate Risk
+MBR-001135,Eric Miller,Euless,660.0,Active,21,9,6795.77,68,30.9,48.3,Moderate Risk
+MBR-001136,Cynthia Rivera,Southlake,757.0,Active,12,3,1974.3400000000001,49,24.5,20.8,Low Risk
+MBR-001138,Betty Hill,Granbury,581.0,Active,13,3,1310.58,50,26.0,21.7,Low Risk
+MBR-001139,Jacob Johnson,Arlington,727.0,Active,9,3,1260.3,41,22.0,16.6,Low Risk
+MBR-001140,Cynthia Davis,Arlington,736.0,Active,6,3,1851.63,18,33.3,14.6,Low Risk
+MBR-001142,Ronald Hill,North Richland Hills,790.0,Active,7,4,2018.57,27,25.9,17.3,Low Risk
+MBR-001143,Timothy Miller,Cleburne,667.0,Active,11,3,5518.28,30,36.7,23.4,Low Risk
+MBR-001145,Sarah Johnson,Euless,666.0,Active,7,3,1561.17,24,29.2,15.1,Low Risk
+MBR-001146,Anna Garcia,Grapevine,681.0,Active,27,13,12129.66,74,36.5,68.2,High Risk
+MBR-001150,Karen Robinson,Benbrook,612.0,Active,5,1,169.76,19,26.3,7.2,Low Risk
+MBR-001152,Ryan Nguyen,Bedford,507.0,Active,14,6,5072.22,49,28.6,32.2,Moderate Risk
+MBR-001154,Edward Moore,Watauga,574.0,Active,23,8,7940.08,67,34.3,49.6,Moderate Risk
+MBR-001155,Karen Carter,Euless,811.0,Active,13,1,303.32,34,38.2,17.9,Low Risk
+MBR-001157,Richard Sanchez,Fort Worth,624.0,Active,18,7,6928.62,51,35.3,41.0,Moderate Risk
+MBR-001158,Kimberly Johnson,Hurst,850.0,Active,6,3,5592.12,17,35.3,17.4,Low Risk
+MBR-001160,Mark Lee,Granbury,654.0,Active,14,4,3633.22,46,30.4,27.1,Moderate Risk
+MBR-001161,Stephen Lewis,Haltom City,480.0,Active,4,2,2611.56,11,36.4,10.9,Low Risk
+MBR-001162,Nancy Brown,Grapevine,850.0,Active,10,3,4025.79,50,20.0,19.5,Low Risk
+MBR-001163,Brenda Sanchez,Hurst,,Active,4,1,1366.42,18,22.2,6.5,Low Risk
+MBR-001164,Pamela Martin,Keller,548.0,Active,9,3,10367.0,34,26.5,23.4,Low Risk
+MBR-001168,Nancy Davis,Weatherford,725.0,Active,6,3,10360.05,24,25.0,19.7,Low Risk
+MBR-001169,Daniel Moore,Dallas,727.0,Active,4,2,542.1700000000001,22,18.2,7.7,Low Risk
+MBR-001170,Ronald Walker,Watauga,748.0,Active,12,4,1845.48,40,30.0,23.4,Low Risk
+MBR-001171,Dorothy Hernandez,Hurst,740.0,Active,12,4,2536.43,34,35.3,24.5,Low Risk
+MBR-001172,Deborah Carter,Arlington,702.0,Active,5,1,512.91,10,50.0,9.9,Low Risk
+MBR-001173,Steven White,Arlington,688.0,Active,5,0,0.0,12,41.7,6.5,Low Risk
+MBR-001174,Sarah Gonzalez,Euless,674.0,Active,15,5,450.36,47,31.9,28.3,Moderate Risk
+MBR-001175,Lisa Young,Fort Worth,619.0,Active,9,2,580.98,47,19.1,13.7,Low Risk
+MBR-001176,Deborah Thomas,Burleson,657.0,Active,10,3,4180.719999999999,29,34.5,21.0,Low Risk
+MBR-001177,Sandra Perez,Keller,544.0,Active,3,1,516.51,8,37.5,6.3,Low Risk
+MBR-001178,Daniel Moore,Burleson,672.0,Active,13,4,5646.65,61,21.3,26.4,Moderate Risk
+MBR-001179,Margaret Lewis,Denton,600.0,Active,20,7,4998.03,90,22.2,40.7,Moderate Risk
+MBR-001183,Pamela Scott,Granbury,753.0,Active,6,1,261.67,29,20.7,7.9,Low Risk
+MBR-001184,Patricia Allen,White Settlement,554.0,Active,11,5,5316.83,26,42.3,28.1,Moderate Risk
+MBR-001185,Donald Scott,Southlake,600.0,Active,11,4,2542.56,29,37.9,23.5,Low Risk
+MBR-001186,Kenneth Martin,Benbrook,755.0,Active,9,4,2980.3,34,26.5,20.4,Low Risk
+MBR-001187,Kimberly Perez,Bedford,601.0,Active,14,5,4615.15,33,42.4,31.1,Moderate Risk
+MBR-001189,Jacob Williams,White Settlement,724.0,Active,7,4,1760.2,13,53.8,19.9,Low Risk
+MBR-001190,Nicole Robinson,Haltom City,602.0,Active,4,2,363.28,20,20.0,7.7,Low Risk
+MBR-001193,Angela Lee,Euless,631.0,Active,6,2,5958.65,25,24.0,14.4,Low Risk
+MBR-001194,Charles Moore,White Settlement,705.0,Active,25,8,10436.849999999999,79,31.6,53.5,High Risk
+MBR-001195,Dorothy Campbell,Burleson,552.0,Active,29,5,8422.98,76,38.2,51.0,High Risk
+MBR-001197,Kimberly Walker,Haltom City,678.0,Active,8,3,2430.79,25,32.0,17.2,Low Risk
+MBR-001198,Laura Thomas,Weatherford,724.0,Active,12,6,7940.31,64,18.8,30.9,Moderate Risk
+MBR-001200,Jeffrey Brown,Weatherford,789.0,Active,9,2,1927.04,22,40.9,16.8,Low Risk

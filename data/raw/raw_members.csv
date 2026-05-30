@@ -1,0 +1,1219 @@
+member_id,first_name,last_name,join_date,city,state,credit_score,email,phone,account_status
+MBR-000001,Joseph,Johnson,03/03/2016,Mansfield,TX,719.0,,(817)792-9935,Active
+MBR-000002,Anna,Clark,12/11/2014,Euless,TX,668.0,anna.clark604@yahoo.com,(817)877-3615,Active
+MBR-000003,Brian,Hill,12/07/2015,Arlington,TX,731.0,brian.hill748@gmail.com,(817)487-2291,Active
+MBR-000004,Sandra,Roberts,06/28/2016,Dallas,TX,801.0,sandra.roberts876@yahoo.com,(817)489-5554,Active
+MBR-000005,Elizabeth,Hill,03/29/2024,Granbury,TX,661.0,elizabeth.hill547@gmail.com,(682)573-7216,Active
+MBR-000006,John,Lee,12/31/2018,Burleson,TX,661.0,john.lee68@yahoo.com,(214)317-9179,Active
+MBR-000007,Justin,Ramirez,02/02/2023,Bedford,TX,806.0,justin.ramirez371@yahoo.com,(682)621-9085,Active
+MBR-000008,Timothy,Hill,07/01/2020,Haltom City,TX,741.0,timothy.hill258@gmail.com,(817)796-2876,Active
+MBR-000009,Dorothy,Allen,01/03/2014,Haltom City,TX,642.0,dorothy.allen935@yahoo.com,(214)961-9317,Active
+MBR-000010,Michelle,Young,06/09/2010,Denton,TX,723.0,michelle.young952@yahoo.com,(214)345-1949,Active
+MBR-000011,Thomas,Rodriguez,08/29/2020,Watauga,TX,642.0,thomas.rodriguez170@yahoo.com,(972)316-9835,Inactive
+MBR-000012,LAURA,Davis,07/24/2015,Mansfield,TX,642.0,laura.davis66@yahoo.com,(682)702-4608,Active
+MBR-000013,Kimberly,Nelson,11/20/2020,Cleburne,TX,699.0,kimberly.nelson553@yahoo.com,(972)348-8749,Active
+MBR-000014,Richard,Brown,01/12/2019,Southlake,TX,526.0,richard.brown820@gmail.com,(682)296-4116,Active
+MBR-000015,Stephen,Miller,02/19/2011,Watauga,TX,542.0,stephen.miller857@yahoo.com,(817)871-4872,Closed
+MBR-000016,Dorothy,Robinson,05/25/2016,Hurst,TX,635.0,dorothy.robinson714@gmail.com,(972)258-4111,Active
+MBR-000017,Nicholas,King,07/13/2013,Arlington,TX,598.0,nicholas.king984@gmail.com,(682)170-2113,Active
+MBR-000018,Rebecca,Nelson,02/03/2023,Benbrook,TX,705.0,rebecca.nelson536@yahoo.com,(214)309-6147,Active
+MBR-000019,Ryan,Flores,08/18/2022,Denton,TX,607.0,ryan.flores76@gmail.com,(214)235-6718,Active
+MBR-000020,Shirley,Smith,06/10/2022,Keller,TX,567.0,shirley.smith955@gmail.com,(682)370-2891,Active
+MBR-000021,Dorothy,Allen,12/16/2020,Burleson,TX,797.0,dorothy.allen928@gmail.com,(817)194-7939,Active
+MBR-000022,Jason,Scott,03/21/2010,Denton,TX,661.0,jason.scott78@gmail.com,(682)658-1590,Active
+MBR-000023,Jennifer,Thompson,09/17/2014,Mansfield,TX,685.0,jennifer.thompson683@yahoo.com,(972)735-3532,Active
+MBR-000024,Kevin,Clark,07/26/2015,Burleson,TX,566.0,kevin.clark164@gmail.com,(817)491-1634,Active
+MBR-000025,Patricia,Nelson,05/02/2014,Bedford,TX,636.0,patricia.nelson337@yahoo.com,(817)891-5573,Inactive
+MBR-000026,Dorothy,Lopez,01/09/2023,Burleson,TX,688.0,dorothy.lopez40@yahoo.com,(972)453-6139,Active
+MBR-000027,Eric,Wright,06/03/2014,Grapevine,TX,587.0,eric.wright442@yahoo.com,(214)738-6143,Active
+MBR-000028,Stephen,Rodriguez,04/21/2014,Hurst,TX,710.0,stephen.rodriguez681@gmail.com,(682)730-5930,Active
+MBR-000029,Jeffrey,Lewis,10/17/2014,Haltom City,TX,631.0,jeffrey.lewis485@gmail.com,(682)774-2389,Active
+MBR-000030,Betty,Martinez,07/20/2010,Arlington,TX,656.0,betty.martinez251@gmail.com,(817)566-7790,Active
+MBR-000031,Susan,Roberts,07/15/2019,Mansfield,TX,631.0,susan.roberts181@gmail.com,(972)151-5082,Active
+MBR-000032,Jeffrey,Flores,04/28/2021,Hurst,TX,828.0,jeffrey.flores851@gmail.com,(972)262-8777,Active
+MBR-000033,Jeffrey,Jones,05/29/2016,Mansfield,TX,678.0,jeffrey.jones279@yahoo.com,(817)241-3471,Active
+MBR-000034,Anthony,Clark,09/26/2018,Benbrook,TX,595.0,anthony.clark969@gmail.com,(972)588-1096,Active
+MBR-000035,Nicole,Anderson,12/13/2020,Mansfield,TX,745.0,nicole.anderson280@gmail.com,(817)498-6507,Active
+MBR-000036,Ronald,Nguyen,08/29/2022,Fort Worth,TX,582.0,ronald.nguyen86@gmail.com,(682)987-8564,Active
+MBR-000037,Rebecca,Taylor,11/02/2011,North Richland Hills,TX,696.0,rebecca.taylor20@gmail.com,(817)458-4673,Active
+MBR-000038,Karen,Thomas,10/31/2012,North Richland Hills,TX,523.0,karen.thomas686@yahoo.com,(682)576-5198,Closed
+MBR-000039,Susan,Nguyen,07/30/2010,Keller,TX,573.0,susan.nguyen590@gmail.com,(972)506-4249,Active
+MBR-000040,Jessica,  Torres,12/03/2010,Grapevine,TX,695.0,jessica.torres546@gmail.com,(214)170-9289,Inactive
+MBR-000041,Ryan,Rivera,06/07/2013,Hurst,TX,739.0,ryan.rivera181@gmail.com,(214)730-9817,Inactive
+MBR-000042,Kimberly,Lewis,06/21/2015,Euless,TX,693.0,kimberly.lewis584@gmail.com,(972)444-1470,Active
+MBR-000043,Kimberly,Scott,03/25/2010,Haltom City,TX,670.0,kimberly.scott971@yahoo.com,(682)837-7658,Active
+MBR-000044,Mark,Sanchez,06/17/2015,Keller,TX,655.0,mark.sanchez680@gmail.com,(972)666-9698,Active
+MBR-000045,Matthew,Lee,09/06/2012,Watauga,TX,561.0,matthew.lee974@gmail.com,(682)296-4545,Inactive
+MBR-000046,Emily,Anderson,02/04/2018,Granbury,TX,622.0,emily.anderson310@yahoo.com,(682)380-1745,Inactive
+MBR-000047,Pamela,Jackson,07/12/2020,North Richland Hills,TX,643.0,pamela.jackson452@yahoo.com,(817)358-8827,Active
+MBR-000048,Joshua,Garcia,07/27/2015,Denton,TX,764.0,joshua.garcia572@gmail.com,(682)894-9561,Active
+MBR-000049,Richard,Carter,08/30/2014,Cleburne,TX,707.0,richard.carter271@gmail.com,(682)345-3847,Active
+MBR-000050,Andrew,Hall,03/08/2020,Dallas,TX,538.0,andrew.hall704@yahoo.com,(214)906-4241,Active
+MBR-000051,Donna,Hill,10/07/2022,Keller,TX,705.0,donna.hill450@yahoo.com,(214)816-7594,Active
+MBR-000052,Steven,Johnson,01/19/2012,Mansfield,TX,649.0,steven.johnson985@gmail.com,(817)883-5415,Closed
+MBR-000053,Sharon,Green,01/11/2021,Dallas,TX,625.0,sharon.green482@yahoo.com,(214)428-2713,Active
+MBR-000054,Ryan,  Garcia,01/20/2017,Burleson,TX,728.0,ryan.garcia332@yahoo.com,(972)985-9431,Active
+MBR-000055,Amy,Green,12/01/2019,Arlington,TX,762.0,,(682)394-8178,Active
+MBR-000056,Mary,Scott,02/25/2019,Dallas,TX,754.0,mary.scott231@gmail.com,(817)572-2924,Active
+MBR-000057,Jacob,Thomas,03/30/2020,Watauga,TX,612.0,jacob.thomas149@yahoo.com,(682)984-2143,Active
+MBR-000058,Joshua,Nguyen,01/03/2023,North Richland Hills,TX,655.0,joshua.nguyen887@yahoo.com,(972)453-6446,Active
+MBR-000059,Sandra,Roberts,03/20/2019,Arlington,TX,706.0,sandra.roberts326@gmail.com,(972)495-3492,Active
+MBR-000060,Shirley,Robinson,05/06/2010,Weatherford,TX,758.0,shirley.robinson420@gmail.com,(682)176-8692,Active
+MBR-000061,Jonathan,Harris,02/07/2017,North Richland Hills,TX,641.0,jonathan.harris894@gmail.com,(817)340-5708,Active
+MBR-000062,Joshua,Johnson,01/12/2011,Southlake,TX,665.0,joshua.johnson816@yahoo.com,(214)483-8056,Inactive
+MBR-000063,Helen,Baker,05/27/2015,North Richland Hills,TX,591.0,helen.baker935@gmail.com,(682)572-5161,Active
+MBR-000064,Brian,Nguyen,09/16/2016,Hurst,TX,584.0,brian.nguyen707@yahoo.com,(214)303-7302,Active
+MBR-000065,Ronald,Moore,03/08/2010,Benbrook,TX,745.0,ronald.moore886@gmail.com,(817)720-9138,Active
+MBR-000066,Steven,Baker,10/14/2024,Weatherford,TX,788.0,steven.baker644@yahoo.com,(817)416-8222,Active
+MBR-000067,Anna,White,11/27/2021,Haltom City,TX,674.0,anna.white936@yahoo.com,(682)363-8894,Active
+MBR-000068,Mark,Baker,11/30/2018,Watauga,TX,760.0,mark.baker375@yahoo.com,(972)114-5332,Closed
+MBR-000069,Susan,Baker,03/31/2015,North Richland Hills,TX,708.0,susan.baker26@gmail.com,(214)724-4626,Active
+MBR-000070,John,Martin,01/18/2021,Denton,TX,628.0,john.martin100@yahoo.com,(682)497-8432,Inactive
+MBR-000071,Richard,Young,10/23/2023,Hurst,TX,708.0,richard.young962@gmail.com,(817)806-7070,Inactive
+MBR-000072,Amanda,Brown,12/06/2018,Burleson,TX,803.0,,(972)193-4475,Active
+MBR-000073,David,Carter,06/07/2022,Cleburne,TX,677.0,david.carter601@yahoo.com,(682)436-3417,Active
+MBR-000074,JOSEPH,Nelson,07/31/2010,Weatherford,TX,805.0,joseph.nelson16@yahoo.com,(682)702-6304,Active
+MBR-000075,George,Allen,04/26/2023,Denton,TX,470.0,,(817)844-9543,Active
+MBR-000076,Jeffrey,Jones,10/24/2011,Southlake,TX,745.0,jeffrey.jones623@yahoo.com,(682)381-9984,Active
+MBR-000077,Joseph,Adams,08/07/2024,Watauga,TX,686.0,joseph.adams739@gmail.com,(972)562-4743,Active
+MBR-000078,Karen,Baker,08/21/2020,Dallas,TX,656.0,karen.baker94@gmail.com,(817)542-2582,Active
+MBR-000079,Edward,Thompson,06/27/2019,Arlington,TX,687.0,edward.thompson992@yahoo.com,(214)460-2697,Active
+MBR-000080,KIMBERLY,Torres,01/27/2015,Hurst,TX,520.0,kimberly.torres866@gmail.com,(817)723-5381,Active
+MBR-000081,Stephanie,Jones,03/08/2013,Fort Worth,TX,662.0,stephanie.jones94@gmail.com,(682)485-7878,Inactive
+MBR-000082,Karen,Hernandez,11/10/2023,Arlington,TX,708.0,karen.hernandez691@yahoo.com,(972)777-7947,Active
+MBR-000083,Emma,Young,10/26/2021,Keller,TX,798.0,emma.young47@yahoo.com,(817)107-4349,Active
+MBR-000083,Emma,Young,10/26/2021,Keller,TX,798.0,emma.young47@yahoo.com,(817)107-4349,Active
+MBR-000084,Daniel,Rodriguez,07/12/2018,Watauga,TX,638.0,,(214)173-7505,Active
+MBR-000085,Rebecca,Jackson,08/01/2012,Bedford,TX,615.0,rebecca.jackson22@gmail.com,(682)920-8538,Active
+MBR-000086,Ronald,Martin,08/13/2017,Mansfield,TX,639.0,ronald.martin342@gmail.com,(817)622-2868,Active
+MBR-000087,Susan,Martinez,09/28/2015,Cleburne,TX,753.0,susan.martinez178@gmail.com,(817)281-9095,Closed
+MBR-000088,Michelle,Green,02/02/2017,Weatherford,TX,706.0,michelle.green451@yahoo.com,(972)746-5961,Active
+MBR-000089,Andrew,Jones,06/17/2024,Dallas,TX,637.0,andrew.jones630@gmail.com,(972)573-1672,Active
+MBR-000090,Susan,Perez,11/22/2011,Haltom City,TX,721.0,susan.perez662@yahoo.com,(682)824-8172,Active
+MBR-000091,Scott,Brown,02/25/2024,Southlake,TX,687.0,scott.brown68@yahoo.com,(972)390-5128,Active
+MBR-000092,Brian,Martin,09/18/2024,Bedford,TX,757.0,brian.martin133@gmail.com,(817)417-7171,Inactive
+MBR-000093,Barbara,Adams,07/01/2019,Haltom City,TX,623.0,barbara.adams371@yahoo.com,(214)284-4509,Active
+MBR-000094,Nicholas,Roberts,02/08/2022,Haltom City,TX,653.0,nicholas.roberts39@gmail.com,(682)711-7172,Active
+MBR-000095,George,Baker,04/30/2015,Euless,TX,648.0,george.baker626@yahoo.com,(972)339-9749,Active
+MBR-000096,Jeffrey,Robinson,04/27/2016,Bedford,TX,562.0,jeffrey.robinson515@gmail.com,(682)936-4271,Active
+MBR-000097,Eric,Davis,05/24/2016,Dallas,TX,703.0,eric.davis782@yahoo.com,(972)625-3414,Active
+MBR-000098,Ronald,Allen,05/22/2018,Mansfield,TX,700.0,ronald.allen396@gmail.com,(214)329-1461,Inactive
+MBR-000099,Jacob,Hall,02/10/2013,North Richland Hills,TX,680.0,jacob.hall460@gmail.com,(817)119-5193,Active
+MBR-000100,Jessica,Brown,05/08/2015,Hurst,TX,661.0,jessica.brown655@gmail.com,(972)164-2816,Active
+MBR-000101,James,Flores,11/30/2017,Mansfield,TX,566.0,james.flores585@gmail.com,(817)636-6908,Active
+MBR-000102,Deborah,White,09/09/2015,Fort Worth,TX,646.0,deborah.white366@gmail.com,(214)346-2698,Active
+MBR-000103,Cynthia,Hall,09/25/2020,Granbury,TX,652.0,cynthia.hall831@yahoo.com,(972)137-5807,Active
+MBR-000104,Jacob,Taylor,10/27/2010,Cleburne,TX,615.0,jacob.taylor293@yahoo.com,(817)986-6438,Active
+MBR-000105,Nancy,Young,02/27/2021,Grapevine,TX,667.0,nancy.young947@gmail.com,(214)920-2353,Active
+MBR-000106,Emily,Martin,01/01/2020,White Settlement,TX,712.0,emily.martin735@gmail.com,(972)459-8325,Closed
+MBR-000107,Elizabeth,Nelson,04/19/2024,Bedford,TX,830.0,elizabeth.nelson373@gmail.com,(682)131-3339,Active
+MBR-000108,Larry,Williams,07/28/2023,Weatherford,TX,693.0,larry.williams696@gmail.com,(214)480-8273,Active
+MBR-000109,Nancy,Young,08/12/2021,Bedford,TX,700.0,nancy.young936@gmail.com,(214)893-5264,Active
+MBR-000110,Elizabeth,Lewis,11/15/2013,Euless,TX,674.0,elizabeth.lewis90@gmail.com,(214)783-6692,Active
+MBR-000111,DANIEL,White,05/30/2021,Mansfield,TX,526.0,daniel.white125@gmail.com,(682)342-9094,Active
+MBR-000112,Donna,Sanchez,09/26/2020,Haltom City,TX,677.0,donna.sanchez421@gmail.com,(817)228-6194,Active
+MBR-000113,Nancy,Roberts,11/23/2012,Hurst,TX,684.0,nancy.roberts515@gmail.com,(817)951-3034,Active
+MBR-000114,Andrew,Garcia,08/15/2015,Cleburne,TX,850.0,andrew.garcia651@gmail.com,(214)228-5961,Active
+MBR-000115,Nicole,Perez,08/23/2022,Arlington,TX,664.0,nicole.perez846@gmail.com,(817)146-5336,Active
+MBR-000116,Joshua,Walker,06/30/2015,Bedford,TX,704.0,joshua.walker305@gmail.com,(817)261-8202,Closed
+MBR-000117,Brian,Sanchez,12/07/2012,Grapevine,TX,677.0,brian.sanchez528@gmail.com,(214)347-8642,Active
+MBR-000118,Christopher,Lee,12/16/2022,Southlake,TX,586.0,,(972)627-8648,Active
+MBR-000119,AMANDA,Brown,02/19/2011,Keller,TX,771.0,amanda.brown507@gmail.com,(972)392-9793,Active
+MBR-000120,Michael,Torres,08/08/2022,Cleburne,TX,740.0,michael.torres372@gmail.com,(817)495-9261,Active
+MBR-000121,Melissa,Perez,07/06/2022,Grapevine,TX,743.0,melissa.perez774@yahoo.com,(972)612-1659,Active
+MBR-000122,Michelle,Flores,02/22/2017,Granbury,TX,607.0,michelle.flores403@gmail.com,(214)707-6511,Active
+MBR-000123,Joseph,Clark,02/03/2023,Keller,TX,792.0,joseph.clark816@gmail.com,(817)711-8775,Active
+MBR-000124,Shirley,Green,11/25/2023,Bedford,TX,567.0,shirley.green152@gmail.com,(682)132-2800,Active
+MBR-000125,Jacob,Mitchell,05/26/2011,Weatherford,TX,726.0,jacob.mitchell532@yahoo.com,(214)778-8837,Active
+MBR-000126,Dorothy,Flores,11/10/2020,Cleburne,TX,850.0,dorothy.flores981@yahoo.com,(214)330-5876,Inactive
+MBR-000127,Kimberly,Jackson,09/25/2012,Benbrook,TX,600.0,kimberly.jackson693@gmail.com,(972)938-6654,Active
+MBR-000128,Steven,Mitchell,09/29/2020,Cleburne,TX,634.0,steven.mitchell207@gmail.com,(214)675-5450,Active
+MBR-000129,Michael,Miller,04/09/2019,Southlake,TX,687.0,michael.miller735@gmail.com,(682)105-3587,Active
+MBR-000130,Linda,Roberts,01/03/2012,Benbrook,TX,639.0,linda.roberts238@gmail.com,(817)279-7846,Inactive
+MBR-000131,Emily,Williams,03/17/2010,Keller,TX,555.0,emily.williams582@gmail.com,(214)391-8444,Active
+MBR-000132,Joseph,Perez,08/24/2013,Euless,TX,685.0,joseph.perez664@yahoo.com,(682)114-6523,Inactive
+MBR-000133,Angela,  Lee,12/12/2011,Bedford,TX,595.0,angela.lee686@yahoo.com,(682)588-6301,Active
+MBR-000134,Pamela,Smith,11/13/2015,Grapevine,TX,717.0,pamela.smith710@yahoo.com,(817)576-6026,Active
+MBR-000135,Emily,White,10/15/2023,Mansfield,TX,606.0,emily.white225@gmail.com,(972)256-8454,Active
+MBR-000136,Margaret,Carter,07/21/2015,White Settlement,TX,803.0,margaret.carter895@gmail.com,(972)640-6927,Active
+MBR-000137,Michelle,King,11/29/2019,Denton,TX,617.0,michelle.king697@yahoo.com,(972)193-9361,Active
+MBR-000138,Donna,Campbell,06/28/2010,Bedford,TX,654.0,donna.campbell261@gmail.com,(682)692-2196,Inactive
+MBR-000139,John,Jackson,03/04/2019,Granbury,TX,745.0,john.jackson788@yahoo.com,(972)483-7266,Active
+MBR-000140,Brian,Davis,01/02/2014,Watauga,TX,581.0,brian.davis403@gmail.com,(682)954-1056,Active
+MBR-000141,Ryan,Thompson,06/24/2013,Burleson,TX,698.0,ryan.thompson194@gmail.com,(817)132-7868,Active
+MBR-000142,Michael,Thomas,12/29/2010,Bedford,TX,784.0,michael.thomas450@yahoo.com,(682)872-1924,Active
+MBR-000143,Michelle,Thomas,10/08/2016,Weatherford,TX,551.0,michelle.thomas677@gmail.com,(972)407-5508,Active
+MBR-000144,Brian,Adams,07/20/2018,Haltom City,TX,694.0,brian.adams327@gmail.com,(972)252-5913,Active
+MBR-000145,Linda,Scott,04/04/2019,Hurst,TX,700.0,linda.scott571@gmail.com,(972)348-5177,Active
+MBR-000146,Paul,Harris,07/27/2023,White Settlement,TX,,paul.harris41@gmail.com,(682)923-4555,Closed
+MBR-000147,Jessica,Mitchell,09/28/2020,Mansfield,TX,581.0,jessica.mitchell713@gmail.com,(682)506-4921,Active
+MBR-000148,Amy,Robinson,03/18/2012,North Richland Hills,TX,574.0,amy.robinson780@gmail.com,(682)479-6126,Active
+MBR-000149,Rebecca,Jackson,06/02/2013,Cleburne,TX,721.0,rebecca.jackson338@yahoo.com,(682)611-6530,Active
+MBR-000150,Lisa,Rodriguez,04/05/2022,North Richland Hills,TX,,lisa.rodriguez189@gmail.com,(817)636-1554,Active
+MBR-000151,David,  Rivera,05/22/2013,Fort Worth,TX,,david.rivera224@gmail.com,(214)161-8916,Active
+MBR-000152,Andrew,Johnson,04/07/2021,Hurst,TX,707.0,andrew.johnson826@gmail.com,(682)209-2578,Active
+MBR-000153,Stephanie,Robinson,09/03/2022,Mansfield,TX,,stephanie.robinson714@yahoo.com,(817)769-1519,Active
+MBR-000154,Sharon,Adams,06/06/2017,Benbrook,TX,698.0,sharon.adams879@gmail.com,(817)335-4463,Active
+MBR-000155,Anna,Torres,10/05/2024,Arlington,TX,703.0,anna.torres184@gmail.com,(214)116-4394,Active
+MBR-000156,Deborah,Baker,02/15/2022,Southlake,TX,622.0,deborah.baker394@gmail.com,(682)909-2284,Active
+MBR-000157,Scott,Sanchez,04/27/2017,Fort Worth,TX,829.0,scott.sanchez650@yahoo.com,(972)602-4737,Active
+MBR-000158,Ashley,Rivera,08/26/2011,Dallas,TX,717.0,,(682)857-7383,Active
+MBR-000159,Nancy,Ramirez,01/25/2020,Watauga,TX,584.0,nancy.ramirez569@gmail.com,(817)126-2468,Active
+MBR-000160,William,Campbell,07/20/2022,Mansfield,TX,732.0,william.campbell586@gmail.com,(972)273-3274,Active
+MBR-000161,George,Taylor,07/14/2015,North Richland Hills,TX,602.0,george.taylor609@gmail.com,(972)209-3219,Active
+MBR-000162,Scott,Rodriguez,09/27/2016,Southlake,TX,742.0,scott.rodriguez618@gmail.com,(682)590-6147,Active
+MBR-000163,Michelle,Harris,04/15/2016,Bedford,TX,772.0,,(682)706-9939,Active
+MBR-000164,David,Clark,03/14/2021,Weatherford,TX,614.0,david.clark649@yahoo.com,(214)774-3525,Active
+MBR-000165,Rebecca,Wright,10/29/2010,Grapevine,TX,757.0,rebecca.wright719@gmail.com,(817)211-5067,Active
+MBR-000166,Kevin,Ramirez,05/17/2012,Fort Worth,TX,713.0,kevin.ramirez101@yahoo.com,(682)556-7129,Active
+MBR-000167,Rebecca,Garcia,08/08/2012,Weatherford,TX,745.0,rebecca.garcia357@yahoo.com,(972)903-4389,Active
+MBR-000168,Joseph,Johnson,09/11/2017,Denton,TX,831.0,joseph.johnson694@gmail.com,(682)628-3858,Active
+MBR-000169,Sharon,Sanchez,08/28/2010,White Settlement,TX,660.0,sharon.sanchez905@yahoo.com,(972)498-1072,Inactive
+MBR-000170,Nancy,White,04/24/2017,Cleburne,TX,619.0,nancy.white469@yahoo.com,(972)640-6134,Active
+MBR-000171,Joshua,Flores,03/28/2023,Dallas,TX,608.0,joshua.flores689@yahoo.com,(817)344-6003,Active
+MBR-000172,Gary,Green,01/20/2022,Granbury,TX,,gary.green569@yahoo.com,(214)243-4065,Active
+MBR-000173,Brenda,Allen,08/24/2024,North Richland Hills,TX,673.0,,(972)827-8272,Active
+MBR-000174,Lisa,Roberts,04/04/2020,Benbrook,TX,707.0,lisa.roberts761@gmail.com,(972)662-9369,Active
+MBR-000175,Jeffrey,Wright,11/26/2014,Hurst,TX,702.0,jeffrey.wright105@gmail.com,(682)404-1528,Active
+MBR-000176,Emma,Hall,11/12/2017,White Settlement,TX,746.0,emma.hall648@gmail.com,(682)903-4385,Closed
+MBR-000177,Emily,Jackson,11/05/2022,Burleson,TX,681.0,emily.jackson976@gmail.com,(817)238-7743,Active
+MBR-000178,Ashley,Carter,10/23/2018,North Richland Hills,TX,796.0,ashley.carter146@gmail.com,(214)742-7786,Active
+MBR-000179,Melissa,Robinson,12/12/2020,Southlake,TX,658.0,melissa.robinson596@yahoo.com,(817)848-8511,Inactive
+MBR-000180,Amy,Moore,03/29/2017,Keller,TX,850.0,amy.moore346@gmail.com,(682)679-8951,Active
+MBR-000181,Christopher,Lewis,03/28/2020,Fort Worth,TX,730.0,christopher.lewis982@gmail.com,(682)765-5945,Inactive
+MBR-000182,Lisa,  Brown,11/21/2018,Keller,TX,611.0,lisa.brown744@gmail.com,(682)539-2494,Active
+MBR-000183,Carol,Davis,06/22/2019,Weatherford,TX,594.0,carol.davis490@yahoo.com,(972)191-2678,Active
+MBR-000184,Charles,Jones,11/24/2021,Benbrook,TX,718.0,charles.jones9@gmail.com,(682)550-6753,Active
+MBR-000185,Richard,Rodriguez,10/05/2012,Benbrook,TX,662.0,richard.rodriguez748@yahoo.com,(972)422-3290,Closed
+MBR-000186,Patricia,Nelson,10/07/2016,Cleburne,TX,737.0,patricia.nelson531@gmail.com,(682)865-7418,Active
+MBR-000187,Scott,Jones,11/06/2021,Fort Worth,TX,717.0,scott.jones370@gmail.com,(682)496-7895,Active
+MBR-000188,Dorothy,Wilson,11/23/2010,Arlington,TX,674.0,dorothy.wilson972@gmail.com,(214)743-9209,Active
+MBR-000189,William,Allen,07/23/2014,Weatherford,TX,612.0,william.allen550@yahoo.com,(817)417-8167,Active
+MBR-000190,Donna,Nelson,10/04/2024,Granbury,TX,558.0,donna.nelson123@yahoo.com,(682)818-1185,Active
+MBR-000191,Paul,Campbell,08/25/2012,Fort Worth,TX,644.0,paul.campbell344@gmail.com,(214)636-2046,Inactive
+MBR-000192,LISA,White,07/12/2013,Burleson,TX,748.0,,(817)333-9336,Active
+MBR-000193,John,Scott,09/15/2024,Hurst,TX,697.0,john.scott230@yahoo.com,(972)837-6241,Active
+MBR-000194,Jennifer,  Sanchez,07/19/2011,Euless,TX,580.0,jennifer.sanchez887@yahoo.com,(214)435-2415,Active
+MBR-000195,EMMA,Young,05/20/2014,Watauga,TX,,emma.young779@gmail.com,(682)106-7718,Active
+MBR-000196,Timothy,Mitchell,11/24/2016,Denton,TX,710.0,timothy.mitchell211@gmail.com,(682)529-9061,Inactive
+MBR-000197,Edward,Hall,05/10/2018,Euless,TX,609.0,edward.hall998@gmail.com,(817)617-3187,Active
+MBR-000198,Kenneth,Sanchez,04/26/2017,Southlake,TX,692.0,kenneth.sanchez464@yahoo.com,(817)307-3230,Active
+MBR-000199,Anthony,Lewis,11/30/2016,Euless,TX,684.0,,(817)261-5984,Active
+MBR-000200,Amanda,Sanchez,07/08/2021,Arlington,TX,588.0,amanda.sanchez694@yahoo.com,(682)131-7625,Active
+MBR-000201,Linda,Roberts,12/26/2014,Weatherford,TX,708.0,linda.roberts203@gmail.com,N/A,Active
+MBR-000202,Thomas,Garcia,06/09/2017,Denton,TX,724.0,,(817)272-8096,Active
+MBR-000203,Kimberly,Lewis,05/02/2013,Arlington,TX,766.0,kimberly.lewis629@gmail.com,(682)762-5835,Active
+MBR-000204,Shirley,Thomas,02/24/2024,Watauga,TX,764.0,shirley.thomas814@yahoo.com,(972)900-6883,Active
+MBR-000205,Scott,Anderson,08/29/2010,Burleson,TX,569.0,scott.anderson60@gmail.com,(972)642-6856,Active
+MBR-000206,Linda,Carter,12/03/2014,Benbrook,TX,604.0,linda.carter867@gmail.com,(972)463-3846,Active
+MBR-000207,Larry,Torres,03/10/2013,Benbrook,TX,,larry.torres972@yahoo.com,(972)655-6063,Active
+MBR-000208,Brandon,Gonzalez,12/04/2012,Southlake,TX,721.0,brandon.gonzalez735@yahoo.com,(214)160-1359,Active
+MBR-000209,Ronald,Nguyen,04/07/2012,Southlake,TX,721.0,ronald.nguyen310@yahoo.com,(682)849-8157,Inactive
+MBR-000210,Amanda,Anderson,03/18/2023,Granbury,TX,850.0,amanda.anderson388@yahoo.com,(214)230-3911,Active
+MBR-000211,Nicole,Lee,09/18/2023,Mansfield,TX,725.0,nicole.lee655@gmail.com,(972)244-6425,Active
+MBR-000212,Kevin,Lewis,04/04/2010,Burleson,TX,770.0,,(817)458-5205,Active
+MBR-000213,Timothy,Thompson,04/01/2022,Bedford,TX,756.0,timothy.thompson104@gmail.com,(682)266-8393,Active
+MBR-000214,Timothy,Hernandez,09/07/2011,Watauga,TX,732.0,timothy.hernandez965@gmail.com,(817)446-8909,Active
+MBR-000215,Matthew,Clark,06/06/2022,Watauga,TX,654.0,matthew.clark272@gmail.com,(214)343-2571,Active
+MBR-000216,Scott,Walker,06/24/2014,Denton,TX,740.0,scott.walker27@yahoo.com,(214)183-8758,Active
+MBR-000217,Nancy,White,07/22/2018,Grapevine,TX,618.0,nancy.white192@gmail.com,(214)550-8619,Active
+MBR-000218,Anna,Clark,03/25/2023,Mansfield,TX,661.0,anna.clark567@yahoo.com,(972)938-9561,Active
+MBR-000219,John,Allen,10/24/2022,Haltom City,TX,641.0,john.allen820@gmail.com,(682)223-8357,Closed
+MBR-000220,Sharon,Gonzalez,01/26/2024,Weatherford,TX,686.0,sharon.gonzalez855@gmail.com,(214)844-2097,Active
+MBR-000221,Helen,Nguyen,09/20/2021,Hurst,TX,850.0,helen.nguyen116@gmail.com,(682)680-2641,Active
+MBR-000222,Deborah,Adams,11/21/2020,Benbrook,TX,530.0,deborah.adams624@gmail.com,N/A,Active
+MBR-000223,Jacob,Moore,05/10/2018,Fort Worth,TX,734.0,jacob.moore346@gmail.com,(214)418-5593,Active
+MBR-000224,Michelle,Moore,05/08/2019,White Settlement,TX,550.0,michelle.moore662@yahoo.com,(972)316-7671,Active
+MBR-000225,Nicholas,Sanchez,01/16/2013,Haltom City,TX,642.0,nicholas.sanchez901@gmail.com,(682)297-4288,Inactive
+MBR-000226,Nicholas,Sanchez,04/02/2024,Denton,TX,767.0,nicholas.sanchez698@yahoo.com,(214)600-8308,Active
+MBR-000227,Barbara,Jackson,08/13/2010,Bedford,TX,685.0,barbara.jackson51@yahoo.com,(682)977-4626,Active
+MBR-000228,Mary,Walker,12/19/2012,Granbury,TX,593.0,mary.walker616@gmail.com,(682)358-6004,Active
+MBR-000229,Joshua,Baker,09/05/2021,White Settlement,TX,622.0,joshua.baker407@gmail.com,(817)623-7131,Active
+MBR-000230,Michelle,Moore,11/10/2015,Keller,TX,734.0,michelle.moore193@yahoo.com,(682)158-7620,Active
+MBR-000231,Deborah,Mitchell,10/17/2010,Benbrook,TX,621.0,deborah.mitchell726@gmail.com,(682)451-4643,Active
+MBR-000232,Brenda,Lopez,08/03/2016,Denton,TX,697.0,brenda.lopez483@yahoo.com,(214)842-3999,Active
+MBR-000233,Kevin,White,11/05/2015,Benbrook,TX,683.0,kevin.white302@gmail.com,(817)581-1879,Inactive
+MBR-000234,Timothy,King,09/10/2016,Hurst,TX,627.0,timothy.king56@gmail.com,(682)240-4281,Active
+MBR-000235,William,Young,06/17/2017,Granbury,TX,850.0,william.young321@gmail.com,(817)562-5481,Active
+MBR-000236,Sharon,Green,08/19/2019,Bedford,TX,730.0,sharon.green440@gmail.com,(972)104-1618,Active
+MBR-000237,James,Green,08/01/2015,Mansfield,TX,517.0,james.green711@gmail.com,(214)232-2682,Active
+MBR-000238,Scott,King,07/30/2017,Hurst,TX,694.0,scott.king910@gmail.com,(682)450-9031,Active
+MBR-000239,Thomas,Wilson,06/29/2010,Benbrook,TX,627.0,thomas.wilson517@yahoo.com,(214)828-1612,Active
+MBR-000240,Robert,Brown,08/06/2012,Hurst,TX,748.0,,(214)585-3508,Active
+MBR-000241,Sarah,Clark,05/09/2012,Haltom City,TX,616.0,sarah.clark737@gmail.com,(214)216-2741,Active
+MBR-000242,CHRISTOPHER,Williams,04/18/2022,North Richland Hills,TX,670.0,christopher.williams933@yahoo.com,(972)438-4842,Active
+MBR-000243,Angela,Jones,04/09/2012,Burleson,TX,720.0,angela.jones660@yahoo.com,(214)370-8606,Active
+MBR-000244,Joseph,Miller,01/11/2011,Fort Worth,TX,749.0,joseph.miller873@yahoo.com,(682)436-6857,Active
+MBR-000245,Stephanie,Robinson,02/05/2016,Bedford,TX,583.0,stephanie.robinson707@gmail.com,(972)764-3732,Active
+MBR-000246,Larry,Baker,10/30/2019,Granbury,TX,653.0,larry.baker626@yahoo.com,(214)726-1472,Inactive
+MBR-000247,Jeffrey,Williams,06/03/2011,Burleson,TX,642.0,jeffrey.williams671@yahoo.com,(682)785-6542,Active
+MBR-000248,Deborah,Martinez,07/10/2022,White Settlement,TX,627.0,deborah.martinez56@yahoo.com,(682)617-8688,Active
+MBR-000249,Mark,Scott,06/06/2024,Bedford,TX,821.0,mark.scott413@gmail.com,(817)570-8277,Active
+MBR-000250,Susan,Sanchez,04/01/2019,Arlington,TX,712.0,susan.sanchez571@gmail.com,(817)910-5990,Active
+MBR-000251,Ryan,Perez,07/25/2022,White Settlement,TX,579.0,ryan.perez615@gmail.com,(214)833-8414,Active
+MBR-000252,Eric,White,05/20/2012,Arlington,TX,753.0,eric.white919@yahoo.com,(682)941-7704,Active
+MBR-000253,Carol,Miller,04/19/2019,Arlington,TX,,carol.miller949@gmail.com,(817)890-8381,Active
+MBR-000254,Sharon,Nguyen,10/31/2020,Haltom City,TX,762.0,sharon.nguyen800@gmail.com,(682)808-3845,Active
+MBR-000255,Nicole,Hall,07/27/2015,Burleson,TX,558.0,nicole.hall408@gmail.com,(214)563-3185,Active
+MBR-000256,Stephen,Green,11/16/2014,Cleburne,TX,641.0,stephen.green215@gmail.com,(214)803-6657,Active
+MBR-000257,Joseph,Carter,11/25/2017,Watauga,TX,781.0,joseph.carter492@gmail.com,(972)790-9747,Active
+MBR-000258,Betty,Moore,08/11/2013,Keller,TX,623.0,betty.moore700@yahoo.com,(817)807-5835,Active
+MBR-000259,Mark,Mitchell,07/07/2024,Watauga,TX,715.0,mark.mitchell399@yahoo.com,(214)809-1769,Active
+MBR-000260,Steven,Gonzalez,12/02/2023,Euless,TX,741.0,steven.gonzalez850@yahoo.com,(214)873-9955,Active
+MBR-000261,Daniel,Mitchell,07/11/2021,Denton,TX,605.0,daniel.mitchell387@yahoo.com,(214)669-5329,Active
+MBR-000262,Michelle,Hill,02/21/2011,White Settlement,TX,675.0,michelle.hill864@gmail.com,(972)908-6866,Active
+MBR-000263,Anna,Wright,01/18/2019,Dallas,TX,420.0,anna.wright358@yahoo.com,(682)779-6437,Active
+MBR-000264,Mary,Davis,10/05/2017,Euless,TX,598.0,mary.davis247@gmail.com,(682)140-6258,Active
+MBR-000265,Melissa,Allen,05/30/2021,Euless,TX,659.0,melissa.allen499@yahoo.com,(682)428-9419,Active
+MBR-000266,Margaret,Baker,07/08/2019,Denton,TX,580.0,margaret.baker211@gmail.com,(972)762-2181,Active
+MBR-000267,Brenda,  Jones,11/24/2022,Mansfield,TX,810.0,brenda.jones933@yahoo.com,(972)561-7626,Active
+MBR-000268,Justin,Williams,08/18/2011,Grapevine,TX,565.0,justin.williams951@gmail.com,(214)905-5937,Active
+MBR-000269,Mark,  Rodriguez,10/09/2018,Watauga,TX,644.0,mark.rodriguez303@gmail.com,(682)405-7113,Active
+MBR-000270,Stephen,Garcia,11/01/2016,Cleburne,TX,690.0,stephen.garcia767@gmail.com,(214)316-7760,Active
+MBR-000271,Larry,Brown,04/24/2022,Euless,TX,795.0,larry.brown661@gmail.com,(214)787-2103,Active
+MBR-000272,Andrew,Flores,07/26/2011,Cleburne,TX,565.0,andrew.flores326@gmail.com,(214)731-6008,Active
+MBR-000273,Mark,Rivera,05/16/2024,Hurst,TX,773.0,mark.rivera284@gmail.com,(682)795-6432,Active
+MBR-000274,Kimberly,Rodriguez,01/30/2022,Cleburne,TX,680.0,kimberly.rodriguez270@gmail.com,(817)844-2235,Active
+MBR-000275,John,Scott,11/05/2015,Watauga,TX,601.0,john.scott916@gmail.com,(972)769-3435,Active
+MBR-000276,Ronald,White,04/06/2021,Fort Worth,TX,716.0,ronald.white679@yahoo.com,(682)875-9423,Active
+MBR-000277,Amanda,Williams,11/28/2014,North Richland Hills,TX,695.0,amanda.williams238@yahoo.com,(214)339-1701,Active
+MBR-000278,Michelle,Miller,09/11/2021,Burleson,TX,631.0,michelle.miller855@gmail.com,(682)485-7201,Active
+MBR-000279,Amanda,Thompson,12/02/2020,North Richland Hills,TX,685.0,amanda.thompson909@gmail.com,(682)550-3713,Active
+MBR-000280,Sandra,Clark,05/29/2017,Denton,TX,649.0,sandra.clark494@gmail.com,(972)315-3641,Active
+MBR-000281,Pamela,Martinez,04/04/2011,Granbury,TX,689.0,pamela.martinez265@gmail.com,(972)713-1305,Active
+MBR-000282,Kathleen,Hernandez,12/03/2014,Hurst,TX,732.0,kathleen.hernandez616@yahoo.com,(682)738-9369,Active
+MBR-000283,Susan,Johnson,07/16/2014,Haltom City,TX,806.0,susan.johnson881@gmail.com,(972)946-3450,Active
+MBR-000284,Barbara,Walker,12/03/2012,White Settlement,TX,580.0,barbara.walker553@gmail.com,(972)634-7892,Active
+MBR-000285,Emma,Mitchell,12/03/2022,Denton,TX,850.0,emma.mitchell436@yahoo.com,(972)884-4809,Active
+MBR-000285,Emma,Mitchell,12/03/2022,Denton,TX,850.0,emma.mitchell436@yahoo.com,(972)884-4809,Active
+MBR-000286,James,Torres,09/20/2021,Denton,TX,523.0,james.torres533@yahoo.com,(682)804-6175,Active
+MBR-000287,Brandon,Moore,11/30/2018,Cleburne,TX,667.0,brandon.moore424@gmail.com,(972)283-7065,Active
+MBR-000288,Jessica,Mitchell,02/26/2015,Euless,TX,727.0,jessica.mitchell802@gmail.com,(682)202-4513,Active
+MBR-000289,James,Garcia,04/05/2013,North Richland Hills,TX,702.0,,(817)165-5310,Active
+MBR-000290,Scott,Brown,12/06/2013,North Richland Hills,TX,630.0,scott.brown450@yahoo.com,(214)299-1550,Active
+MBR-000291,Christopher,Garcia,03/10/2016,Bedford,TX,663.0,christopher.garcia362@gmail.com,(972)700-4281,Inactive
+MBR-000292,Brian,Thompson,03/15/2016,Mansfield,TX,640.0,brian.thompson621@gmail.com,(972)513-1076,Active
+MBR-000293,Steven,Wright,11/23/2022,Burleson,TX,632.0,steven.wright711@gmail.com,(972)676-8923,Active
+MBR-000294,Joseph,Taylor,07/08/2011,Bedford,TX,747.0,joseph.taylor649@gmail.com,(682)793-4767,Active
+MBR-000295,Stephanie,Baker,09/02/2017,Dallas,TX,708.0,stephanie.baker568@gmail.com,(972)421-6792,Active
+MBR-000296,Donald,Mitchell,06/06/2015,Burleson,TX,624.0,donald.mitchell212@yahoo.com,(682)956-6833,Active
+MBR-000297,Anna,Williams,10/25/2020,Grapevine,TX,751.0,anna.williams636@yahoo.com,(214)602-3996,Active
+MBR-000298,Kathleen,Wright,09/24/2010,Haltom City,TX,704.0,kathleen.wright356@yahoo.com,N/A,Active
+MBR-000299,Brandon,Taylor,03/14/2014,Watauga,TX,745.0,brandon.taylor270@yahoo.com,(972)727-6621,Active
+MBR-000300,Nancy,Torres,12/10/2012,Benbrook,TX,730.0,nancy.torres703@yahoo.com,(817)838-5422,Active
+MBR-000301,Mary,Lopez,06/16/2019,North Richland Hills,TX,613.0,mary.lopez138@gmail.com,(214)904-8972,Active
+MBR-000302,Jacob,Green,02/28/2012,Euless,TX,635.0,jacob.green763@yahoo.com,(214)468-5222,Active
+MBR-000303,Jonathan,Lopez,05/20/2016,Grapevine,TX,739.0,jonathan.lopez333@gmail.com,(972)893-8322,Active
+MBR-000304,Carol,Clark,02/28/2024,White Settlement,TX,728.0,carol.clark586@gmail.com,(817)181-3654,Inactive
+MBR-000305,George,Mitchell,03/02/2023,Haltom City,TX,678.0,george.mitchell989@gmail.com,(682)288-1378,Active
+MBR-000306,Richard,Jones,08/12/2020,Watauga,TX,689.0,richard.jones56@yahoo.com,(972)636-2363,Active
+MBR-000307,Jeffrey,Green,11/01/2012,Weatherford,TX,782.0,jeffrey.green540@gmail.com,(817)135-6846,Active
+MBR-000308,Anna,Lopez,04/03/2023,White Settlement,TX,632.0,anna.lopez468@gmail.com,(972)636-9745,Active
+MBR-000309,Joshua,  Smith,01/01/2010,Haltom City,TX,723.0,joshua.smith835@gmail.com,(682)452-5698,Active
+MBR-000309,Joshua,  Smith,01/01/2010,Haltom City,TX,723.0,joshua.smith835@gmail.com,(682)452-5698,Active
+MBR-000310,Emily,Hill,03/10/2015,Fort Worth,TX,663.0,emily.hill562@yahoo.com,(972)674-8161,Active
+MBR-000311,Donald,King,10/03/2023,Burleson,TX,662.0,donald.king292@gmail.com,(214)522-4080,Active
+MBR-000312,Matthew,Lee,06/08/2010,Weatherford,TX,767.0,matthew.lee51@gmail.com,N/A,Active
+MBR-000312,Matthew,Lee,06/08/2010,Weatherford,TX,767.0,matthew.lee51@gmail.com,N/A,Active
+MBR-000313,Rebecca,Martin,03/06/2021,Grapevine,TX,746.0,rebecca.martin475@gmail.com,(817)438-2314,Active
+MBR-000314,Steven,Harris,04/14/2010,Denton,TX,745.0,steven.harris998@gmail.com,(682)494-8257,Active
+MBR-000315,Deborah,Baker,12/31/2016,Southlake,TX,784.0,deborah.baker163@gmail.com,(817)862-9534,Closed
+MBR-000316,Donald,Green,09/27/2019,Southlake,TX,681.0,donald.green16@yahoo.com,(214)698-2960,Active
+MBR-000317,Barbara,Thomas,07/15/2013,North Richland Hills,TX,734.0,barbara.thomas94@gmail.com,(214)877-1983,Closed
+MBR-000318,Brian,Lewis,04/30/2014,Fort Worth,TX,655.0,brian.lewis706@yahoo.com,(682)356-1646,Active
+MBR-000319,Cynthia,Moore,06/06/2023,Watauga,TX,705.0,cynthia.moore165@yahoo.com,(682)560-5844,Inactive
+MBR-000320,Helen,White,11/29/2023,Mansfield,TX,669.0,helen.white329@gmail.com,(972)294-9586,Active
+MBR-000321,David,Williams,11/29/2012,Granbury,TX,687.0,david.williams895@yahoo.com,(817)597-4139,Active
+MBR-000322,George,Anderson,08/04/2023,Dallas,TX,727.0,george.anderson14@gmail.com,(682)771-9051,Inactive
+MBR-000323,Melissa,Rivera,04/23/2011,White Settlement,TX,614.0,melissa.rivera273@gmail.com,(817)954-5979,Active
+MBR-000324,Ashley,Torres,01/10/2024,Granbury,TX,847.0,ashley.torres572@gmail.com,(972)864-2728,Active
+MBR-000325,Stephen,Sanchez,04/27/2021,Southlake,TX,599.0,stephen.sanchez674@yahoo.com,(972)460-6163,Active
+MBR-000326,Donald,Torres,03/28/2022,Cleburne,TX,582.0,donald.torres385@gmail.com,(214)468-8412,Closed
+MBR-000327,Joshua,Smith,09/26/2016,Mansfield,TX,772.0,joshua.smith220@gmail.com,(817)890-5521,Active
+MBR-000328,Dorothy,White,01/22/2023,Mansfield,TX,743.0,dorothy.white239@yahoo.com,(214)194-7550,Inactive
+MBR-000329,Pamela,Miller,05/09/2023,Keller,TX,729.0,pamela.miller39@gmail.com,(972)180-1916,Active
+MBR-000330,Nicole,Smith,03/20/2024,Bedford,TX,730.0,nicole.smith56@yahoo.com,(817)426-9846,Closed
+MBR-000331,Scott,Torres,04/27/2021,Dallas,TX,679.0,scott.torres228@gmail.com,(972)251-3165,Active
+MBR-000332,Thomas,Carter,01/09/2013,North Richland Hills,TX,608.0,thomas.carter573@yahoo.com,(972)767-4212,Active
+MBR-000333,Pamela,  Garcia,07/10/2012,Hurst,TX,686.0,pamela.garcia434@yahoo.com,(682)428-6644,Active
+MBR-000334,Charles,Lewis,01/03/2011,Mansfield,TX,625.0,charles.lewis205@gmail.com,(682)875-2405,Active
+MBR-000335,Joseph,Martin,02/04/2020,North Richland Hills,TX,758.0,joseph.martin24@yahoo.com,(682)308-9952,Active
+MBR-000336,Justin,Nelson,10/25/2021,Arlington,TX,668.0,,(214)305-5444,Active
+MBR-000337,Susan,Johnson,07/24/2016,Bedford,TX,613.0,susan.johnson237@gmail.com,(817)423-8940,Active
+MBR-000338,Ashley,King,11/02/2016,Southlake,TX,654.0,ashley.king502@yahoo.com,(682)118-6681,Active
+MBR-000339,Steven,Harris,08/30/2010,Watauga,TX,713.0,steven.harris972@yahoo.com,(682)449-7436,Active
+MBR-000340,Donald,Torres,06/05/2013,Hurst,TX,634.0,donald.torres994@yahoo.com,(214)559-9883,Active
+MBR-000341,Shirley,Rodriguez,08/25/2019,Weatherford,TX,614.0,shirley.rodriguez672@gmail.com,(682)425-2111,Active
+MBR-000342,Edward,Clark,10/21/2016,Euless,TX,699.0,edward.clark764@gmail.com,(214)255-4079,Active
+MBR-000343,Sandra,Anderson,08/02/2010,Grapevine,TX,699.0,sandra.anderson82@gmail.com,(972)237-9230,Active
+MBR-000344,Mark,Williams,03/02/2019,Fort Worth,TX,639.0,mark.williams948@yahoo.com,(972)327-4323,Active
+MBR-000345,Ryan,Thomas,08/04/2019,Bedford,TX,642.0,ryan.thomas795@yahoo.com,(972)837-6126,Active
+MBR-000346,Susan,Lewis,03/31/2020,Arlington,TX,698.0,susan.lewis899@gmail.com,(972)852-1643,Active
+MBR-000347,Andrew,Robinson,09/25/2013,Hurst,TX,564.0,andrew.robinson302@gmail.com,(817)806-9470,Active
+MBR-000348,Anna,Rodriguez,10/26/2018,Hurst,TX,567.0,anna.rodriguez332@gmail.com,(682)564-4308,Active
+MBR-000349,Barbara,Davis,01/30/2020,Grapevine,TX,622.0,barbara.davis88@gmail.com,(972)844-9383,Inactive
+MBR-000350,Karen,Hernandez,03/30/2013,Granbury,TX,662.0,karen.hernandez788@gmail.com,(972)415-6071,Active
+MBR-000351,Steven,Smith,04/15/2020,North Richland Hills,TX,704.0,steven.smith876@gmail.com,(817)722-9084,Active
+MBR-000352,Stephen,Moore,11/26/2023,Watauga,TX,798.0,stephen.moore840@gmail.com,N/A,Active
+MBR-000353,Barbara,Brown,06/11/2012,Hurst,TX,748.0,barbara.brown183@yahoo.com,N/A,Inactive
+MBR-000354,David,Carter,08/02/2019,Watauga,TX,667.0,david.carter67@yahoo.com,(682)224-5496,Closed
+MBR-000355,Shirley,Garcia,11/06/2020,White Settlement,TX,678.0,shirley.garcia957@gmail.com,(214)537-6185,Active
+MBR-000356,AMY,Young,01/13/2014,White Settlement,TX,599.0,amy.young239@gmail.com,(682)101-2936,Active
+MBR-000357,Kevin,Thompson,07/27/2022,Cleburne,TX,678.0,kevin.thompson12@gmail.com,N/A,Active
+MBR-000358,Brandon,Johnson,12/09/2013,Cleburne,TX,656.0,brandon.johnson339@gmail.com,(972)585-1582,Active
+MBR-000359,EDWARD,Mitchell,04/04/2011,Haltom City,TX,705.0,edward.mitchell307@gmail.com,(214)668-9779,Active
+MBR-000360,Patricia,Perez,06/01/2018,Watauga,TX,613.0,patricia.perez863@yahoo.com,(972)291-2914,Active
+MBR-000361,Donald,White,02/20/2020,Keller,TX,721.0,donald.white222@gmail.com,(682)214-7131,Active
+MBR-000362,Matthew,Perez,11/04/2020,Haltom City,TX,802.0,matthew.perez318@gmail.com,(682)887-2609,Active
+MBR-000363,Eric,Davis,02/03/2010,Keller,TX,671.0,eric.davis955@yahoo.com,(817)441-8649,Active
+MBR-000364,Anthony,Lee,07/01/2014,Cleburne,TX,712.0,anthony.lee294@yahoo.com,(214)891-8227,Active
+MBR-000365,Anna,Thompson,04/28/2022,Southlake,TX,735.0,anna.thompson278@yahoo.com,(214)687-5011,Inactive
+MBR-000366,Michael,Miller,08/09/2018,Arlington,TX,647.0,michael.miller89@gmail.com,(682)821-8304,Closed
+MBR-000367,Cynthia,Torres,12/15/2012,Dallas,TX,697.0,cynthia.torres833@gmail.com,(972)199-8464,Inactive
+MBR-000368,Dorothy,White,10/17/2018,Granbury,TX,681.0,dorothy.white717@gmail.com,(214)907-6320,Active
+MBR-000369,Nicole,Torres,11/09/2012,Haltom City,TX,687.0,nicole.torres106@gmail.com,(817)433-2162,Closed
+MBR-000370,Deborah,Jones,08/23/2017,Cleburne,TX,618.0,deborah.jones834@gmail.com,(972)903-8132,Active
+MBR-000371,Gary,Davis,04/14/2023,White Settlement,TX,681.0,gary.davis475@yahoo.com,(817)941-8294,Active
+MBR-000372,Amy,Adams,05/19/2011,Dallas,TX,719.0,amy.adams223@gmail.com,(817)875-3403,Inactive
+MBR-000373,Joshua,Torres,10/30/2016,Hurst,TX,796.0,joshua.torres736@gmail.com,(214)191-1133,Closed
+MBR-000374,James,Rivera,07/24/2022,Grapevine,TX,756.0,james.rivera113@gmail.com,(817)340-8073,Active
+MBR-000375,Jacob,Rodriguez,03/22/2014,Watauga,TX,850.0,jacob.rodriguez394@gmail.com,(214)960-7835,Active
+MBR-000376,Gary,Nelson,10/18/2019,Weatherford,TX,618.0,gary.nelson87@yahoo.com,(972)980-8471,Inactive
+MBR-000377,Deborah,Thompson,01/24/2015,Granbury,TX,749.0,deborah.thompson435@gmail.com,(972)967-4878,Active
+MBR-000378,Melissa,Davis,01/06/2023,North Richland Hills,TX,694.0,melissa.davis985@gmail.com,(682)847-9624,Active
+MBR-000379,Jacob,Green,10/02/2011,Watauga,TX,850.0,jacob.green818@gmail.com,(817)451-9765,Closed
+MBR-000380,Emily,Jackson,10/04/2013,Arlington,TX,615.0,emily.jackson712@gmail.com,(214)844-5267,Active
+MBR-000381,Andrew,Young,11/07/2011,Weatherford,TX,612.0,andrew.young518@yahoo.com,(214)358-3171,Active
+MBR-000382,Laura,White,12/07/2013,Burleson,TX,632.0,laura.white802@gmail.com,(972)285-9640,Active
+MBR-000383,Edward,Roberts,08/05/2018,Mansfield,TX,510.0,edward.roberts677@gmail.com,(682)315-6653,Active
+MBR-000384,Jonathan,Anderson,07/09/2018,Bedford,TX,637.0,jonathan.anderson486@yahoo.com,(972)112-5731,Inactive
+MBR-000385,Amanda,Ramirez,09/11/2023,Burleson,TX,619.0,amanda.ramirez344@yahoo.com,(817)361-7408,Active
+MBR-000386,Nancy,Lee,04/14/2022,Fort Worth,TX,692.0,nancy.lee689@yahoo.com,(817)112-7737,Active
+MBR-000387,Barbara,Brown,04/30/2023,Cleburne,TX,707.0,barbara.brown974@gmail.com,(817)825-2965,Active
+MBR-000388,Joseph,Hall,02/18/2014,Burleson,TX,830.0,joseph.hall302@gmail.com,(817)754-8429,Active
+MBR-000389,Elizabeth,Moore,05/27/2011,Bedford,TX,756.0,elizabeth.moore398@yahoo.com,(817)364-5336,Active
+MBR-000390,Anna,Roberts,09/03/2019,Cleburne,TX,633.0,anna.roberts629@gmail.com,(972)832-5243,Active
+MBR-000391,James,Williams,10/04/2018,Burleson,TX,608.0,james.williams156@gmail.com,(972)688-1060,Active
+MBR-000392,Anna,Anderson,01/28/2010,Bedford,TX,719.0,anna.anderson978@gmail.com,(972)224-9770,Active
+MBR-000393,Jonathan,Perez,10/22/2011,Euless,TX,574.0,jonathan.perez779@gmail.com,(682)280-1644,Active
+MBR-000394,Jeffrey,Mitchell,04/02/2014,Weatherford,TX,826.0,jeffrey.mitchell37@yahoo.com,(682)600-7369,Closed
+MBR-000395,John,Perez,04/05/2011,Southlake,TX,774.0,john.perez807@gmail.com,(972)221-4468,Active
+MBR-000396,ELIZABETH,Williams,03/05/2013,North Richland Hills,TX,642.0,elizabeth.williams670@yahoo.com,(817)348-3138,Inactive
+MBR-000397,David,Miller,07/24/2012,North Richland Hills,TX,542.0,david.miller610@gmail.com,(682)164-4320,Active
+MBR-000398,Sarah,Lee,10/13/2014,Arlington,TX,788.0,sarah.lee608@yahoo.com,(817)223-5487,Active
+MBR-000399,RICHARD,Green,09/27/2023,Bedford,TX,670.0,richard.green797@yahoo.com,(972)182-1104,Active
+MBR-000400,Jacob,Hall,11/05/2012,Cleburne,TX,779.0,,(972)521-4919,Active
+MBR-000401,Joshua,Thompson,05/24/2019,Fort Worth,TX,552.0,joshua.thompson572@yahoo.com,(817)642-2567,Active
+MBR-000402,Michael,Gonzalez,07/12/2012,Weatherford,TX,632.0,michael.gonzalez702@gmail.com,(972)609-3888,Active
+MBR-000403,Ryan,Williams,05/05/2012,Arlington,TX,680.0,ryan.williams948@gmail.com,(682)904-1476,Active
+MBR-000404,Michelle,Anderson,06/21/2012,Southlake,TX,683.0,michelle.anderson234@yahoo.com,(972)990-4276,Inactive
+MBR-000405,Ryan,Lopez,09/09/2018,Grapevine,TX,643.0,ryan.lopez140@gmail.com,(682)747-6875,Inactive
+MBR-000406,Ryan,Clark,11/03/2013,Southlake,TX,729.0,ryan.clark226@gmail.com,(682)908-3784,Active
+MBR-000407,Jacob,Robinson,04/05/2016,Fort Worth,TX,594.0,jacob.robinson748@gmail.com,(682)353-6362,Active
+MBR-000408,Jennifer,Williams,07/22/2020,Haltom City,TX,668.0,jennifer.williams35@gmail.com,N/A,Active
+MBR-000409,Emily,Thomas,07/11/2024,Dallas,TX,689.0,,(214)265-8524,Active
+MBR-000410,Melissa,Green,05/31/2020,Fort Worth,TX,721.0,melissa.green882@gmail.com,(972)807-6454,Active
+MBR-000411,William,Flores,07/13/2017,Arlington,TX,736.0,,(214)152-2818,Active
+MBR-000412,Anthony,Rodriguez,07/06/2017,Mansfield,TX,590.0,anthony.rodriguez553@yahoo.com,(972)855-4437,Active
+MBR-000413,Melissa,Thompson,02/24/2020,North Richland Hills,TX,557.0,melissa.thompson514@gmail.com,(817)581-9714,Active
+MBR-000414,David,Gonzalez,04/08/2020,Dallas,TX,782.0,david.gonzalez83@yahoo.com,(682)395-2260,Active
+MBR-000415,Emily,Clark,02/22/2022,Weatherford,TX,706.0,emily.clark486@yahoo.com,(972)855-1351,Active
+MBR-000416,Carol,Adams,06/28/2024,Southlake,TX,620.0,carol.adams498@gmail.com,(972)568-5982,Active
+MBR-000417,Michael,Martinez,12/02/2017,Keller,TX,804.0,michael.martinez467@gmail.com,(682)828-9770,Active
+MBR-000418,Jennifer,Lee,11/20/2022,Weatherford,TX,689.0,jennifer.lee452@yahoo.com,(682)310-1568,Active
+MBR-000419,Patricia,Sanchez,03/15/2021,Weatherford,TX,774.0,patricia.sanchez971@gmail.com,(214)259-1070,Closed
+MBR-000420,Pamela,Nelson,04/19/2013,Benbrook,TX,685.0,pamela.nelson747@gmail.com,(972)446-2840,Inactive
+MBR-000421,Laura,Thompson,01/28/2012,Southlake,TX,844.0,laura.thompson57@gmail.com,N/A,Active
+MBR-000422,Barbara,Allen,11/06/2018,Cleburne,TX,,barbara.allen503@yahoo.com,(817)782-6915,Active
+MBR-000423,Laura,Scott,12/19/2011,Cleburne,TX,660.0,laura.scott746@gmail.com,(972)922-8249,Active
+MBR-000424,Barbara,Martinez,08/30/2014,Keller,TX,757.0,barbara.martinez487@gmail.com,(214)167-7156,Active
+MBR-000425,Sarah,Gonzalez,03/04/2014,Bedford,TX,731.0,sarah.gonzalez297@gmail.com,(817)942-5947,Active
+MBR-000425,Sarah,Gonzalez,03/04/2014,Bedford,TX,731.0,sarah.gonzalez297@gmail.com,(817)942-5947,Active
+MBR-000426,Jacob,Davis,08/31/2024,Keller,TX,789.0,jacob.davis428@yahoo.com,(682)129-2955,Active
+MBR-000427,Dorothy,Green,09/04/2020,Denton,TX,602.0,dorothy.green383@gmail.com,(817)965-5252,Active
+MBR-000428,Rebecca,Green,12/26/2017,Arlington,TX,734.0,rebecca.green297@yahoo.com,(817)626-4175,Inactive
+MBR-000429,Joshua,Moore,02/17/2018,Denton,TX,764.0,joshua.moore548@gmail.com,(682)113-3243,Active
+MBR-000430,Mark,Gonzalez,07/13/2022,White Settlement,TX,539.0,mark.gonzalez707@gmail.com,N/A,Active
+MBR-000431,Jeffrey,Hill,09/25/2021,Southlake,TX,585.0,jeffrey.hill177@gmail.com,(817)862-2943,Active
+MBR-000432,Joseph,Jones,06/04/2010,North Richland Hills,TX,516.0,joseph.jones776@gmail.com,(682)210-1537,Active
+MBR-000433,RICHARD,Davis,07/01/2023,Cleburne,TX,658.0,richard.davis602@gmail.com,(682)786-6759,Inactive
+MBR-000434,Brandon,Thomas,04/29/2021,Benbrook,TX,,brandon.thomas70@yahoo.com,(817)641-4555,Inactive
+MBR-000435,Nicholas,Rivera,08/24/2020,Grapevine,TX,800.0,nicholas.rivera715@gmail.com,(972)789-2758,Closed
+MBR-000436,Jessica,Robinson,06/22/2012,Haltom City,TX,685.0,jessica.robinson140@gmail.com,(214)821-5723,Active
+MBR-000437,Jeffrey,Anderson,06/04/2022,Hurst,TX,,jeffrey.anderson298@gmail.com,(972)293-2140,Active
+MBR-000438,Ronald,Lewis,09/21/2021,Dallas,TX,569.0,ronald.lewis123@yahoo.com,(972)811-2666,Inactive
+MBR-000439,Stephanie,Davis,03/23/2015,Hurst,TX,543.0,stephanie.davis743@gmail.com,(214)874-7557,Active
+MBR-000440,Jessica,Taylor,12/22/2020,North Richland Hills,TX,675.0,jessica.taylor237@gmail.com,N/A,Active
+MBR-000441,Joshua,Flores,12/24/2023,Denton,TX,710.0,joshua.flores779@yahoo.com,(972)911-8635,Active
+MBR-000442,John,Ramirez,09/02/2012,Bedford,TX,677.0,john.ramirez461@yahoo.com,(972)553-8531,Active
+MBR-000443,Donna,Rivera,09/23/2018,North Richland Hills,TX,514.0,donna.rivera783@yahoo.com,(972)775-9837,Closed
+MBR-000444,Brandon,Baker,11/29/2017,Keller,TX,672.0,,(817)231-7003,Active
+MBR-000445,Amanda,Clark,11/17/2017,Arlington,TX,575.0,amanda.clark678@yahoo.com,(682)763-6113,Active
+MBR-000446,Ryan,Nelson,06/23/2019,Benbrook,TX,733.0,ryan.nelson528@gmail.com,(214)120-8695,Active
+MBR-000447,Anthony,Perez,02/21/2021,Haltom City,TX,709.0,anthony.perez831@gmail.com,(214)270-5907,Active
+MBR-000448,Andrew,Taylor,01/25/2011,Keller,TX,604.0,andrew.taylor588@gmail.com,(682)739-2506,Active
+MBR-000449,Brian,Jones,08/12/2024,Keller,TX,638.0,brian.jones517@gmail.com,(972)779-9846,Inactive
+MBR-000450,Eric,Lopez,12/09/2022,North Richland Hills,TX,595.0,eric.lopez219@gmail.com,(972)374-9728,Active
+MBR-000451,Cynthia,Martinez,05/24/2015,Weatherford,TX,674.0,cynthia.martinez765@gmail.com,(214)964-8133,Active
+MBR-000452,Christopher,Taylor,06/27/2023,Mansfield,TX,756.0,christopher.taylor416@yahoo.com,(682)296-1453,Active
+MBR-000453,Christopher,Moore,01/22/2013,Fort Worth,TX,601.0,christopher.moore265@gmail.com,(214)774-3883,Active
+MBR-000454,Joshua,Jones,02/17/2019,Grapevine,TX,720.0,joshua.jones688@gmail.com,(817)506-3302,Active
+MBR-000455,Shirley,Taylor,02/18/2021,Dallas,TX,637.0,shirley.taylor244@gmail.com,(214)437-7388,Active
+MBR-000456,Edward,Taylor,03/23/2023,Arlington,TX,616.0,edward.taylor503@gmail.com,(817)424-9941,Active
+MBR-000457,Donna,Johnson,06/23/2024,White Settlement,TX,671.0,donna.johnson36@gmail.com,(817)807-4926,Active
+MBR-000458,Donald,Lewis,09/18/2018,Fort Worth,TX,597.0,donald.lewis932@gmail.com,(214)408-2478,Active
+MBR-000459,Edward,Williams,02/23/2016,Dallas,TX,635.0,edward.williams843@gmail.com,(972)582-7765,Active
+MBR-000460,David,Thompson,06/10/2019,White Settlement,TX,584.0,david.thompson747@gmail.com,(214)564-1448,Active
+MBR-000460,David,Thompson,06/10/2019,White Settlement,TX,584.0,david.thompson747@gmail.com,(214)564-1448,Active
+MBR-000461,Donna,Lee,12/01/2022,Dallas,TX,837.0,donna.lee114@yahoo.com,(682)967-7722,Inactive
+MBR-000462,ANDREW,  Gonzalez,11/23/2011,Hurst,TX,682.0,andrew.gonzalez377@yahoo.com,(972)954-4677,Active
+MBR-000463,Dorothy,Hall,10/14/2013,Arlington,TX,624.0,dorothy.hall411@gmail.com,N/A,Inactive
+MBR-000464,Amy,Davis,01/13/2015,Cleburne,TX,697.0,amy.davis196@gmail.com,(214)394-9096,Active
+MBR-000465,Nancy,Clark,04/10/2013,Fort Worth,TX,,nancy.clark298@gmail.com,(682)732-8388,Active
+MBR-000466,Ronald,Baker,10/05/2014,Bedford,TX,662.0,ronald.baker726@gmail.com,(214)174-2561,Active
+MBR-000467,Scott,Rivera,01/08/2011,Fort Worth,TX,729.0,scott.rivera260@gmail.com,(972)409-7466,Active
+MBR-000468,Carol,Robinson,12/16/2012,Dallas,TX,740.0,carol.robinson325@gmail.com,(972)245-5266,Inactive
+MBR-000469,Andrew,Taylor,10/01/2023,Burleson,TX,637.0,andrew.taylor530@yahoo.com,(682)423-9049,Active
+MBR-000470,Sandra,Lopez,10/21/2010,North Richland Hills,TX,633.0,,(972)546-2900,Active
+MBR-000471,Charles,Davis,11/03/2017,Dallas,TX,657.0,charles.davis209@gmail.com,(682)954-3757,Active
+MBR-000472,Pamela,Lopez,05/05/2019,Dallas,TX,495.0,pamela.lopez253@gmail.com,(817)436-1425,Active
+MBR-000473,Patricia,Garcia,04/28/2020,North Richland Hills,TX,558.0,patricia.garcia465@gmail.com,(214)708-1095,Inactive
+MBR-000474,Larry,Rodriguez,09/28/2014,Arlington,TX,789.0,larry.rodriguez821@gmail.com,(214)917-1909,Active
+MBR-000475,Stephanie,Garcia,06/18/2010,Cleburne,TX,811.0,stephanie.garcia167@yahoo.com,(972)391-3525,Active
+MBR-000476,Richard,White,07/01/2021,Cleburne,TX,660.0,richard.white502@gmail.com,(972)587-5398,Active
+MBR-000477,Jennifer,Allen,08/31/2017,Euless,TX,726.0,jennifer.allen693@yahoo.com,(682)607-9638,Active
+MBR-000478,Thomas,Baker,09/26/2016,Mansfield,TX,704.0,thomas.baker536@gmail.com,(817)664-2253,Active
+MBR-000479,Amanda,Taylor,02/18/2023,Dallas,TX,850.0,amanda.taylor788@gmail.com,(817)858-8583,Active
+MBR-000480,Ryan,Carter,02/03/2020,White Settlement,TX,769.0,ryan.carter828@yahoo.com,(682)316-4032,Active
+MBR-000481,Mary,Hernandez,09/16/2024,North Richland Hills,TX,669.0,mary.hernandez472@gmail.com,(972)410-6910,Active
+MBR-000482,Robert,Hall,03/22/2014,Fort Worth,TX,603.0,robert.hall215@gmail.com,(682)765-4961,Active
+MBR-000483,Robert,Davis,09/22/2013,Weatherford,TX,551.0,robert.davis757@gmail.com,(972)582-1321,Active
+MBR-000484,Sharon,Clark,02/12/2021,Benbrook,TX,696.0,sharon.clark611@gmail.com,(214)137-8987,Active
+MBR-000485,Linda,King,06/05/2010,Hurst,TX,619.0,linda.king591@yahoo.com,(817)374-7834,Active
+MBR-000486,Matthew,Walker,09/17/2017,Euless,TX,566.0,matthew.walker238@gmail.com,(214)716-8675,Active
+MBR-000487,Jacob,Hernandez,12/13/2023,Cleburne,TX,628.0,jacob.hernandez290@gmail.com,(817)783-8911,Active
+MBR-000488,Anthony,Scott,01/21/2011,Fort Worth,TX,593.0,anthony.scott368@gmail.com,(214)793-3598,Active
+MBR-000489,Brenda,Anderson,11/28/2020,Burleson,TX,814.0,brenda.anderson349@gmail.com,(817)888-5382,Closed
+MBR-000490,Ryan,Carter,06/27/2012,Denton,TX,750.0,ryan.carter801@gmail.com,(817)943-1687,Active
+MBR-000491,Nicholas,Young,03/24/2012,Weatherford,TX,679.0,nicholas.young663@yahoo.com,(682)225-4307,Active
+MBR-000492,William,Moore,05/09/2018,Hurst,TX,798.0,william.moore370@gmail.com,(682)255-9677,Inactive
+MBR-000493,George,Johnson,12/05/2019,Weatherford,TX,686.0,george.johnson789@yahoo.com,(817)186-6542,Active
+MBR-000494,Pamela,Brown,03/02/2024,Haltom City,TX,611.0,pamela.brown997@yahoo.com,(972)797-5986,Active
+MBR-000495,Stephanie,Lewis,06/10/2024,Cleburne,TX,801.0,stephanie.lewis909@gmail.com,(972)814-6656,Active
+MBR-000496,Thomas,King,02/17/2022,Keller,TX,723.0,,(214)633-6582,Active
+MBR-000497,Jason,Allen,06/23/2012,Arlington,TX,,jason.allen862@yahoo.com,(214)226-1782,Active
+MBR-000498,Justin,Torres,01/30/2024,Watauga,TX,664.0,justin.torres865@gmail.com,(214)406-5661,Active
+MBR-000499,Eric,Nguyen,04/27/2014,Grapevine,TX,609.0,eric.nguyen466@yahoo.com,(972)948-7751,Active
+MBR-000500,Emma,Scott,08/22/2021,Bedford,TX,569.0,emma.scott893@yahoo.com,(972)751-7937,Active
+MBR-000501,Gary,Rivera,04/07/2020,Weatherford,TX,754.0,gary.rivera992@gmail.com,(817)811-4483,Inactive
+MBR-000502,Joseph,Davis,04/16/2018,Benbrook,TX,832.0,joseph.davis297@yahoo.com,N/A,Active
+MBR-000503,Donna,Jackson,11/02/2014,Granbury,TX,568.0,donna.jackson839@gmail.com,(817)225-9970,Active
+MBR-000504,Jacob,Campbell,08/02/2023,Weatherford,TX,725.0,jacob.campbell781@yahoo.com,(972)879-8371,Active
+MBR-000505,Ronald,Perez,02/18/2022,Arlington,TX,627.0,ronald.perez982@gmail.com,(972)853-5544,Active
+MBR-000506,Jessica,Adams,07/19/2022,Dallas,TX,641.0,jessica.adams198@gmail.com,(817)683-9548,Active
+MBR-000507,Anthony,Thomas,12/31/2022,Euless,TX,632.0,anthony.thomas87@gmail.com,(214)511-1737,Active
+MBR-000508,Barbara,Davis,03/24/2012,Watauga,TX,610.0,barbara.davis173@yahoo.com,(682)361-2468,Active
+MBR-000509,Joshua,Harris,03/19/2012,Southlake,TX,683.0,joshua.harris146@gmail.com,(214)364-7152,Active
+MBR-000510,NICHOLAS,Harris,07/31/2012,Burleson,TX,613.0,nicholas.harris63@yahoo.com,N/A,Active
+MBR-000511,Brenda,Adams,10/25/2012,Keller,TX,701.0,brenda.adams582@gmail.com,(817)966-9199,Active
+MBR-000512,BRENDA,Lewis,12/09/2010,Fort Worth,TX,675.0,brenda.lewis833@gmail.com,(214)768-3742,Active
+MBR-000513,Margaret,Nguyen,06/12/2021,Keller,TX,660.0,margaret.nguyen47@yahoo.com,(817)407-2469,Active
+MBR-000514,Kenneth,Baker,09/07/2017,Burleson,TX,607.0,kenneth.baker771@gmail.com,N/A,Active
+MBR-000515,Jacob,Smith,03/20/2010,Granbury,TX,633.0,jacob.smith424@gmail.com,(972)880-7435,Active
+MBR-000516,Jessica,Thompson,06/11/2018,White Settlement,TX,740.0,,(817)227-8580,Active
+MBR-000517,Matthew,Garcia,10/05/2023,Keller,TX,,matthew.garcia828@gmail.com,(682)605-6947,Active
+MBR-000518,Joseph,Moore,10/07/2022,Haltom City,TX,601.0,joseph.moore506@yahoo.com,(682)775-3875,Active
+MBR-000519,Kimberly,Gonzalez,07/09/2010,Watauga,TX,687.0,kimberly.gonzalez630@yahoo.com,(972)102-7997,Active
+MBR-000520,Eric,Robinson,02/11/2021,Grapevine,TX,740.0,eric.robinson530@gmail.com,(682)148-5553,Active
+MBR-000521,Mark,Hall,07/04/2019,Dallas,TX,546.0,,(682)437-6092,Inactive
+MBR-000522,Steven,Thomas,06/02/2012,North Richland Hills,TX,723.0,steven.thomas245@gmail.com,(817)941-6465,Active
+MBR-000523,Jessica,Garcia,05/13/2011,Arlington,TX,626.0,jessica.garcia387@yahoo.com,(817)901-3089,Active
+MBR-000524,Michael,Jackson,07/22/2018,Bedford,TX,725.0,michael.jackson99@gmail.com,(972)338-1173,Active
+MBR-000525,Patricia,Robinson,08/08/2021,Southlake,TX,618.0,patricia.robinson602@yahoo.com,(817)112-2106,Active
+MBR-000526,Helen,Lewis,03/04/2014,Mansfield,TX,535.0,helen.lewis141@gmail.com,(817)230-6106,Active
+MBR-000527,Jacob,Martin,07/14/2023,Southlake,TX,549.0,jacob.martin299@yahoo.com,(817)630-3369,Active
+MBR-000528,Betty,Jones,08/29/2017,Cleburne,TX,683.0,betty.jones684@gmail.com,(972)714-6425,Inactive
+MBR-000529,Jennifer,Young,12/03/2014,Fort Worth,TX,700.0,jennifer.young655@yahoo.com,(682)577-4492,Active
+MBR-000530,James,White,03/23/2010,Dallas,TX,607.0,james.white367@yahoo.com,(817)245-5760,Active
+MBR-000531,Mark,Taylor,11/28/2013,Southlake,TX,731.0,mark.taylor868@gmail.com,(682)300-1352,Inactive
+MBR-000532,Carol,Wilson,11/04/2016,Euless,TX,547.0,carol.wilson246@yahoo.com,(214)776-3807,Active
+MBR-000533,Thomas,Gonzalez,04/20/2014,Watauga,TX,674.0,,(214)713-8037,Active
+MBR-000534,Michelle,Thomas,03/13/2011,Burleson,TX,583.0,michelle.thomas894@yahoo.com,(972)314-2333,Active
+MBR-000535,Melissa,Young,08/21/2021,Euless,TX,627.0,melissa.young184@yahoo.com,(214)638-8918,Active
+MBR-000536,Mark,Gonzalez,02/21/2020,Mansfield,TX,683.0,mark.gonzalez406@yahoo.com,(972)486-3575,Active
+MBR-000537,Justin,Williams,06/08/2020,Haltom City,TX,611.0,justin.williams637@yahoo.com,(972)578-8086,Active
+MBR-000538,Amanda,Garcia,08/09/2016,Haltom City,TX,649.0,amanda.garcia526@gmail.com,N/A,Active
+MBR-000539,Joshua,  Mitchell,02/27/2016,Cleburne,TX,760.0,joshua.mitchell723@gmail.com,(682)975-9898,Active
+MBR-000540,Justin,Carter,09/12/2024,Fort Worth,TX,633.0,justin.carter484@gmail.com,(682)986-7512,Active
+MBR-000541,Cynthia,Perez,12/05/2011,Southlake,TX,746.0,cynthia.perez867@yahoo.com,(972)314-8187,Active
+MBR-000542,Amanda,Perez,01/22/2015,Hurst,TX,589.0,amanda.perez436@gmail.com,N/A,Closed
+MBR-000543,Larry,Green,07/11/2023,White Settlement,TX,722.0,larry.green588@gmail.com,(972)309-7400,Active
+MBR-000544,Lisa,Miller,05/27/2022,Granbury,TX,795.0,lisa.miller33@gmail.com,(972)127-4058,Active
+MBR-000545,Melissa,King,04/01/2010,Granbury,TX,482.0,melissa.king335@gmail.com,(972)500-3572,Active
+MBR-000546,Anthony,Martin,09/11/2019,North Richland Hills,TX,616.0,anthony.martin163@gmail.com,N/A,Active
+MBR-000547,Ashley,King,05/18/2017,Benbrook,TX,726.0,ashley.king901@gmail.com,(972)689-1640,Active
+MBR-000548,Brandon,Lopez,04/24/2019,Mansfield,TX,663.0,brandon.lopez184@gmail.com,(972)568-7302,Inactive
+MBR-000549,Kimberly,Green,01/23/2022,Keller,TX,709.0,kimberly.green683@gmail.com,(682)605-7738,Active
+MBR-000550,Laura,Hernandez,09/02/2015,Cleburne,TX,,laura.hernandez519@yahoo.com,(817)174-8567,Inactive
+MBR-000551,Michelle,Nelson,05/31/2020,North Richland Hills,TX,,michelle.nelson473@yahoo.com,(682)830-8171,Active
+MBR-000552,Jonathan,Mitchell,10/07/2018,Granbury,TX,667.0,jonathan.mitchell80@gmail.com,N/A,Active
+MBR-000553,Eric,Adams,04/22/2012,Bedford,TX,773.0,eric.adams707@yahoo.com,(817)712-1076,Active
+MBR-000554,Patricia,Smith,07/24/2017,Cleburne,TX,700.0,patricia.smith697@gmail.com,(682)198-3750,Active
+MBR-000555,ANNA,Sanchez,08/07/2019,Denton,TX,707.0,,(214)431-3844,Active
+MBR-000556,Helen,White,12/26/2010,Dallas,TX,647.0,helen.white907@yahoo.com,(214)885-9185,Closed
+MBR-000557,Scott,Lee,02/25/2024,Bedford,TX,640.0,scott.lee695@gmail.com,(682)440-3872,Active
+MBR-000558,Justin,Lewis,07/30/2018,Haltom City,TX,645.0,justin.lewis656@gmail.com,(817)338-1347,Active
+MBR-000559,Melissa,Young,08/26/2016,Cleburne,TX,711.0,melissa.young156@yahoo.com,(817)343-8270,Closed
+MBR-000560,Andrew,Carter,07/14/2010,Mansfield,TX,646.0,andrew.carter868@gmail.com,(214)348-4372,Active
+MBR-000561,Timothy,King,03/19/2017,Granbury,TX,703.0,timothy.king453@gmail.com,(817)990-9055,Active
+MBR-000562,Anthony,Thomas,05/19/2021,Dallas,TX,846.0,anthony.thomas437@gmail.com,(214)268-4236,Active
+MBR-000563,Kathleen,Garcia,01/24/2018,Bedford,TX,749.0,kathleen.garcia387@yahoo.com,(972)532-9278,Active
+MBR-000564,William,Carter,09/25/2016,White Settlement,TX,653.0,william.carter551@yahoo.com,(682)363-7233,Active
+MBR-000565,Karen,Gonzalez,02/04/2010,Fort Worth,TX,776.0,karen.gonzalez883@gmail.com,(214)603-7628,Active
+MBR-000566,Edward,Williams,10/16/2012,Bedford,TX,647.0,edward.williams955@gmail.com,(682)881-8148,Active
+MBR-000567,Linda,Adams,08/23/2018,Hurst,TX,516.0,linda.adams754@yahoo.com,(972)135-6921,Active
+MBR-000568,Steven,Thomas,07/04/2023,Benbrook,TX,599.0,steven.thomas975@gmail.com,(682)112-2912,Active
+MBR-000569,Matthew,Ramirez,09/20/2013,Hurst,TX,530.0,matthew.ramirez259@gmail.com,(972)700-6045,Active
+MBR-000570,CHARLES,Moore,09/13/2014,Bedford,TX,651.0,charles.moore716@yahoo.com,(682)935-9056,Active
+MBR-000571,Melissa,Lopez,01/05/2013,Cleburne,TX,681.0,melissa.lopez499@yahoo.com,(817)561-4482,Active
+MBR-000572,Helen,  Miller,04/10/2024,Granbury,TX,814.0,helen.miller82@yahoo.com,(972)227-5534,Active
+MBR-000572,Helen,  Miller,04/10/2024,Granbury,TX,814.0,helen.miller82@yahoo.com,(972)227-5534,Active
+MBR-000573,James,Nelson,01/24/2023,Arlington,TX,706.0,james.nelson100@yahoo.com,(817)484-9520,Active
+MBR-000574,Carol,  Lee,05/17/2015,Grapevine,TX,662.0,carol.lee682@yahoo.com,(817)464-6410,Active
+MBR-000575,Jessica,  King,04/08/2016,Mansfield,TX,746.0,jessica.king378@gmail.com,(972)627-7768,Inactive
+MBR-000576,Michelle,Baker,12/19/2019,Mansfield,TX,503.0,michelle.baker622@gmail.com,(817)456-8010,Active
+MBR-000577,Nicole,Gonzalez,03/18/2013,Haltom City,TX,698.0,nicole.gonzalez898@gmail.com,(817)230-9158,Active
+MBR-000578,Joseph,  Walker,02/16/2022,Mansfield,TX,741.0,joseph.walker250@yahoo.com,(817)208-8125,Active
+MBR-000579,Jacob,Nelson,10/05/2012,Weatherford,TX,561.0,jacob.nelson945@gmail.com,(972)192-6452,Active
+MBR-000580,Timothy,Adams,05/27/2024,Watauga,TX,771.0,timothy.adams990@gmail.com,(682)328-5244,Active
+MBR-000581,Melissa,Rodriguez,01/11/2017,Bedford,TX,707.0,melissa.rodriguez591@gmail.com,(214)163-9775,Active
+MBR-000582,Nicole,Nguyen,12/25/2014,Denton,TX,646.0,nicole.nguyen405@yahoo.com,(972)423-3370,Active
+MBR-000583,John,Hill,03/07/2017,Keller,TX,730.0,john.hill515@gmail.com,(817)380-8836,Active
+MBR-000584,Anthony,Campbell,01/18/2015,Arlington,TX,850.0,anthony.campbell946@gmail.com,(682)977-8987,Active
+MBR-000585,Jason,Baker,08/14/2020,Grapevine,TX,694.0,jason.baker776@yahoo.com,(817)640-5637,Active
+MBR-000586,Michael,Rivera,10/26/2016,Euless,TX,699.0,michael.rivera671@yahoo.com,(682)552-8904,Active
+MBR-000586,Michael,Rivera,10/26/2016,Euless,TX,699.0,michael.rivera671@yahoo.com,(682)552-8904,Active
+MBR-000587,Pamela,Miller,04/24/2013,Bedford,TX,643.0,pamela.miller974@gmail.com,(682)157-2573,Active
+MBR-000588,Karen,Green,01/23/2019,Mansfield,TX,612.0,karen.green35@yahoo.com,(972)600-5959,Active
+MBR-000589,Cynthia,Adams,07/28/2018,Burleson,TX,746.0,cynthia.adams648@gmail.com,(214)111-2966,Closed
+MBR-000590,Kathleen,Moore,02/14/2012,Benbrook,TX,611.0,kathleen.moore186@yahoo.com,(972)405-3051,Active
+MBR-000591,Brenda,Wright,11/21/2021,North Richland Hills,TX,685.0,brenda.wright66@gmail.com,(817)871-4399,Active
+MBR-000592,Jessica,Williams,11/21/2012,Benbrook,TX,641.0,jessica.williams212@gmail.com,(817)675-5206,Active
+MBR-000593,James,Thomas,09/28/2016,Arlington,TX,718.0,james.thomas969@gmail.com,(214)774-9750,Active
+MBR-000594,Anthony,Hall,03/22/2012,Arlington,TX,706.0,anthony.hall243@yahoo.com,(682)406-4526,Active
+MBR-000595,Steven,Taylor,07/25/2018,Granbury,TX,763.0,steven.taylor410@gmail.com,(214)792-7968,Active
+MBR-000596,Melissa,Torres,09/28/2024,Haltom City,TX,639.0,melissa.torres620@yahoo.com,(682)423-8104,Active
+MBR-000597,Kevin,Green,12/30/2011,Grapevine,TX,658.0,kevin.green932@yahoo.com,(214)249-4698,Active
+MBR-000598,Shirley,Campbell,11/16/2016,Benbrook,TX,601.0,shirley.campbell842@gmail.com,(817)641-6716,Closed
+MBR-000599,Deborah,Lopez,09/28/2017,Watauga,TX,644.0,deborah.lopez565@gmail.com,(972)588-3090,Active
+MBR-000600,Melissa,Rivera,08/03/2015,White Settlement,TX,710.0,melissa.rivera429@gmail.com,(682)549-6799,Active
+MBR-000601,Donna,Green,12/14/2011,Keller,TX,740.0,donna.green417@gmail.com,(817)749-2302,Inactive
+MBR-000602,Mary,Ramirez,05/30/2021,Weatherford,TX,606.0,mary.ramirez492@gmail.com,(817)515-1227,Active
+MBR-000603,Shirley,Baker,08/31/2023,Arlington,TX,749.0,shirley.baker622@gmail.com,(682)790-9577,Active
+MBR-000604,Lisa,White,07/16/2012,Southlake,TX,788.0,,(817)397-5901,Inactive
+MBR-000605,Angela,Williams,05/21/2020,White Settlement,TX,713.0,,(214)106-8542,Active
+MBR-000606,GARY,Gonzalez,11/26/2011,Haltom City,TX,830.0,gary.gonzalez527@gmail.com,(972)226-8985,Inactive
+MBR-000607,Jonathan,  Moore,06/09/2012,Euless,TX,618.0,jonathan.moore673@gmail.com,(682)243-6795,Active
+MBR-000608,Rebecca,Mitchell,06/06/2017,Arlington,TX,580.0,rebecca.mitchell165@gmail.com,(972)781-5354,Active
+MBR-000609,Stephanie,  Allen,09/21/2018,Weatherford,TX,537.0,stephanie.allen113@gmail.com,(817)229-3548,Active
+MBR-000610,Mary,Ramirez,10/08/2020,Keller,TX,799.0,mary.ramirez289@gmail.com,(972)353-3498,Active
+MBR-000611,Jason,Gonzalez,08/18/2020,Denton,TX,732.0,,(682)293-3436,Active
+MBR-000612,Barbara,Brown,07/13/2018,Hurst,TX,675.0,barbara.brown538@yahoo.com,(682)327-6507,Closed
+MBR-000613,Rebecca,Thomas,03/05/2017,Arlington,TX,702.0,rebecca.thomas187@yahoo.com,(817)776-6269,Active
+MBR-000614,Joshua,Davis,03/04/2012,Fort Worth,TX,589.0,joshua.davis700@gmail.com,(682)439-6907,Active
+MBR-000615,Deborah,Garcia,05/21/2012,Weatherford,TX,850.0,deborah.garcia645@gmail.com,(817)142-4120,Active
+MBR-000616,Betty,Wright,06/12/2013,Arlington,TX,690.0,betty.wright131@yahoo.com,(214)998-6690,Inactive
+MBR-000617,Nicholas,Johnson,09/29/2013,White Settlement,TX,688.0,nicholas.johnson281@gmail.com,(682)396-1744,Active
+MBR-000618,Angela,  Jones,09/17/2013,Euless,TX,,angela.jones769@gmail.com,(972)510-5448,Active
+MBR-000619,Nicholas,Rivera,10/11/2021,Burleson,TX,718.0,,(214)825-5399,Inactive
+MBR-000620,Sarah,Moore,02/27/2011,Mansfield,TX,697.0,sarah.moore844@yahoo.com,(817)101-6692,Active
+MBR-000621,Brandon,Jackson,04/13/2017,Arlington,TX,616.0,brandon.jackson641@gmail.com,(214)324-5582,Active
+MBR-000622,Timothy,Adams,10/10/2015,White Settlement,TX,717.0,timothy.adams565@yahoo.com,(972)325-6312,Active
+MBR-000623,Melissa,Martinez,09/29/2020,Dallas,TX,830.0,melissa.martinez508@yahoo.com,(682)935-3885,Active
+MBR-000624,Ronald,Baker,08/20/2023,Cleburne,TX,787.0,ronald.baker72@yahoo.com,(972)351-8455,Active
+MBR-000625,Timothy,Harris,06/19/2010,Denton,TX,807.0,timothy.harris847@yahoo.com,(817)235-5068,Active
+MBR-000625,Timothy,Harris,06/19/2010,Denton,TX,807.0,timothy.harris847@yahoo.com,(817)235-5068,Active
+MBR-000626,Anna,Mitchell,08/04/2017,Dallas,TX,639.0,anna.mitchell208@yahoo.com,(972)935-3672,Active
+MBR-000627,Jennifer,  Miller,03/20/2022,Keller,TX,600.0,jennifer.miller106@gmail.com,(972)245-1019,Inactive
+MBR-000628,Deborah,Baker,07/09/2012,North Richland Hills,TX,669.0,deborah.baker174@gmail.com,(682)204-5617,Active
+MBR-000629,Daniel,Ramirez,11/24/2021,Southlake,TX,684.0,daniel.ramirez615@yahoo.com,(972)253-5940,Active
+MBR-000630,Elizabeth,Smith,05/02/2013,Weatherford,TX,767.0,elizabeth.smith328@yahoo.com,(972)838-8838,Active
+MBR-000631,Deborah,Thompson,02/28/2017,North Richland Hills,TX,544.0,deborah.thompson435@gmail.com,(972)716-6463,Active
+MBR-000632,Jonathan,  Anderson,08/17/2018,Dallas,TX,802.0,jonathan.anderson595@gmail.com,N/A,Inactive
+MBR-000633,Linda,Thompson,02/04/2018,Weatherford,TX,667.0,linda.thompson302@gmail.com,(972)348-4452,Active
+MBR-000634,Jason,White,03/20/2011,Denton,TX,645.0,jason.white679@gmail.com,(972)957-3591,Active
+MBR-000635,Nancy,Walker,02/21/2013,Haltom City,TX,599.0,,(972)521-6526,Active
+MBR-000636,Daniel,Allen,08/06/2013,Fort Worth,TX,547.0,daniel.allen406@gmail.com,(972)667-5227,Active
+MBR-000637,Thomas,Mitchell,10/02/2014,Bedford,TX,745.0,thomas.mitchell634@yahoo.com,(972)288-2264,Active
+MBR-000638,Jason,Gonzalez,01/21/2016,Denton,TX,685.0,jason.gonzalez107@yahoo.com,(214)128-4924,Active
+MBR-000639,John,Thomas,01/15/2016,Dallas,TX,576.0,,(972)146-1787,Active
+MBR-000640,Ronald,Campbell,12/25/2017,Weatherford,TX,576.0,ronald.campbell720@gmail.com,(214)517-9250,Inactive
+MBR-000641,Emily,Hernandez,05/26/2013,Euless,TX,653.0,emily.hernandez81@gmail.com,(817)835-4794,Active
+MBR-000642,Nicole,Adams,09/26/2021,Southlake,TX,813.0,,(214)397-6903,Closed
+MBR-000643,Nicole,Jones,06/02/2013,Benbrook,TX,659.0,nicole.jones643@gmail.com,(817)924-1244,Active
+MBR-000644,Kenneth,Hernandez,08/18/2016,Granbury,TX,559.0,kenneth.hernandez70@yahoo.com,(214)461-2461,Active
+MBR-000645,Sarah,Davis,10/04/2022,North Richland Hills,TX,660.0,sarah.davis41@yahoo.com,(214)510-7701,Active
+MBR-000646,Edward,Allen,02/05/2020,Burleson,TX,658.0,edward.allen899@gmail.com,N/A,Active
+MBR-000647,Stephanie,Jones,01/02/2015,Bedford,TX,464.0,stephanie.jones896@gmail.com,(817)457-8632,Closed
+MBR-000648,Ronald,Roberts,09/19/2019,Cleburne,TX,675.0,ronald.roberts412@yahoo.com,(214)450-8967,Active
+MBR-000649,Margaret,Lee,09/29/2022,Arlington,TX,661.0,margaret.lee616@gmail.com,(817)927-6922,Active
+MBR-000650,Steven,Green,12/13/2013,Dallas,TX,735.0,steven.green146@yahoo.com,(972)183-5887,Active
+MBR-000651,Jason,Perez,08/29/2016,Granbury,TX,827.0,jason.perez204@yahoo.com,(972)593-8790,Inactive
+MBR-000652,BRENDA,Hill,06/15/2014,Dallas,TX,770.0,brenda.hill741@gmail.com,(682)431-6185,Active
+MBR-000653,Dorothy,King,01/31/2010,Euless,TX,658.0,,(682)749-8361,Active
+MBR-000654,SCOTT,Harris,11/06/2014,Grapevine,TX,591.0,scott.harris215@gmail.com,(817)479-6960,Active
+MBR-000655,Edward,Thompson,11/25/2017,Watauga,TX,850.0,edward.thompson437@gmail.com,(214)216-3880,Active
+MBR-000656,Sharon,  Green,05/09/2016,White Settlement,TX,684.0,sharon.green961@gmail.com,(817)189-2700,Active
+MBR-000657,Jeffrey,Allen,01/14/2023,Arlington,TX,681.0,jeffrey.allen684@yahoo.com,(972)316-4651,Active
+MBR-000658,Cynthia,Clark,06/18/2024,Bedford,TX,678.0,cynthia.clark8@gmail.com,(682)619-5646,Active
+MBR-000659,Rebecca,Williams,05/08/2010,Fort Worth,TX,695.0,rebecca.williams158@gmail.com,(214)443-3792,Inactive
+MBR-000660,Pamela,Ramirez,11/21/2012,Bedford,TX,668.0,pamela.ramirez746@yahoo.com,(214)629-3595,Inactive
+MBR-000661,Dorothy,Scott,07/26/2013,Southlake,TX,634.0,,(817)547-1189,Active
+MBR-000662,Thomas,Robinson,03/25/2024,Grapevine,TX,636.0,thomas.robinson192@yahoo.com,(682)404-4175,Active
+MBR-000663,Charles,Green,07/09/2010,Benbrook,TX,677.0,charles.green888@yahoo.com,(972)710-3010,Inactive
+MBR-000664,Ronald,Miller,01/05/2021,Fort Worth,TX,636.0,ronald.miller424@yahoo.com,(817)315-7879,Active
+MBR-000664,Ronald,Miller,01/05/2021,Fort Worth,TX,636.0,ronald.miller424@yahoo.com,(817)315-7879,Active
+MBR-000665,LARRY,Green,08/10/2023,Arlington,TX,622.0,larry.green121@gmail.com,(214)595-9953,Active
+MBR-000666,Karen,Wilson,03/09/2018,Denton,TX,688.0,karen.wilson921@yahoo.com,(214)241-4600,Active
+MBR-000667,Emily,Robinson,02/13/2021,Hurst,TX,659.0,emily.robinson525@gmail.com,(682)356-3833,Active
+MBR-000668,Lisa,Wilson,12/10/2020,Hurst,TX,800.0,lisa.wilson905@gmail.com,(214)935-6222,Active
+MBR-000669,Lisa,Williams,06/21/2021,Burleson,TX,467.0,lisa.williams601@gmail.com,(214)507-1490,Active
+MBR-000670,Charles,Roberts,01/19/2017,Denton,TX,767.0,charles.roberts10@yahoo.com,(817)834-6388,Active
+MBR-000671,Margaret,Miller,08/01/2022,Burleson,TX,779.0,margaret.miller734@gmail.com,(817)687-7909,Active
+MBR-000672,Kimberly,  Clark,09/03/2012,Denton,TX,514.0,,(214)705-7272,Active
+MBR-000672,Kimberly,  Clark,09/03/2012,Denton,TX,514.0,,(214)705-7272,Active
+MBR-000673,Thomas,Sanchez,10/31/2010,Watauga,TX,652.0,thomas.sanchez941@gmail.com,(214)760-1266,Active
+MBR-000674,Brenda,Roberts,01/09/2017,North Richland Hills,TX,650.0,brenda.roberts628@yahoo.com,(214)813-8447,Active
+MBR-000675,Mary,Rodriguez,05/11/2012,Southlake,TX,567.0,mary.rodriguez883@gmail.com,(972)331-3788,Active
+MBR-000675,Mary,Rodriguez,05/11/2012,Southlake,TX,567.0,mary.rodriguez883@gmail.com,(972)331-3788,Active
+MBR-000676,Michael,Taylor,12/19/2010,Denton,TX,617.0,michael.taylor50@gmail.com,(817)370-6395,Active
+MBR-000677,Kenneth,Martinez,02/07/2023,Hurst,TX,591.0,kenneth.martinez653@gmail.com,(817)634-9644,Active
+MBR-000678,Emily,Rivera,11/10/2011,Grapevine,TX,820.0,emily.rivera572@gmail.com,(682)775-4373,Active
+MBR-000679,Gary,Miller,08/20/2017,Cleburne,TX,754.0,gary.miller834@gmail.com,(214)878-6108,Active
+MBR-000680,Laura,Flores,07/08/2021,Cleburne,TX,781.0,laura.flores799@gmail.com,(817)384-7931,Active
+MBR-000681,Donald,Johnson,05/03/2020,Granbury,TX,737.0,donald.johnson274@yahoo.com,(972)460-5351,Active
+MBR-000682,Jeffrey,Moore,04/18/2018,Denton,TX,589.0,jeffrey.moore51@gmail.com,(972)298-5816,Active
+MBR-000683,Ashley,Davis,12/04/2014,Denton,TX,638.0,ashley.davis55@gmail.com,(214)344-2078,Active
+MBR-000684,Paul,Young,08/13/2014,Granbury,TX,719.0,paul.young805@yahoo.com,(214)822-5718,Inactive
+MBR-000685,Donald,Hernandez,01/25/2017,Dallas,TX,582.0,,(972)245-1208,Active
+MBR-000686,Mary,  Hill,11/24/2017,North Richland Hills,TX,737.0,mary.hill598@yahoo.com,(682)583-2792,Active
+MBR-000687,Richard,Miller,10/31/2016,Southlake,TX,660.0,richard.miller464@gmail.com,(214)658-5216,Active
+MBR-000688,Scott,Walker,07/12/2012,Burleson,TX,650.0,scott.walker703@gmail.com,(817)251-7722,Closed
+MBR-000689,George,Wilson,01/02/2012,Cleburne,TX,736.0,george.wilson943@gmail.com,(817)380-9927,Inactive
+MBR-000690,Ronald,Nguyen,05/12/2019,Burleson,TX,715.0,ronald.nguyen317@yahoo.com,(214)954-3014,Active
+MBR-000691,Charles,Robinson,05/15/2013,Haltom City,TX,651.0,,(682)410-8976,Active
+MBR-000692,Donna,Smith,08/27/2019,Grapevine,TX,772.0,donna.smith677@gmail.com,(817)357-3256,Active
+MBR-000693,Paul,Martinez,05/31/2014,Hurst,TX,593.0,paul.martinez600@gmail.com,(214)324-1526,Active
+MBR-000694,Dorothy,Martin,05/23/2023,Keller,TX,729.0,dorothy.martin178@gmail.com,(214)923-3280,Active
+MBR-000695,Cynthia,Wright,02/11/2014,Bedford,TX,727.0,cynthia.wright802@gmail.com,(972)198-3270,Active
+MBR-000696,Edward,Robinson,08/15/2010,Watauga,TX,655.0,edward.robinson28@gmail.com,(972)190-3303,Active
+MBR-000697,Emily,Brown,10/22/2018,Weatherford,TX,706.0,emily.brown413@gmail.com,(972)926-9487,Active
+MBR-000698,Emily,Torres,10/19/2020,Southlake,TX,579.0,emily.torres886@yahoo.com,(817)818-4359,Active
+MBR-000699,Donna,Campbell,02/22/2010,North Richland Hills,TX,753.0,donna.campbell639@gmail.com,(817)168-1000,Active
+MBR-000700,Ronald,Brown,09/24/2012,Keller,TX,665.0,ronald.brown415@gmail.com,(682)939-4849,Active
+MBR-000701,Robert,Lopez,03/06/2013,Mansfield,TX,638.0,robert.lopez175@gmail.com,(682)587-8871,Active
+MBR-000702,SUSAN,Robinson,05/09/2019,Hurst,TX,763.0,susan.robinson152@yahoo.com,(972)223-7380,Inactive
+MBR-000703,Sarah,Robinson,04/12/2020,Burleson,TX,623.0,sarah.robinson10@gmail.com,(214)612-9244,Active
+MBR-000704,Larry,Perez,04/22/2020,Weatherford,TX,567.0,larry.perez286@gmail.com,(214)503-2117,Inactive
+MBR-000705,Shirley,  Taylor,11/26/2012,Southlake,TX,555.0,shirley.taylor603@gmail.com,(214)698-7615,Active
+MBR-000706,Michelle,Carter,03/12/2015,Mansfield,TX,728.0,michelle.carter108@gmail.com,(682)845-7292,Active
+MBR-000707,Melissa,Hill,02/28/2024,Fort Worth,TX,577.0,melissa.hill946@yahoo.com,(817)815-8364,Active
+MBR-000708,Betty,Mitchell,08/20/2013,Hurst,TX,820.0,betty.mitchell834@gmail.com,(682)188-1397,Active
+MBR-000709,Anna,Jones,08/23/2017,Granbury,TX,513.0,anna.jones699@gmail.com,(972)294-4399,Active
+MBR-000710,Jason,Green,06/09/2018,Dallas,TX,815.0,jason.green583@yahoo.com,N/A,Inactive
+MBR-000711,Deborah,Rivera,01/10/2018,Dallas,TX,696.0,deborah.rivera894@gmail.com,(214)176-9755,Active
+MBR-000712,Joseph,Nguyen,07/25/2020,Burleson,TX,672.0,joseph.nguyen669@yahoo.com,(214)531-5274,Active
+MBR-000713,Linda,Thomas,01/26/2021,Dallas,TX,636.0,linda.thomas825@gmail.com,(817)454-2159,Active
+MBR-000714,Jennifer,Miller,10/19/2010,North Richland Hills,TX,711.0,jennifer.miller520@yahoo.com,N/A,Active
+MBR-000715,Jonathan,Hill,07/05/2018,Fort Worth,TX,676.0,jonathan.hill566@gmail.com,(972)884-7180,Closed
+MBR-000716,Melissa,Thompson,05/06/2014,Southlake,TX,768.0,melissa.thompson448@gmail.com,(682)337-2507,Closed
+MBR-000717,Mary,Campbell,08/10/2015,Arlington,TX,689.0,mary.campbell79@yahoo.com,(972)284-5630,Active
+MBR-000718,Jessica,Nelson,09/22/2011,Dallas,TX,692.0,jessica.nelson257@gmail.com,(682)606-6848,Inactive
+MBR-000719,Ashley,King,01/01/2016,Southlake,TX,650.0,ashley.king715@gmail.com,(817)155-6679,Closed
+MBR-000720,Sandra,Martin,05/27/2022,Cleburne,TX,675.0,sandra.martin126@yahoo.com,(682)136-4851,Active
+MBR-000721,Deborah,Martin,11/24/2011,Arlington,TX,704.0,,(972)607-1308,Active
+MBR-000722,Donna,Williams,02/23/2022,Grapevine,TX,543.0,donna.williams960@yahoo.com,(214)948-5301,Active
+MBR-000723,Linda,Miller,05/30/2022,Bedford,TX,572.0,linda.miller976@gmail.com,(214)979-9761,Active
+MBR-000724,Donald,Rodriguez,05/05/2010,Burleson,TX,739.0,donald.rodriguez819@gmail.com,N/A,Active
+MBR-000725,Nicole,  Smith,10/15/2012,Keller,TX,693.0,,N/A,Active
+MBR-000726,Edward,Brown,12/31/2022,Dallas,TX,665.0,edward.brown284@gmail.com,(214)165-8216,Active
+MBR-000727,Helen,Adams,02/11/2011,Mansfield,TX,681.0,,(682)800-9302,Active
+MBR-000728,Steven,Johnson,12/04/2017,Watauga,TX,707.0,steven.johnson736@yahoo.com,(682)458-2788,Inactive
+MBR-000729,Rebecca,Jones,05/25/2024,Hurst,TX,636.0,rebecca.jones897@yahoo.com,(817)434-6902,Active
+MBR-000730,Jennifer,Jackson,05/14/2013,Benbrook,TX,617.0,jennifer.jackson27@yahoo.com,(682)927-6129,Inactive
+MBR-000731,John,Nelson,05/14/2013,Bedford,TX,695.0,john.nelson781@gmail.com,(817)179-4679,Inactive
+MBR-000732,Michael,Hill,08/05/2020,Haltom City,TX,601.0,michael.hill533@gmail.com,(214)299-5801,Closed
+MBR-000733,Donald,Lewis,03/13/2019,Grapevine,TX,712.0,donald.lewis82@yahoo.com,(817)470-8932,Active
+MBR-000734,Edward,Baker,02/12/2023,Weatherford,TX,543.0,edward.baker621@yahoo.com,(214)449-6142,Active
+MBR-000735,Nancy,Robinson,05/08/2010,Granbury,TX,762.0,nancy.robinson124@gmail.com,(972)860-2654,Inactive
+MBR-000736,Deborah,Ramirez,12/12/2017,Weatherford,TX,717.0,deborah.ramirez412@gmail.com,(682)829-5806,Active
+MBR-000737,Amanda,Lewis,03/04/2019,Euless,TX,700.0,amanda.lewis759@gmail.com,(214)875-8816,Active
+MBR-000738,James,Nguyen,04/21/2023,Grapevine,TX,758.0,james.nguyen691@gmail.com,(972)428-8185,Active
+MBR-000739,Eric,King,01/02/2023,Haltom City,TX,813.0,eric.king865@gmail.com,(214)430-7292,Active
+MBR-000740,Eric,Moore,11/25/2022,White Settlement,TX,761.0,eric.moore322@yahoo.com,(214)269-2942,Active
+MBR-000741,Susan,Anderson,04/01/2016,Weatherford,TX,532.0,susan.anderson99@yahoo.com,N/A,Active
+MBR-000742,Pamela,Ramirez,12/24/2019,Haltom City,TX,577.0,pamela.ramirez130@gmail.com,(214)212-2965,Active
+MBR-000743,Amanda,Garcia,12/28/2014,Dallas,TX,630.0,amanda.garcia335@yahoo.com,(214)382-8429,Active
+MBR-000744,Eric,Lee,04/09/2014,Watauga,TX,682.0,eric.lee677@gmail.com,(817)749-1130,Active
+MBR-000745,NANCY,Campbell,02/21/2021,Keller,TX,721.0,nancy.campbell135@yahoo.com,(817)628-4509,Active
+MBR-000746,Timothy,Green,02/05/2023,Mansfield,TX,621.0,timothy.green654@yahoo.com,(682)998-5916,Active
+MBR-000747,Emily,Miller,11/29/2014,Denton,TX,694.0,emily.miller987@gmail.com,(214)529-8326,Active
+MBR-000748,Thomas,Roberts,11/06/2020,North Richland Hills,TX,619.0,thomas.roberts616@gmail.com,(682)129-5766,Active
+MBR-000749,Edward,Sanchez,11/30/2019,Hurst,TX,631.0,edward.sanchez409@yahoo.com,(817)374-8954,Active
+MBR-000750,ANTHONY,Roberts,01/10/2024,Denton,TX,567.0,anthony.roberts971@gmail.com,(214)232-9843,Active
+MBR-000751,Stephen,Jones,09/09/2024,Arlington,TX,606.0,stephen.jones532@yahoo.com,(682)260-9776,Active
+MBR-000752,Ashley,Smith,10/23/2010,Fort Worth,TX,571.0,ashley.smith774@gmail.com,N/A,Active
+MBR-000753,Jessica,Harris,09/12/2024,Bedford,TX,601.0,jessica.harris135@gmail.com,(214)982-2391,Active
+MBR-000754,Karen,Miller,03/12/2023,Bedford,TX,764.0,karen.miller199@gmail.com,(214)903-6303,Active
+MBR-000755,Timothy,Jackson,08/20/2019,Dallas,TX,604.0,timothy.jackson228@gmail.com,N/A,Active
+MBR-000756,Anna,Rivera,06/06/2012,Euless,TX,850.0,anna.rivera230@gmail.com,(817)506-4802,Active
+MBR-000757,Brenda,Hernandez,08/29/2014,North Richland Hills,TX,719.0,brenda.hernandez608@yahoo.com,(682)512-8758,Active
+MBR-000758,Karen,Williams,03/18/2017,Benbrook,TX,694.0,karen.williams614@gmail.com,(817)374-4427,Active
+MBR-000759,Angela,Scott,10/30/2011,Denton,TX,611.0,angela.scott436@gmail.com,(972)230-1223,Active
+MBR-000760,Lisa,Green,10/07/2021,North Richland Hills,TX,736.0,lisa.green144@gmail.com,(972)508-1151,Active
+MBR-000761,Melissa,Torres,08/01/2024,Granbury,TX,633.0,melissa.torres145@yahoo.com,(682)922-7082,Inactive
+MBR-000762,Sarah,Hernandez,10/05/2021,North Richland Hills,TX,689.0,sarah.hernandez11@yahoo.com,(682)253-8708,Active
+MBR-000763,Linda,Flores,07/06/2020,White Settlement,TX,850.0,linda.flores161@yahoo.com,(682)453-1231,Active
+MBR-000764,Stephanie,Taylor,08/02/2022,Watauga,TX,672.0,stephanie.taylor657@gmail.com,(817)706-3497,Active
+MBR-000765,DEBORAH,Perez,11/29/2022,Benbrook,TX,771.0,deborah.perez620@yahoo.com,(972)314-3754,Active
+MBR-000766,James,Lee,09/30/2011,Arlington,TX,623.0,james.lee141@gmail.com,(972)535-8728,Active
+MBR-000767,Donna,King,02/09/2017,Haltom City,TX,677.0,donna.king81@gmail.com,(682)270-5550,Active
+MBR-000768,Sharon,Adams,10/23/2017,Granbury,TX,821.0,sharon.adams26@gmail.com,(972)889-6668,Active
+MBR-000769,Mary,Gonzalez,12/01/2019,Grapevine,TX,629.0,mary.gonzalez539@yahoo.com,N/A,Active
+MBR-000770,Ronald,Williams,09/04/2015,Burleson,TX,824.0,ronald.williams641@yahoo.com,(817)983-8713,Active
+MBR-000771,John,White,08/25/2010,White Settlement,TX,736.0,john.white916@gmail.com,(682)991-3156,Inactive
+MBR-000772,Kimberly,Gonzalez,09/10/2024,White Settlement,TX,635.0,kimberly.gonzalez756@yahoo.com,(214)826-3772,Inactive
+MBR-000773,Linda,Jones,04/30/2014,Haltom City,TX,730.0,linda.jones152@gmail.com,(817)276-8264,Closed
+MBR-000774,Donna,Moore,07/29/2022,Grapevine,TX,757.0,donna.moore121@yahoo.com,(817)679-8585,Active
+MBR-000775,Lisa,Smith,11/17/2014,Grapevine,TX,729.0,lisa.smith472@yahoo.com,(682)415-4130,Active
+MBR-000776,Edward,Anderson,03/23/2014,Burleson,TX,554.0,edward.anderson905@yahoo.com,(214)365-8202,Active
+MBR-000777,Lisa,Williams,02/16/2023,Bedford,TX,621.0,lisa.williams160@gmail.com,(682)819-8108,Inactive
+MBR-000778,Paul,Garcia,07/06/2021,Cleburne,TX,660.0,paul.garcia265@yahoo.com,(214)132-2889,Active
+MBR-000779,John,Lee,05/06/2012,Grapevine,TX,674.0,john.lee891@gmail.com,(682)531-8790,Active
+MBR-000780,Robert,Lewis,10/31/2023,Euless,TX,729.0,robert.lewis608@gmail.com,(972)848-7542,Active
+MBR-000781,Sandra,Carter,05/16/2021,Denton,TX,694.0,sandra.carter432@gmail.com,(214)691-7565,Active
+MBR-000782,Larry,Carter,02/17/2013,Weatherford,TX,573.0,larry.carter680@yahoo.com,(817)192-6067,Active
+MBR-000783,Daniel,Martin,11/24/2016,Dallas,TX,,daniel.martin190@yahoo.com,(682)547-2477,Active
+MBR-000784,Stephen,Baker,11/03/2018,Cleburne,TX,728.0,stephen.baker935@gmail.com,(972)951-8593,Active
+MBR-000785,Andrew,Baker,07/11/2019,White Settlement,TX,724.0,andrew.baker404@gmail.com,(214)600-1440,Active
+MBR-000786,Ronald,Jones,06/24/2024,Mansfield,TX,766.0,ronald.jones142@gmail.com,(817)316-5946,Inactive
+MBR-000787,John,Taylor,06/17/2019,Granbury,TX,746.0,john.taylor168@yahoo.com,(817)576-2353,Active
+MBR-000788,Nicholas,Harris,03/13/2020,Fort Worth,TX,716.0,nicholas.harris498@gmail.com,(972)532-1893,Active
+MBR-000789,Jacob,Rivera,07/07/2017,Watauga,TX,674.0,jacob.rivera996@yahoo.com,N/A,Active
+MBR-000790,Angela,Flores,03/16/2020,Hurst,TX,547.0,angela.flores50@gmail.com,(817)224-9021,Active
+MBR-000791,Patricia,Wright,12/30/2015,Granbury,TX,714.0,patricia.wright301@yahoo.com,(817)557-6318,Active
+MBR-000792,Jonathan,Miller,10/29/2012,Weatherford,TX,696.0,jonathan.miller649@gmail.com,(214)453-8504,Active
+MBR-000793,Elizabeth,Lee,05/12/2018,Arlington,TX,701.0,elizabeth.lee151@gmail.com,(817)491-9398,Closed
+MBR-000794,Steven,Campbell,08/23/2024,Dallas,TX,577.0,steven.campbell857@gmail.com,(817)912-4139,Active
+MBR-000795,Pamela,Walker,10/29/2014,Hurst,TX,593.0,pamela.walker282@gmail.com,(682)383-9217,Active
+MBR-000796,Rebecca,Nelson,11/29/2012,Burleson,TX,764.0,rebecca.nelson274@gmail.com,(214)199-4626,Active
+MBR-000797,Rebecca,Green,05/09/2023,Southlake,TX,676.0,rebecca.green555@yahoo.com,(817)451-6580,Active
+MBR-000798,Deborah,Taylor,01/14/2019,Arlington,TX,734.0,deborah.taylor677@gmail.com,(817)746-8971,Active
+MBR-000799,Cynthia,Johnson,07/01/2013,White Settlement,TX,682.0,cynthia.johnson599@yahoo.com,(214)678-8070,Active
+MBR-000800,Jonathan,Rodriguez,06/28/2018,White Settlement,TX,682.0,jonathan.rodriguez972@gmail.com,(817)505-4576,Closed
+MBR-000801,Stephen,Clark,11/23/2017,Cleburne,TX,755.0,stephen.clark429@gmail.com,(214)427-6950,Active
+MBR-000802,Mark,  Sanchez,02/05/2021,Euless,TX,638.0,mark.sanchez294@gmail.com,(972)260-3910,Active
+MBR-000803,Justin,Adams,05/19/2019,Hurst,TX,687.0,justin.adams421@yahoo.com,(817)733-4673,Active
+MBR-000804,Ashley,Hernandez,10/08/2022,North Richland Hills,TX,643.0,ashley.hernandez701@yahoo.com,(214)123-7378,Active
+MBR-000805,Betty,Lee,12/22/2012,Keller,TX,645.0,betty.lee67@gmail.com,(682)691-8555,Active
+MBR-000806,Nicole,Perez,07/28/2013,Mansfield,TX,655.0,nicole.perez474@gmail.com,(817)107-1529,Closed
+MBR-000807,Jonathan,Davis,08/13/2023,Watauga,TX,697.0,jonathan.davis732@yahoo.com,(972)947-1979,Active
+MBR-000808,Jeffrey,Ramirez,10/13/2012,Denton,TX,641.0,jeffrey.ramirez150@gmail.com,(817)839-3768,Active
+MBR-000809,Elizabeth,Robinson,01/09/2021,Mansfield,TX,780.0,elizabeth.robinson776@yahoo.com,(214)805-8285,Active
+MBR-000810,Patricia,Anderson,04/27/2018,Benbrook,TX,608.0,patricia.anderson372@gmail.com,(214)833-3593,Active
+MBR-000811,Nicole,  Jackson,08/14/2018,Burleson,TX,665.0,nicole.jackson653@yahoo.com,(682)697-5963,Active
+MBR-000812,Lisa,Thompson,06/10/2024,Weatherford,TX,644.0,lisa.thompson602@gmail.com,(214)635-7133,Active
+MBR-000813,David,Perez,01/16/2015,Keller,TX,795.0,david.perez212@yahoo.com,(214)723-2959,Inactive
+MBR-000814,Shirley,Anderson,07/18/2014,Grapevine,TX,695.0,shirley.anderson681@yahoo.com,(817)437-9313,Active
+MBR-000815,Larry,King,07/25/2015,Mansfield,TX,762.0,larry.king263@gmail.com,(682)806-5015,Active
+MBR-000816,David,Rodriguez,09/20/2021,Keller,TX,561.0,david.rodriguez63@yahoo.com,(682)699-8819,Active
+MBR-000817,William,Walker,06/06/2014,Denton,TX,701.0,william.walker556@gmail.com,(972)407-1157,Active
+MBR-000818,Brandon,Carter,03/26/2020,Fort Worth,TX,751.0,brandon.carter258@gmail.com,(214)604-3892,Active
+MBR-000819,Brenda,Allen,12/04/2016,Euless,TX,686.0,brenda.allen115@gmail.com,(682)599-1106,Active
+MBR-000820,Jeffrey,Perez,04/22/2024,Watauga,TX,765.0,jeffrey.perez843@yahoo.com,(817)881-4797,Active
+MBR-000821,Pamela,Baker,06/20/2013,Southlake,TX,638.0,pamela.baker161@yahoo.com,(972)904-3814,Active
+MBR-000822,Paul,Anderson,11/24/2015,North Richland Hills,TX,792.0,paul.anderson957@gmail.com,(214)479-3375,Active
+MBR-000823,JAMES,Carter,01/24/2019,Arlington,TX,850.0,james.carter992@gmail.com,(682)567-5492,Active
+MBR-000824,Timothy,Lee,07/08/2022,Watauga,TX,650.0,timothy.lee757@yahoo.com,(682)732-9240,Active
+MBR-000825,Jennifer,Roberts,10/01/2018,North Richland Hills,TX,644.0,jennifer.roberts256@yahoo.com,(972)160-2661,Inactive
+MBR-000826,Elizabeth,Lee,04/13/2019,Weatherford,TX,796.0,elizabeth.lee895@yahoo.com,(214)687-4276,Active
+MBR-000827,Robert,Rodriguez,07/12/2011,Southlake,TX,806.0,robert.rodriguez981@gmail.com,(972)865-4519,Active
+MBR-000828,Robert,Rodriguez,09/03/2012,Hurst,TX,638.0,robert.rodriguez438@yahoo.com,(972)917-1786,Closed
+MBR-000829,Michelle,Wright,01/13/2021,Keller,TX,646.0,michelle.wright589@yahoo.com,(817)852-2237,Active
+MBR-000830,Cynthia,Flores,08/01/2024,Cleburne,TX,657.0,cynthia.flores770@yahoo.com,(972)937-5536,Active
+MBR-000831,RYAN,King,09/13/2019,Fort Worth,TX,572.0,ryan.king412@gmail.com,(817)738-7388,Active
+MBR-000832,Ryan,Adams,06/30/2014,Benbrook,TX,606.0,,(682)293-3429,Active
+MBR-000833,David,Lee,01/27/2017,Mansfield,TX,599.0,david.lee674@yahoo.com,(214)267-7951,Closed
+MBR-000834,Jessica,Harris,07/28/2010,Euless,TX,618.0,jessica.harris889@gmail.com,(682)489-1806,Active
+MBR-000835,Justin,Campbell,08/02/2021,Denton,TX,677.0,justin.campbell167@gmail.com,(817)600-6871,Active
+MBR-000836,Joseph,Robinson,05/13/2010,Fort Worth,TX,698.0,joseph.robinson390@gmail.com,(972)978-2639,Closed
+MBR-000837,William,Adams,06/08/2024,Bedford,TX,804.0,william.adams897@gmail.com,N/A,Active
+MBR-000838,John,Brown,05/17/2023,Cleburne,TX,600.0,john.brown888@gmail.com,(214)480-7797,Active
+MBR-000839,George,Davis,08/23/2013,Fort Worth,TX,758.0,george.davis510@yahoo.com,(972)740-7114,Active
+MBR-000840,CHARLES,Clark,01/16/2011,Watauga,TX,662.0,charles.clark387@gmail.com,(682)261-2640,Closed
+MBR-000841,Jonathan,Lewis,01/06/2013,White Settlement,TX,676.0,jonathan.lewis829@gmail.com,(214)587-8692,Active
+MBR-000842,Amy,Mitchell,10/24/2022,Cleburne,TX,733.0,amy.mitchell129@yahoo.com,(682)924-3336,Active
+MBR-000843,Nancy,Campbell,10/02/2016,Southlake,TX,590.0,nancy.campbell728@gmail.com,(214)878-3157,Active
+MBR-000844,Michael,Gonzalez,02/01/2014,Fort Worth,TX,710.0,michael.gonzalez147@gmail.com,(682)265-7500,Active
+MBR-000845,Laura,Wilson,03/01/2020,White Settlement,TX,693.0,laura.wilson270@gmail.com,(817)862-5576,Inactive
+MBR-000846,Stephen,  Robinson,03/01/2012,Southlake,TX,719.0,stephen.robinson782@gmail.com,(817)900-6987,Active
+MBR-000847,Emily,Rodriguez,10/18/2017,Keller,TX,703.0,emily.rodriguez464@gmail.com,(817)987-9269,Active
+MBR-000848,Betty,Campbell,12/09/2017,Haltom City,TX,850.0,betty.campbell616@gmail.com,(817)919-9735,Active
+MBR-000849,Helen,Anderson,05/30/2013,Watauga,TX,628.0,helen.anderson965@gmail.com,(972)978-4312,Inactive
+MBR-000850,Cynthia,Lee,01/20/2013,Keller,TX,637.0,cynthia.lee1@yahoo.com,(214)313-2094,Closed
+MBR-000851,Ashley,Sanchez,07/30/2013,Hurst,TX,630.0,ashley.sanchez401@gmail.com,(682)954-6741,Closed
+MBR-000852,Karen,Wilson,12/12/2019,Weatherford,TX,635.0,karen.wilson689@yahoo.com,(214)111-2921,Inactive
+MBR-000853,Anna,Mitchell,09/07/2023,Euless,TX,629.0,anna.mitchell158@yahoo.com,(214)996-5458,Active
+MBR-000854,Gary,Carter,07/12/2016,Mansfield,TX,775.0,gary.carter536@yahoo.com,(214)347-9102,Active
+MBR-000855,KIMBERLY,Taylor,05/12/2024,Haltom City,TX,793.0,kimberly.taylor337@gmail.com,(214)465-2361,Active
+MBR-000856,Gary,Scott,08/10/2023,Benbrook,TX,634.0,gary.scott385@gmail.com,(972)143-2766,Active
+MBR-000857,Nicole,Clark,10/31/2018,Arlington,TX,613.0,nicole.clark356@gmail.com,(972)972-8548,Active
+MBR-000858,Patricia,Wilson,09/19/2022,Granbury,TX,717.0,patricia.wilson25@gmail.com,(214)201-5788,Active
+MBR-000859,Ashley,Moore,01/02/2020,Arlington,TX,635.0,ashley.moore333@gmail.com,(214)887-3631,Active
+MBR-000860,Amy,Garcia,06/27/2017,Grapevine,TX,730.0,amy.garcia632@gmail.com,(682)424-6010,Active
+MBR-000861,Dorothy,Rivera,11/20/2020,Grapevine,TX,696.0,dorothy.rivera346@gmail.com,(214)872-3608,Active
+MBR-000862,Brenda,Wright,12/28/2013,Bedford,TX,558.0,brenda.wright634@gmail.com,(682)195-2483,Active
+MBR-000863,Sarah,Harris,04/28/2012,Keller,TX,803.0,sarah.harris629@gmail.com,(817)431-4683,Inactive
+MBR-000864,Mark,  Thomas,01/25/2015,Euless,TX,823.0,mark.thomas664@gmail.com,(682)112-5862,Active
+MBR-000865,Edward,Lopez,08/19/2021,Benbrook,TX,630.0,edward.lopez410@gmail.com,(972)864-5284,Inactive
+MBR-000866,Kenneth,Wright,01/04/2018,Dallas,TX,648.0,kenneth.wright982@gmail.com,(214)980-5045,Active
+MBR-000867,Susan,Hill,02/10/2015,Grapevine,TX,702.0,susan.hill735@gmail.com,(682)576-5409,Active
+MBR-000868,Brenda,Lewis,07/16/2022,Arlington,TX,706.0,brenda.lewis918@yahoo.com,(682)165-6806,Active
+MBR-000869,Sarah,Sanchez,10/29/2014,Euless,TX,732.0,sarah.sanchez318@gmail.com,(214)438-4810,Active
+MBR-000870,James,Flores,03/10/2011,Grapevine,TX,840.0,james.flores602@yahoo.com,(817)728-2042,Active
+MBR-000871,Nancy,Johnson,07/25/2024,North Richland Hills,TX,665.0,nancy.johnson747@yahoo.com,(817)196-7611,Active
+MBR-000872,Richard,Martin,12/19/2017,Granbury,TX,616.0,richard.martin725@gmail.com,(214)611-2486,Active
+MBR-000873,Shirley,  Taylor,06/17/2010,White Settlement,TX,569.0,shirley.taylor63@gmail.com,N/A,Active
+MBR-000874,Larry,Torres,05/29/2018,Dallas,TX,621.0,larry.torres979@yahoo.com,(972)286-9768,Inactive
+MBR-000875,Daniel,Allen,05/04/2013,Euless,TX,677.0,daniel.allen32@gmail.com,(817)926-6106,Active
+MBR-000876,Karen,Flores,07/26/2017,Euless,TX,823.0,karen.flores951@gmail.com,(972)902-8338,Active
+MBR-000877,Stephanie,Williams,01/14/2018,Arlington,TX,638.0,stephanie.williams939@gmail.com,(972)930-2618,Active
+MBR-000878,Anna,Adams,07/05/2014,Keller,TX,697.0,anna.adams329@yahoo.com,(682)399-7984,Active
+MBR-000879,Amy,Roberts,06/10/2016,Arlington,TX,678.0,amy.roberts541@gmail.com,(682)191-6031,Active
+MBR-000880,Joshua,Harris,03/23/2014,Grapevine,TX,775.0,joshua.harris988@gmail.com,(972)856-9329,Closed
+MBR-000881,Mark,Rivera,03/08/2017,Dallas,TX,850.0,mark.rivera732@yahoo.com,(682)684-1255,Active
+MBR-000882,Kevin,Lopez,09/30/2018,Mansfield,TX,637.0,kevin.lopez381@gmail.com,(972)145-3554,Inactive
+MBR-000883,Donna,Wilson,08/27/2024,Burleson,TX,640.0,donna.wilson420@gmail.com,(972)943-7777,Active
+MBR-000883,Donna,Wilson,08/27/2024,Burleson,TX,640.0,donna.wilson420@gmail.com,(972)943-7777,Active
+MBR-000884,Jennifer,Hall,01/28/2020,Weatherford,TX,763.0,jennifer.hall679@gmail.com,(817)752-2874,Active
+MBR-000885,Ronald,Jackson,01/11/2022,Keller,TX,734.0,ronald.jackson292@gmail.com,(214)211-2956,Active
+MBR-000886,John,Walker,09/27/2020,Denton,TX,827.0,john.walker115@yahoo.com,(972)288-2369,Active
+MBR-000887,Jennifer,Nelson,04/18/2021,Cleburne,TX,726.0,jennifer.nelson787@yahoo.com,(214)144-1232,Active
+MBR-000888,Ronald,Harris,06/08/2013,Keller,TX,651.0,,(682)742-4184,Active
+MBR-000889,Christopher,Martinez,04/10/2022,Southlake,TX,727.0,christopher.martinez59@yahoo.com,(817)519-9487,Active
+MBR-000890,Sandra,Smith,07/20/2018,Fort Worth,TX,,,(972)887-2960,Active
+MBR-000891,Pamela,Adams,08/29/2018,Keller,TX,745.0,pamela.adams703@gmail.com,(972)866-4893,Active
+MBR-000892,Jonathan,White,01/08/2015,Weatherford,TX,720.0,,(682)497-5214,Active
+MBR-000893,Anna,Anderson,01/09/2019,Weatherford,TX,765.0,anna.anderson861@gmail.com,(682)515-7899,Active
+MBR-000894,Sarah,Campbell,11/20/2021,Cleburne,TX,773.0,sarah.campbell252@yahoo.com,(682)682-4188,Active
+MBR-000895,Melissa,Adams,11/19/2016,Cleburne,TX,790.0,melissa.adams403@yahoo.com,(817)655-8410,Active
+MBR-000896,Christopher,Nelson,08/15/2018,Haltom City,TX,731.0,christopher.nelson443@yahoo.com,(972)124-4382,Active
+MBR-000897,Betty,Martinez,03/24/2019,Southlake,TX,666.0,betty.martinez480@yahoo.com,(682)880-8973,Active
+MBR-000898,William,Johnson,03/13/2010,Arlington,TX,691.0,william.johnson340@gmail.com,(214)465-4326,Inactive
+MBR-000899,Laura,Walker,08/05/2017,Granbury,TX,776.0,laura.walker297@yahoo.com,(682)255-3674,Closed
+MBR-000900,Ashley,Davis,04/16/2013,Euless,TX,614.0,,(682)490-8746,Active
+MBR-000901,Nancy,Lewis,06/12/2010,North Richland Hills,TX,709.0,nancy.lewis970@gmail.com,(214)447-2392,Closed
+MBR-000902,BETTY,Green,03/12/2017,Keller,TX,648.0,betty.green729@gmail.com,(817)463-9105,Active
+MBR-000903,Eric,Johnson,12/24/2020,Southlake,TX,682.0,eric.johnson928@yahoo.com,(682)817-6023,Active
+MBR-000904,Kevin,Scott,09/15/2010,Weatherford,TX,782.0,kevin.scott893@gmail.com,(817)852-1314,Active
+MBR-000905,George,Allen,07/10/2019,Hurst,TX,695.0,george.allen725@yahoo.com,(214)836-5285,Active
+MBR-000906,Kenneth,Allen,07/18/2012,Fort Worth,TX,683.0,kenneth.allen831@yahoo.com,(817)348-2219,Active
+MBR-000907,Carol,Flores,07/31/2011,Weatherford,TX,571.0,carol.flores597@gmail.com,(972)746-6421,Active
+MBR-000908,Barbara,Rivera,01/21/2012,Fort Worth,TX,739.0,barbara.rivera444@gmail.com,(682)315-1819,Active
+MBR-000909,NANCY,Walker,06/17/2016,Benbrook,TX,731.0,nancy.walker886@gmail.com,(972)289-9316,Active
+MBR-000910,Elizabeth,Gonzalez,03/13/2014,Southlake,TX,850.0,elizabeth.gonzalez775@gmail.com,(682)504-5861,Active
+MBR-000911,Steven,Jackson,08/14/2013,Dallas,TX,655.0,steven.jackson64@yahoo.com,(214)850-1989,Active
+MBR-000911,Steven,Jackson,08/14/2013,Dallas,TX,655.0,steven.jackson64@yahoo.com,(214)850-1989,Active
+MBR-000912,Barbara,Lee,03/12/2023,Grapevine,TX,697.0,barbara.lee715@gmail.com,(817)682-5299,Active
+MBR-000913,Anna,Mitchell,04/08/2014,Mansfield,TX,699.0,anna.mitchell602@yahoo.com,(214)519-8617,Active
+MBR-000914,Karen,Martinez,08/25/2018,Hurst,TX,806.0,karen.martinez973@yahoo.com,(682)907-6189,Inactive
+MBR-000915,Karen,  Nguyen,02/15/2014,Cleburne,TX,672.0,karen.nguyen98@yahoo.com,(972)253-5438,Active
+MBR-000916,Gary,Hill,03/12/2021,Hurst,TX,702.0,gary.hill446@gmail.com,(682)599-1979,Active
+MBR-000917,Amy,Wilson,05/04/2019,North Richland Hills,TX,728.0,amy.wilson14@gmail.com,(682)446-6089,Active
+MBR-000918,Thomas,White,09/06/2022,North Richland Hills,TX,694.0,thomas.white65@yahoo.com,(214)527-5032,Closed
+MBR-000919,Kimberly,Scott,08/23/2017,Benbrook,TX,644.0,kimberly.scott813@yahoo.com,(682)230-6272,Active
+MBR-000920,Larry,Walker,06/08/2010,Southlake,TX,695.0,larry.walker524@gmail.com,(972)868-3430,Active
+MBR-000921,Laura,  Harris,05/02/2014,Burleson,TX,765.0,laura.harris729@yahoo.com,(817)585-5040,Closed
+MBR-000922,Gary,Lee,07/26/2023,Watauga,TX,597.0,gary.lee205@gmail.com,(682)711-2972,Active
+MBR-000923,Mary,Martin,11/09/2015,Cleburne,TX,690.0,mary.martin148@yahoo.com,(817)767-7904,Active
+MBR-000924,Kenneth,Miller,02/19/2016,Euless,TX,623.0,,(972)391-3668,Active
+MBR-000925,Timothy,Scott,07/28/2010,Hurst,TX,775.0,timothy.scott662@yahoo.com,N/A,Active
+MBR-000926,Amy,Jones,07/11/2011,Weatherford,TX,558.0,amy.jones156@yahoo.com,(682)830-4850,Active
+MBR-000927,Linda,King,05/04/2019,Bedford,TX,635.0,linda.king712@yahoo.com,(817)933-4395,Active
+MBR-000928,Michael,Adams,01/22/2015,North Richland Hills,TX,,michael.adams44@yahoo.com,(682)256-3255,Active
+MBR-000929,REBECCA,Scott,07/11/2011,Arlington,TX,805.0,rebecca.scott205@gmail.com,(682)335-9052,Active
+MBR-000930,Jonathan,Smith,01/29/2024,White Settlement,TX,674.0,jonathan.smith289@yahoo.com,(214)623-7363,Active
+MBR-000931,Andrew,Lewis,08/25/2010,Euless,TX,635.0,andrew.lewis618@gmail.com,(972)309-4028,Active
+MBR-000932,Joshua,Hall,10/22/2014,Benbrook,TX,830.0,joshua.hall838@yahoo.com,(972)155-4765,Active
+MBR-000933,Kevin,Wilson,03/16/2021,Bedford,TX,564.0,kevin.wilson738@yahoo.com,(972)716-3707,Active
+MBR-000934,Susan,Smith,09/13/2010,White Settlement,TX,504.0,susan.smith52@gmail.com,(214)100-5971,Closed
+MBR-000935,Melissa,Jones,04/12/2016,Hurst,TX,715.0,melissa.jones670@yahoo.com,(817)222-5948,Active
+MBR-000936,Patricia,Walker,12/01/2013,Fort Worth,TX,639.0,patricia.walker116@yahoo.com,(682)566-5475,Active
+MBR-000937,Patricia,Williams,02/26/2021,Hurst,TX,598.0,patricia.williams851@gmail.com,(682)113-1721,Active
+MBR-000938,Paul,Gonzalez,04/08/2015,Euless,TX,736.0,paul.gonzalez830@yahoo.com,(817)994-8132,Active
+MBR-000939,Melissa,Robinson,08/06/2020,Watauga,TX,699.0,melissa.robinson168@yahoo.com,(214)843-9859,Active
+MBR-000940,Emily,Martinez,02/03/2021,Watauga,TX,634.0,emily.martinez418@yahoo.com,(972)188-5148,Active
+MBR-000941,Jennifer,Perez,05/11/2021,Weatherford,TX,577.0,jennifer.perez614@yahoo.com,(682)971-3285,Closed
+MBR-000942,Anna,Williams,08/27/2021,Denton,TX,749.0,anna.williams590@yahoo.com,(682)857-4715,Inactive
+MBR-000943,Eric,Nelson,10/23/2018,Mansfield,TX,732.0,eric.nelson591@yahoo.com,(972)804-2743,Inactive
+MBR-000944,Nicholas,Miller,02/08/2021,Weatherford,TX,672.0,nicholas.miller938@yahoo.com,(214)347-7653,Active
+MBR-000945,Anthony,  Lopez,08/08/2011,Dallas,TX,827.0,anthony.lopez260@gmail.com,(817)532-6857,Active
+MBR-000946,Kathleen,Green,10/16/2023,Benbrook,TX,594.0,kathleen.green43@gmail.com,(817)611-6236,Active
+MBR-000947,Emma,Flores,11/15/2017,North Richland Hills,TX,557.0,emma.flores28@yahoo.com,(972)877-2422,Active
+MBR-000948,Carol,Thomas,07/16/2023,North Richland Hills,TX,624.0,carol.thomas36@yahoo.com,(972)321-7727,Active
+MBR-000949,Nancy,Robinson,02/29/2016,Benbrook,TX,676.0,nancy.robinson398@gmail.com,(817)359-2927,Active
+MBR-000950,Joseph,Baker,06/22/2013,Dallas,TX,699.0,joseph.baker204@gmail.com,(682)105-7345,Active
+MBR-000951,Justin,Young,02/17/2015,Euless,TX,660.0,justin.young828@gmail.com,(817)203-3694,Active
+MBR-000952,Robert,Rivera,10/12/2021,Grapevine,TX,708.0,robert.rivera651@gmail.com,(972)585-1549,Active
+MBR-000953,Stephanie,Allen,06/16/2015,Weatherford,TX,579.0,stephanie.allen124@yahoo.com,(817)684-4060,Active
+MBR-000954,Nancy,Nguyen,04/09/2019,Denton,TX,795.0,,(682)250-5920,Active
+MBR-000955,Justin,King,03/14/2010,Keller,TX,673.0,justin.king902@gmail.com,(214)349-8870,Active
+MBR-000956,Anna,Jones,04/11/2013,Weatherford,TX,769.0,anna.jones879@gmail.com,(817)589-9411,Inactive
+MBR-000957,Dorothy,Clark,05/04/2011,Hurst,TX,707.0,dorothy.clark44@gmail.com,(972)128-4155,Active
+MBR-000958,Brandon,Allen,02/13/2019,Granbury,TX,716.0,brandon.allen248@gmail.com,(214)609-2229,Active
+MBR-000959,Melissa,Moore,10/27/2018,Burleson,TX,725.0,melissa.moore476@gmail.com,(214)410-9770,Inactive
+MBR-000960,Emma,Hall,07/26/2022,White Settlement,TX,715.0,emma.hall614@gmail.com,(682)580-6522,Active
+MBR-000961,Paul,Jackson,05/02/2023,Haltom City,TX,731.0,paul.jackson234@yahoo.com,(214)345-4133,Active
+MBR-000962,Matthew,Roberts,10/02/2023,Weatherford,TX,786.0,matthew.roberts822@gmail.com,(214)294-6922,Active
+MBR-000963,Emily,Green,07/17/2015,Cleburne,TX,695.0,emily.green613@gmail.com,(214)287-9142,Active
+MBR-000964,Elizabeth,Taylor,10/16/2012,Bedford,TX,736.0,elizabeth.taylor833@gmail.com,(972)103-2090,Active
+MBR-000965,Larry,Clark,06/20/2014,Burleson,TX,672.0,larry.clark53@gmail.com,(972)709-2770,Active
+MBR-000966,David,Moore,05/30/2012,Watauga,TX,795.0,david.moore549@yahoo.com,N/A,Active
+MBR-000967,Sharon,Thomas,03/04/2015,Mansfield,TX,625.0,sharon.thomas634@gmail.com,(214)665-6792,Inactive
+MBR-000968,Anthony,Wright,10/28/2023,Fort Worth,TX,824.0,anthony.wright978@yahoo.com,(214)928-8966,Inactive
+MBR-000969,Kimberly,Miller,01/26/2010,Mansfield,TX,676.0,kimberly.miller688@yahoo.com,(972)556-4496,Inactive
+MBR-000970,Timothy,  Johnson,02/21/2022,Burleson,TX,565.0,timothy.johnson211@gmail.com,(972)547-9584,Active
+MBR-000971,Elizabeth,Hill,06/21/2018,Granbury,TX,690.0,elizabeth.hill807@gmail.com,(682)421-6787,Active
+MBR-000972,Larry,  Thomas,06/23/2024,Dallas,TX,625.0,larry.thomas464@gmail.com,(817)498-6655,Active
+MBR-000973,Paul,White,10/30/2015,North Richland Hills,TX,747.0,paul.white162@yahoo.com,(682)966-1594,Active
+MBR-000974,Michael,Taylor,10/12/2011,Haltom City,TX,627.0,michael.taylor955@yahoo.com,(682)400-3320,Active
+MBR-000975,Barbara,Flores,03/04/2011,Benbrook,TX,644.0,barbara.flores671@gmail.com,N/A,Active
+MBR-000976,Richard,Moore,01/04/2014,Watauga,TX,528.0,richard.moore128@gmail.com,N/A,Active
+MBR-000977,Robert,Allen,04/25/2021,Arlington,TX,643.0,robert.allen404@yahoo.com,(817)580-3554,Active
+MBR-000978,Joseph,Rivera,07/27/2015,Granbury,TX,486.0,joseph.rivera656@gmail.com,(817)168-7183,Active
+MBR-000979,Shirley,Robinson,07/09/2024,Haltom City,TX,553.0,shirley.robinson363@gmail.com,(972)869-5119,Active
+MBR-000980,MELISSA,Martin,08/04/2012,White Settlement,TX,740.0,melissa.martin926@gmail.com,(972)406-7121,Active
+MBR-000981,Emma,Carter,02/19/2013,Keller,TX,742.0,emma.carter406@yahoo.com,(817)332-8193,Closed
+MBR-000982,Ashley,Martinez,05/10/2024,Denton,TX,714.0,ashley.martinez303@yahoo.com,(214)576-7333,Active
+MBR-000983,Kathleen,Jones,11/27/2017,Southlake,TX,602.0,kathleen.jones199@yahoo.com,N/A,Active
+MBR-000984,Stephanie,Perez,10/01/2023,Euless,TX,676.0,stephanie.perez356@gmail.com,(214)476-1834,Active
+MBR-000985,Stephen,Campbell,09/14/2022,Haltom City,TX,679.0,stephen.campbell69@gmail.com,(682)944-7191,Active
+MBR-000986,Brandon,Harris,03/09/2016,Bedford,TX,587.0,brandon.harris226@yahoo.com,(214)112-3178,Active
+MBR-000987,Anthony,Smith,06/27/2011,Granbury,TX,800.0,anthony.smith880@yahoo.com,(972)905-2082,Active
+MBR-000988,Carol,Flores,05/07/2018,North Richland Hills,TX,750.0,carol.flores979@gmail.com,(214)746-6349,Active
+MBR-000989,Ashley,Anderson,07/02/2010,Hurst,TX,662.0,ashley.anderson495@yahoo.com,(214)610-7630,Inactive
+MBR-000990,Mark,Thomas,05/31/2020,Weatherford,TX,682.0,mark.thomas949@yahoo.com,(214)522-7551,Active
+MBR-000991,Kenneth,Brown,10/09/2019,Bedford,TX,696.0,kenneth.brown835@gmail.com,(972)584-1501,Active
+MBR-000992,Margaret,Sanchez,08/25/2019,Mansfield,TX,516.0,margaret.sanchez294@yahoo.com,(682)444-3608,Active
+MBR-000993,Jason,Young,01/27/2012,Weatherford,TX,660.0,jason.young53@yahoo.com,(682)133-3186,Active
+MBR-000994,Lisa,Martin,05/28/2017,Denton,TX,625.0,lisa.martin40@gmail.com,(817)140-1003,Active
+MBR-000995,Brandon,King,08/11/2011,White Settlement,TX,599.0,brandon.king292@yahoo.com,(972)720-5259,Active
+MBR-000996,Carol,Nelson,08/26/2013,North Richland Hills,TX,657.0,carol.nelson830@gmail.com,(214)400-7571,Active
+MBR-000997,Karen,Williams,10/13/2011,Arlington,TX,823.0,karen.williams602@gmail.com,(682)210-8355,Active
+MBR-000998,Edward,Davis,06/14/2024,Watauga,TX,731.0,edward.davis747@gmail.com,(682)584-1554,Active
+MBR-000999,Amy,Robinson,10/07/2024,Bedford,TX,634.0,amy.robinson803@gmail.com,(214)560-3177,Inactive
+MBR-001000,Nancy,Smith,09/06/2013,Burleson,TX,725.0,nancy.smith426@yahoo.com,(214)251-1688,Active
+MBR-001001,Mary,Green,02/03/2018,Southlake,TX,791.0,mary.green820@gmail.com,(214)102-2713,Active
+MBR-001002,Nicholas,Moore,11/27/2021,Bedford,TX,753.0,nicholas.moore911@gmail.com,(682)545-1645,Active
+MBR-001003,Edward,Nguyen,01/24/2024,Dallas,TX,684.0,edward.nguyen486@gmail.com,(972)574-4783,Active
+MBR-001004,Justin,  Taylor,11/09/2018,Burleson,TX,628.0,,(817)327-8360,Inactive
+MBR-001005,Rebecca,Johnson,04/03/2021,Keller,TX,735.0,rebecca.johnson788@gmail.com,(817)608-4496,Active
+MBR-001006,Daniel,  Wright,09/18/2024,Cleburne,TX,711.0,daniel.wright15@gmail.com,(817)436-5023,Active
+MBR-001007,Rebecca,Hernandez,07/26/2019,Cleburne,TX,751.0,rebecca.hernandez747@yahoo.com,(817)883-5731,Inactive
+MBR-001008,James,Thomas,06/25/2011,Burleson,TX,730.0,james.thomas989@yahoo.com,(972)445-2989,Active
+MBR-001009,Amanda,Garcia,12/03/2017,Granbury,TX,763.0,amanda.garcia398@gmail.com,(214)842-1298,Active
+MBR-001010,Eric,Hall,12/30/2021,Cleburne,TX,637.0,eric.hall491@gmail.com,(214)130-6573,Active
+MBR-001011,Helen,Green,11/04/2020,Benbrook,TX,785.0,helen.green766@gmail.com,(682)954-9099,Active
+MBR-001012,Pamela,Thompson,05/21/2010,Grapevine,TX,695.0,pamela.thompson665@yahoo.com,(817)422-8593,Active
+MBR-001013,Stephen,Campbell,08/23/2017,Denton,TX,846.0,,(214)351-6112,Closed
+MBR-001014,Dorothy,Harris,06/07/2013,Burleson,TX,624.0,dorothy.harris349@gmail.com,N/A,Active
+MBR-001015,Sarah,King,07/11/2023,White Settlement,TX,818.0,sarah.king873@yahoo.com,(817)197-5328,Active
+MBR-001016,Donna,Carter,05/05/2022,Watauga,TX,695.0,donna.carter935@gmail.com,(214)665-5874,Active
+MBR-001017,Michael,Rodriguez,07/18/2011,Denton,TX,627.0,michael.rodriguez972@gmail.com,(817)209-8814,Inactive
+MBR-001018,Ashley,Garcia,06/29/2017,Granbury,TX,641.0,ashley.garcia190@gmail.com,(817)745-1275,Active
+MBR-001019,Edward,Smith,09/24/2021,Burleson,TX,654.0,edward.smith591@gmail.com,(682)604-9971,Active
+MBR-001020,Emma,Clark,12/21/2022,Keller,TX,713.0,,(817)823-7884,Active
+MBR-001021,Pamela,Lopez,05/16/2024,Benbrook,TX,721.0,,(682)235-1658,Active
+MBR-001022,Joseph,Torres,01/24/2010,Cleburne,TX,634.0,joseph.torres735@yahoo.com,(817)523-2752,Closed
+MBR-001023,Timothy,Nelson,08/21/2021,Burleson,TX,678.0,timothy.nelson455@gmail.com,(682)311-7376,Active
+MBR-001024,Steven,Smith,09/20/2019,Euless,TX,850.0,steven.smith163@yahoo.com,(817)866-8516,Active
+MBR-001025,Jacob,Carter,11/17/2021,Dallas,TX,818.0,jacob.carter601@gmail.com,(214)759-4675,Active
+MBR-001026,Sarah,Johnson,04/05/2015,North Richland Hills,TX,714.0,sarah.johnson394@yahoo.com,(682)212-5385,Active
+MBR-001027,Robert,Jones,09/21/2022,Denton,TX,683.0,robert.jones248@gmail.com,(214)929-5002,Active
+MBR-001028,AMY,King,01/28/2010,Weatherford,TX,689.0,amy.king982@yahoo.com,(972)681-6591,Active
+MBR-001029,Emma,Gonzalez,02/08/2024,Bedford,TX,729.0,emma.gonzalez686@gmail.com,(214)198-7224,Active
+MBR-001030,Kevin,Young,02/08/2015,Hurst,TX,598.0,kevin.young981@gmail.com,(817)205-3244,Active
+MBR-001031,Stephen,Lewis,01/16/2013,Mansfield,TX,659.0,stephen.lewis756@yahoo.com,(214)199-1599,Inactive
+MBR-001032,Barbara,Perez,04/24/2015,White Settlement,TX,546.0,barbara.perez122@yahoo.com,(214)910-9796,Active
+MBR-001033,James,Young,11/08/2014,Hurst,TX,711.0,james.young909@yahoo.com,(817)615-4757,Active
+MBR-001034,Patricia,Mitchell,03/09/2012,Benbrook,TX,731.0,patricia.mitchell22@gmail.com,(682)276-3571,Active
+MBR-001035,Laura,Anderson,11/16/2023,Weatherford,TX,641.0,laura.anderson33@yahoo.com,(682)475-5908,Active
+MBR-001036,John,Wright,12/05/2013,Hurst,TX,805.0,john.wright112@yahoo.com,(682)316-2199,Active
+MBR-001037,Shirley,Nguyen,02/19/2023,Southlake,TX,581.0,shirley.nguyen908@gmail.com,(682)559-7961,Active
+MBR-001038,Robert,Gonzalez,02/07/2019,Keller,TX,562.0,robert.gonzalez385@gmail.com,(972)193-2889,Active
+MBR-001039,Ronald,Adams,01/09/2023,Weatherford,TX,697.0,ronald.adams55@gmail.com,(682)918-3071,Active
+MBR-001040,Shirley,Wright,02/06/2012,Burleson,TX,763.0,shirley.wright268@yahoo.com,(682)947-3921,Active
+MBR-001041,Charles,Flores,12/03/2019,Dallas,TX,814.0,charles.flores433@gmail.com,(817)855-6273,Active
+MBR-001041,Charles,Flores,12/03/2019,Dallas,TX,814.0,charles.flores433@gmail.com,(817)855-6273,Active
+MBR-001042,Patricia,Campbell,09/06/2010,Dallas,TX,643.0,patricia.campbell331@yahoo.com,(817)184-4119,Active
+MBR-001043,Nicole,Johnson,05/11/2013,Grapevine,TX,766.0,nicole.johnson321@yahoo.com,(817)913-9257,Active
+MBR-001044,Kathleen,Jackson,01/06/2021,Haltom City,TX,676.0,kathleen.jackson933@gmail.com,(682)279-5734,Active
+MBR-001045,Michael,Smith,11/11/2015,Mansfield,TX,666.0,michael.smith387@yahoo.com,(214)190-6922,Active
+MBR-001046,Angela,Anderson,03/19/2017,Grapevine,TX,750.0,,(214)941-3789,Active
+MBR-001047,Edward,Hill,10/11/2023,Watauga,TX,732.0,edward.hill472@gmail.com,(817)890-9615,Inactive
+MBR-001048,Jessica,Scott,11/14/2021,Fort Worth,TX,553.0,jessica.scott268@gmail.com,(214)977-3907,Active
+MBR-001049,David,Sanchez,01/03/2016,Mansfield,TX,798.0,david.sanchez159@gmail.com,(682)813-7554,Active
+MBR-001050,Christopher,Johnson,06/12/2015,Hurst,TX,790.0,christopher.johnson775@gmail.com,(214)839-9656,Active
+MBR-001051,Deborah,Hernandez,12/15/2017,Grapevine,TX,629.0,deborah.hernandez776@yahoo.com,(817)291-7607,Inactive
+MBR-001052,Robert,Nelson,11/25/2011,North Richland Hills,TX,711.0,robert.nelson387@yahoo.com,(214)983-5761,Active
+MBR-001053,Donald,Scott,03/27/2021,Haltom City,TX,719.0,donald.scott183@gmail.com,(214)439-3199,Active
+MBR-001054,Emily,Thomas,08/04/2014,Cleburne,TX,700.0,emily.thomas214@gmail.com,(214)298-9621,Active
+MBR-001055,Richard,Rivera,06/16/2023,Euless,TX,635.0,richard.rivera539@gmail.com,(817)657-1791,Active
+MBR-001056,Michelle,Anderson,11/18/2010,Hurst,TX,626.0,michelle.anderson876@yahoo.com,(817)185-9272,Active
+MBR-001057,Shirley,Smith,03/29/2010,Granbury,TX,677.0,shirley.smith214@gmail.com,(817)700-2748,Active
+MBR-001057,Shirley,Smith,03/29/2010,Granbury,TX,677.0,shirley.smith214@gmail.com,(817)700-2748,Active
+MBR-001058,Kevin,Walker,04/13/2024,North Richland Hills,TX,773.0,kevin.walker271@gmail.com,(817)842-7807,Inactive
+MBR-001059,Elizabeth,Martin,07/17/2023,Dallas,TX,723.0,elizabeth.martin828@yahoo.com,(214)211-9834,Closed
+MBR-001060,Matthew,Hernandez,07/15/2013,Cleburne,TX,650.0,matthew.hernandez622@gmail.com,(682)175-4934,Inactive
+MBR-001061,Emily,Rodriguez,08/28/2021,Watauga,TX,741.0,emily.rodriguez418@gmail.com,(817)949-7010,Active
+MBR-001062,Jennifer,King,02/26/2012,Denton,TX,452.0,jennifer.king765@yahoo.com,(817)143-4161,Active
+MBR-001063,Patricia,Harris,06/15/2013,Euless,TX,771.0,patricia.harris75@yahoo.com,(682)202-3875,Active
+MBR-001064,Susan,Young,01/19/2024,North Richland Hills,TX,540.0,susan.young435@gmail.com,(682)736-4454,Active
+MBR-001065,Shirley,Lewis,05/09/2014,Southlake,TX,651.0,shirley.lewis306@yahoo.com,(682)517-1755,Active
+MBR-001066,Robert,Hill,01/25/2011,Haltom City,TX,590.0,,(817)922-5740,Active
+MBR-001067,Scott,Rivera,11/06/2022,White Settlement,TX,576.0,scott.rivera966@gmail.com,(972)990-5856,Inactive
+MBR-001068,Barbara,King,08/18/2016,Weatherford,TX,772.0,barbara.king549@gmail.com,(972)752-5066,Active
+MBR-001069,Matthew,Lopez,04/09/2014,Denton,TX,642.0,matthew.lopez190@gmail.com,(682)401-3314,Active
+MBR-001070,Brenda,Walker,06/23/2013,Bedford,TX,707.0,brenda.walker656@yahoo.com,(972)131-8241,Active
+MBR-001071,Nicole,White,08/01/2024,Mansfield,TX,676.0,nicole.white921@gmail.com,(682)773-1286,Active
+MBR-001072,Charles,Hall,09/13/2022,White Settlement,TX,718.0,charles.hall445@yahoo.com,(682)515-6877,Active
+MBR-001073,Elizabeth,Wilson,05/03/2010,Watauga,TX,686.0,elizabeth.wilson494@gmail.com,(817)788-3387,Inactive
+MBR-001074,Paul,Sanchez,02/22/2022,Weatherford,TX,577.0,paul.sanchez247@gmail.com,(214)970-9339,Active
+MBR-001075,Angela,Ramirez,06/20/2023,Bedford,TX,759.0,angela.ramirez930@gmail.com,(817)156-2913,Active
+MBR-001076,Patricia,Brown,06/27/2011,Bedford,TX,640.0,patricia.brown541@yahoo.com,(214)182-5801,Active
+MBR-001077,Betty,Nguyen,12/11/2019,Hurst,TX,555.0,betty.nguyen643@yahoo.com,(214)325-5584,Closed
+MBR-001078,Sarah,Campbell,01/17/2019,Hurst,TX,645.0,sarah.campbell688@yahoo.com,(682)452-1318,Inactive
+MBR-001079,Christopher,Torres,07/01/2023,Dallas,TX,800.0,christopher.torres788@gmail.com,(817)506-9584,Active
+MBR-001080,Kenneth,Thompson,11/03/2013,Cleburne,TX,748.0,,(972)211-8654,Active
+MBR-001081,Nicole,Hernandez,01/04/2010,Bedford,TX,652.0,nicole.hernandez116@yahoo.com,(972)343-9409,Active
+MBR-001082,Laura,Jones,03/25/2022,Keller,TX,652.0,laura.jones315@yahoo.com,(817)843-3763,Active
+MBR-001083,Kimberly,Jackson,03/10/2011,Mansfield,TX,654.0,kimberly.jackson463@yahoo.com,(214)951-2664,Active
+MBR-001084,Nancy,Jones,04/25/2010,Granbury,TX,846.0,nancy.jones655@yahoo.com,(972)940-9785,Active
+MBR-001085,Gary,Campbell,08/09/2023,Euless,TX,710.0,gary.campbell240@gmail.com,(682)995-9836,Active
+MBR-001086,Pamela,Carter,02/01/2020,Fort Worth,TX,714.0,pamela.carter505@gmail.com,(972)512-2949,Active
+MBR-001087,Charles,Smith,03/10/2018,Fort Worth,TX,762.0,charles.smith386@gmail.com,(817)774-3800,Active
+MBR-001088,Mary,Roberts,07/07/2017,Watauga,TX,699.0,mary.roberts459@gmail.com,(214)514-3463,Active
+MBR-001089,Ryan,Carter,04/30/2023,Arlington,TX,659.0,ryan.carter571@gmail.com,(214)340-8044,Inactive
+MBR-001090,Kevin,Williams,07/29/2023,Mansfield,TX,664.0,kevin.williams679@gmail.com,(972)836-5108,Active
+MBR-001091,David,Adams,11/20/2011,Keller,TX,674.0,david.adams356@gmail.com,(972)929-1586,Active
+MBR-001092,Betty,Wright,09/23/2024,Granbury,TX,677.0,betty.wright27@gmail.com,(972)381-7233,Active
+MBR-001093,Deborah,Wright,05/13/2013,White Settlement,TX,738.0,deborah.wright589@gmail.com,(972)835-3521,Active
+MBR-001094,Kenneth,Baker,10/05/2021,Fort Worth,TX,684.0,kenneth.baker409@gmail.com,(682)477-1849,Active
+MBR-001095,Kevin,Baker,03/29/2020,Benbrook,TX,738.0,kevin.baker40@yahoo.com,(817)271-5580,Active
+MBR-001096,Ryan,Nguyen,11/03/2018,Cleburne,TX,673.0,ryan.nguyen144@yahoo.com,(214)290-5040,Inactive
+MBR-001097,Matthew,Wright,11/04/2022,Denton,TX,686.0,matthew.wright349@gmail.com,(214)181-6371,Active
+MBR-001098,Pamela,Hernandez,01/20/2019,Benbrook,TX,520.0,pamela.hernandez227@gmail.com,(682)451-9679,Active
+MBR-001099,MELISSA,White,07/30/2010,North Richland Hills,TX,753.0,melissa.white532@yahoo.com,(972)970-6314,Active
+MBR-001100,Helen,Davis,06/28/2021,Benbrook,TX,707.0,helen.davis77@gmail.com,(817)592-8933,Active
+MBR-001101,George,Wilson,11/06/2018,Keller,TX,759.0,george.wilson91@yahoo.com,(972)210-6353,Active
+MBR-001102,Shirley,Miller,05/05/2015,Hurst,TX,448.0,shirley.miller459@gmail.com,(817)116-5354,Active
+MBR-001103,Amanda,Lopez,03/29/2020,Bedford,TX,847.0,amanda.lopez631@gmail.com,(817)812-9580,Active
+MBR-001104,Angela,King,07/06/2022,Grapevine,TX,668.0,angela.king412@yahoo.com,(682)438-8014,Active
+MBR-001105,Kimberly,Martin,10/04/2013,Weatherford,TX,768.0,kimberly.martin505@gmail.com,(214)858-5581,Active
+MBR-001106,Brandon,  Jackson,12/27/2013,Haltom City,TX,596.0,brandon.jackson132@yahoo.com,N/A,Active
+MBR-001107,Sandra,Nguyen,07/09/2024,Mansfield,TX,729.0,sandra.nguyen75@gmail.com,N/A,Active
+MBR-001108,Jason,Scott,02/01/2014,Denton,TX,595.0,jason.scott291@yahoo.com,(972)495-9038,Active
+MBR-001109,Emily,Adams,04/09/2019,Weatherford,TX,630.0,emily.adams765@yahoo.com,(214)966-9442,Active
+MBR-001110,Daniel,Rivera,03/10/2022,Denton,TX,833.0,daniel.rivera755@yahoo.com,(817)229-4279,Active
+MBR-001111,Barbara,King,06/28/2015,Hurst,TX,664.0,barbara.king269@gmail.com,(682)834-8588,Active
+MBR-001112,Nancy,Thompson,10/07/2020,Euless,TX,697.0,nancy.thompson329@yahoo.com,(214)675-5352,Active
+MBR-001113,Ryan,Harris,10/01/2024,Watauga,TX,749.0,ryan.harris247@gmail.com,(972)154-3976,Active
+MBR-001114,Margaret,Torres,09/13/2024,Benbrook,TX,719.0,margaret.torres990@yahoo.com,(817)433-3978,Closed
+MBR-001115,Jason,Lee,09/28/2024,Benbrook,TX,692.0,jason.lee78@gmail.com,(682)666-3357,Inactive
+MBR-001116,Anthony,Lee,06/21/2022,Keller,TX,709.0,anthony.lee274@gmail.com,(972)842-8586,Active
+MBR-001117,Dorothy,Taylor,12/15/2022,North Richland Hills,TX,850.0,dorothy.taylor626@gmail.com,N/A,Active
+MBR-001118,Kevin,Thomas,05/14/2023,Euless,TX,675.0,kevin.thomas778@gmail.com,(972)836-2843,Active
+MBR-001119,Thomas,Martinez,08/19/2010,Denton,TX,696.0,thomas.martinez138@gmail.com,(972)846-1889,Inactive
+MBR-001120,Cynthia,King,04/17/2021,Haltom City,TX,764.0,cynthia.king885@gmail.com,(214)800-4450,Active
+MBR-001121,Linda,Carter,11/28/2010,Cleburne,TX,768.0,linda.carter18@yahoo.com,(214)341-7354,Inactive
+MBR-001122,Christopher,Wilson,10/18/2022,Dallas,TX,774.0,christopher.wilson24@gmail.com,(682)897-6705,Active
+MBR-001123,Betty,Smith,12/07/2022,Hurst,TX,731.0,betty.smith482@yahoo.com,(972)195-2886,Active
+MBR-001124,Ryan,Clark,06/19/2020,Weatherford,TX,588.0,ryan.clark55@yahoo.com,(817)218-2846,Active
+MBR-001125,Carol,Nelson,11/13/2021,Euless,TX,810.0,carol.nelson955@yahoo.com,(682)137-5810,Inactive
+MBR-001126,Joshua,  Roberts,09/07/2021,Denton,TX,588.0,joshua.roberts154@gmail.com,(214)280-2645,Inactive
+MBR-001127,Pamela,Nelson,04/29/2017,Weatherford,TX,704.0,pamela.nelson154@gmail.com,(972)231-1280,Inactive
+MBR-001128,David,Mitchell,09/11/2024,Fort Worth,TX,619.0,david.mitchell825@gmail.com,(214)231-9135,Inactive
+MBR-001129,Stephen,Lee,02/07/2022,Grapevine,TX,674.0,stephen.lee397@yahoo.com,(682)317-1443,Active
+MBR-001130,Jessica,White,10/11/2023,Granbury,TX,706.0,jessica.white491@yahoo.com,(972)384-1988,Active
+MBR-001131,Edward,Anderson,11/30/2012,Weatherford,TX,705.0,edward.anderson881@yahoo.com,(817)450-6233,Active
+MBR-001132,Andrew,Williams,08/08/2015,Arlington,TX,713.0,andrew.williams128@yahoo.com,(214)515-9132,Active
+MBR-001133,Emma,Baker,10/22/2017,Grapevine,TX,809.0,emma.baker292@gmail.com,(682)352-5116,Active
+MBR-001134,Jessica,Allen,10/01/2012,Arlington,TX,716.0,jessica.allen213@yahoo.com,(972)667-4765,Active
+MBR-001135,Eric,Miller,03/20/2018,Euless,TX,660.0,eric.miller110@yahoo.com,(817)989-2772,Active
+MBR-001136,Cynthia,Rivera,02/21/2015,Southlake,TX,757.0,cynthia.rivera82@gmail.com,(214)469-9694,Active
+MBR-001137,Sharon,Lopez,10/29/2017,Watauga,TX,775.0,sharon.lopez881@gmail.com,(214)557-7978,Closed
+MBR-001138,Betty,Hill,01/11/2019,Granbury,TX,581.0,betty.hill843@gmail.com,(972)360-8167,Active
+MBR-001139,Jacob,Johnson,09/20/2010,Arlington,TX,727.0,,(972)202-6088,Active
+MBR-001140,Cynthia,Davis,08/29/2015,Arlington,TX,736.0,cynthia.davis21@gmail.com,(214)699-4865,Active
+MBR-001141,Paul,Torres,01/25/2010,Southlake,TX,656.0,paul.torres256@gmail.com,(817)424-3820,Inactive
+MBR-001142,Ronald,Hill,11/14/2021,North Richland Hills,TX,790.0,ronald.hill655@yahoo.com,(817)303-8589,Active
+MBR-001143,Timothy,Miller,05/01/2013,Cleburne,TX,667.0,timothy.miller497@yahoo.com,(817)596-8862,Active
+MBR-001144,Angela,Nelson,04/04/2023,White Settlement,TX,690.0,angela.nelson297@gmail.com,(817)725-8308,Closed
+MBR-001145,Sarah,Johnson,10/22/2014,Euless,TX,666.0,sarah.johnson53@gmail.com,(682)208-2458,Active
+MBR-001146,Anna,Garcia,04/11/2015,Grapevine,TX,681.0,,(972)250-2834,Active
+MBR-001147,Angela,Johnson,08/02/2011,Watauga,TX,592.0,angela.johnson951@yahoo.com,(214)411-9767,Inactive
+MBR-001148,Pamela,Lewis,05/15/2021,Grapevine,TX,564.0,pamela.lewis449@gmail.com,(682)163-1420,Inactive
+MBR-001149,Timothy,Torres,11/29/2011,Keller,TX,807.0,timothy.torres610@gmail.com,(817)261-9370,Inactive
+MBR-001150,Karen,Robinson,10/18/2018,Benbrook,TX,612.0,karen.robinson966@gmail.com,(972)780-1819,Active
+MBR-001151,Joseph,Thompson,08/01/2019,Arlington,TX,600.0,joseph.thompson507@gmail.com,(682)281-8987,Active
+MBR-001152,Ryan,Nguyen,10/09/2024,Bedford,TX,507.0,ryan.nguyen187@yahoo.com,(817)719-7908,Active
+MBR-001153,Patricia,Moore,02/29/2020,Haltom City,TX,628.0,patricia.moore320@yahoo.com,(972)111-3505,Inactive
+MBR-001154,Edward,Moore,03/04/2022,Watauga,TX,574.0,edward.moore129@yahoo.com,(682)372-9759,Active
+MBR-001155,Karen,Carter,10/28/2021,Euless,TX,811.0,karen.carter617@gmail.com,(972)122-2038,Active
+MBR-001156,Scott,Green,08/30/2013,Cleburne,TX,760.0,scott.green732@gmail.com,(682)318-8784,Active
+MBR-001157,Richard,Sanchez,06/16/2017,Fort Worth,TX,624.0,richard.sanchez932@yahoo.com,(214)868-5949,Active
+MBR-001158,Kimberly,Johnson,09/21/2022,Hurst,TX,850.0,kimberly.johnson412@gmail.com,(972)873-8933,Active
+MBR-001159,Anna,Green,12/09/2010,Watauga,TX,758.0,anna.green555@gmail.com,(817)987-7565,Closed
+MBR-001160,Mark,Lee,12/18/2023,Granbury,TX,654.0,mark.lee942@yahoo.com,(972)371-9944,Active
+MBR-001161,Stephen,Lewis,12/27/2016,Haltom City,TX,480.0,stephen.lewis391@gmail.com,(817)435-6575,Active
+MBR-001162,Nancy,Brown,09/18/2020,Grapevine,TX,850.0,nancy.brown253@gmail.com,(972)811-1728,Active
+MBR-001163,Brenda,Sanchez,08/24/2014,Hurst,TX,,brenda.sanchez322@yahoo.com,(682)202-9432,Active
+MBR-001164,Pamela,Martin,01/18/2013,Keller,TX,548.0,pamela.martin544@gmail.com,(214)283-1769,Active
+MBR-001165,SHARON,Ramirez,02/27/2021,Hurst,TX,761.0,sharon.ramirez52@yahoo.com,(972)368-3651,Active
+MBR-001166,Patricia,  Torres,02/09/2020,Keller,TX,850.0,patricia.torres787@yahoo.com,(682)296-9297,Inactive
+MBR-001167,Thomas,Green,02/18/2014,Hurst,TX,,thomas.green345@gmail.com,(817)211-7496,Active
+MBR-001168,Nancy,Davis,12/03/2013,Weatherford,TX,725.0,nancy.davis302@yahoo.com,(972)538-8837,Active
+MBR-001169,Daniel,Moore,03/29/2012,Dallas,TX,727.0,,(214)646-9471,Active
+MBR-001170,Ronald,Walker,02/03/2021,Watauga,TX,748.0,,(817)277-6871,Active
+MBR-001171,Dorothy,Hernandez,04/28/2024,Hurst,TX,740.0,dorothy.hernandez78@yahoo.com,(817)268-1876,Active
+MBR-001172,Deborah,Carter,12/09/2021,Arlington,TX,702.0,deborah.carter473@gmail.com,(682)477-5337,Active
+MBR-001173,Steven,White,01/08/2016,Arlington,TX,688.0,steven.white33@gmail.com,(972)360-6005,Active
+MBR-001174,Sarah,Gonzalez,06/16/2013,Euless,TX,674.0,sarah.gonzalez293@gmail.com,(972)798-2390,Active
+MBR-001175,Lisa,Young,10/22/2013,Fort Worth,TX,619.0,lisa.young197@gmail.com,N/A,Active
+MBR-001176,Deborah,Thomas,12/08/2010,Burleson,TX,657.0,deborah.thomas337@gmail.com,(682)133-7334,Active
+MBR-001177,Sandra,Perez,02/24/2015,Keller,TX,544.0,sandra.perez13@yahoo.com,(817)627-2132,Active
+MBR-001178,Daniel,Moore,09/13/2015,Burleson,TX,672.0,daniel.moore939@gmail.com,(214)367-5290,Active
+MBR-001179,Margaret,Lewis,05/23/2022,Denton,TX,600.0,margaret.lewis16@gmail.com,(214)346-3020,Active
+MBR-001180,Larry,Nguyen,07/19/2019,Benbrook,TX,591.0,larry.nguyen541@gmail.com,(682)882-1998,Inactive
+MBR-001181,Sarah,Taylor,06/15/2018,Mansfield,TX,694.0,sarah.taylor38@gmail.com,(972)827-5139,Active
+MBR-001182,Donald,Torres,04/25/2012,Weatherford,TX,791.0,donald.torres116@gmail.com,(972)130-7420,Inactive
+MBR-001183,Pamela,Scott,10/04/2014,Granbury,TX,753.0,,(817)115-4032,Active
+MBR-001184,Patricia,Allen,02/29/2024,White Settlement,TX,554.0,patricia.allen688@gmail.com,(972)832-7328,Active
+MBR-001185,Donald,Scott,06/28/2016,Southlake,TX,600.0,donald.scott666@yahoo.com,(817)703-9361,Active
+MBR-001186,Kenneth,Martin,03/02/2019,Benbrook,TX,755.0,,(817)135-1059,Active
+MBR-001187,Kimberly,Perez,03/13/2023,Bedford,TX,601.0,kimberly.perez449@gmail.com,(214)120-1754,Active
+MBR-001187,Kimberly,Perez,03/13/2023,Bedford,TX,601.0,kimberly.perez449@gmail.com,(214)120-1754,Active
+MBR-001188,Melissa,Martin,12/10/2011,Dallas,TX,662.0,melissa.martin721@gmail.com,(682)388-1025,Active
+MBR-001189,Jacob,Williams,09/22/2021,White Settlement,TX,724.0,jacob.williams16@yahoo.com,(682)540-7876,Active
+MBR-001190,Nicole,Robinson,05/07/2010,Haltom City,TX,602.0,nicole.robinson240@gmail.com,(817)583-9669,Active
+MBR-001191,Nancy,White,03/04/2020,Dallas,TX,688.0,nancy.white584@gmail.com,(972)123-4878,Inactive
+MBR-001192,Eric,Torres,07/16/2022,Granbury,TX,573.0,eric.torres390@yahoo.com,(817)666-1095,Active
+MBR-001193,Angela,Lee,08/22/2012,Euless,TX,631.0,angela.lee499@gmail.com,(817)787-3260,Active
+MBR-001194,Charles,Moore,01/23/2012,White Settlement,TX,705.0,charles.moore730@gmail.com,(682)546-5362,Active
+MBR-001195,Dorothy,Campbell,03/21/2018,Burleson,TX,552.0,,(214)797-5811,Active
+MBR-001195,Dorothy,Campbell,03/21/2018,Burleson,TX,552.0,,(214)797-5811,Active
+MBR-001196,Thomas,White,02/22/2021,Fort Worth,TX,715.0,thomas.white728@gmail.com,(817)164-7542,Inactive
+MBR-001197,KIMBERLY,Walker,12/26/2013,Haltom City,TX,678.0,kimberly.walker167@gmail.com,(214)838-5587,Active
+MBR-001198,Laura,Thomas,01/09/2012,Weatherford,TX,724.0,laura.thomas430@yahoo.com,(214)106-8888,Active
+MBR-001199,Melissa,Smith,09/10/2023,Granbury,TX,697.0,melissa.smith865@gmail.com,(817)935-2411,Inactive
+MBR-001200,Jeffrey,Brown,10/10/2022,Weatherford,TX,789.0,,(972)172-8048,Active

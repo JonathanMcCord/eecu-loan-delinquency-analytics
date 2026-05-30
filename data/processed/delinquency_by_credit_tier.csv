@@ -1,0 +1,7 @@
+credit_tier,member_count,late_payments,total_payments,delinquency_rate_pct
+650-699 (Fair),261,2553,8349,30.6
+Below 600 (Poor),155,1479,4880,30.3
+600-649 (Below Avg),209,2044,6826,29.9
+750+ (Excellent),204,1980,6669,29.7
+700-749 (Good),234,2290,7753,29.5
+Unknown,18,142,523,27.2

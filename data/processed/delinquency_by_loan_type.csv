@@ -1,0 +1,11 @@
+loan_type,total_loans,late_payments,total_payments,delinquency_rate_pct,amount_at_risk
+Personal loan,5,19,61,31.1,1416.88
+Student Loan,276,1060,3428,30.9,105310.82
+Auto Loan,863,3280,10769,30.5,813233.6
+Mortgage,396,1511,5010,30.2,562162.9400000001
+Credit Card,409,1534,5109,30.0,2104801.19
+Personal Loan,574,2102,7216,29.1,377527.74
+Home Equity,254,911,3135,29.1,247131.28
+Credit card,10,35,123,28.5,35132.28
+Student loan,4,13,52,25.0,996.55
+Auto loan,9,23,97,23.7,3647.5099999999998
